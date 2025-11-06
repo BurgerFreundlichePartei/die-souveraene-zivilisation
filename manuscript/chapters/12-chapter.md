@@ -1,4 +1,4 @@
-# **Kapitel 12 — Blockchain, Zero-Knowledge und Vertrauensräume**
+# **Kapitel 12 — Blockchain, Zero-Knowledge und Vertrauensräume** {#-chapter-12}
 
 > *„Vertrauen ist die einzige Währung, die sich nicht drucken lässt – aber berechnen.“*
 
@@ -9,7 +9,7 @@
 Wenn Vertrauen früher eine moralische Entscheidung war,  
 ist es heute eine **technische Eigenschaft**.  
 Digitale Systeme können Integrität beweisen,  
-ohne Autorität zu beanspruchen.  
+ohne Autorität zu beanspruchen.
 
 Das politische Profil nutzt diese Logik:  
 Es ersetzt den Mittler durch Mathematik.  
@@ -23,14 +23,14 @@ die weder Bestechung noch Vergessen kennen.
 
 Eine Blockchain ist kein Konto und keine Währung.  
 Sie ist ein **verteiltes Protokoll**,  
-das Aufrichtigkeit dokumentiert.  
+das Aufrichtigkeit dokumentiert.
 
 Jeder Eintrag ist ein Versprechen:  
 unveränderlich, überprüfbar, transparent.  
 Doch im politischen Profil ist sie kein Allsehendes Auge,  
 sondern ein **ethisches Rückgrat** –  
 sie beweist *was geschah*,  
-nicht *wer* es tat.  
+nicht *wer* es tat.
 
 Damit trennt sich Verantwortung von Überwachung.  
 Die Gesellschaft erinnert sich,  
@@ -41,16 +41,16 @@ ohne den Menschen zu verfolgen.
 ### **12.3 Zero-Knowledge-Proofs – Wissen ohne Offenbarung**
 
 Die vielleicht eleganteste Idee der Kryptographie:  
-etwas beweisen, ohne es zu zeigen.  
+etwas beweisen, ohne es zu zeigen.
 
 Zero-Knowledge-Proofs (ZKPs) ermöglichen genau das.  
 Ein Bürger kann nachweisen,  
 dass er stimmberechtigt ist,  
-ohne seine Identität offenzulegen.  
+ohne seine Identität offenzulegen.
 
 Der Staat kann bestätigen,  
 dass eine Entscheidung legitim ist,  
-ohne die Daten aller Beteiligten zu speichern.  
+ohne die Daten aller Beteiligten zu speichern.
 
 So entsteht **Nachvollziehbarkeit ohne Nacktheit**.  
 Vertrauen wird zur Funktion,  
@@ -64,13 +64,13 @@ Zwischen absoluter Transparenz und totaler Geheimhaltung
 liegt der **Vertrauensraum** –  
 ein digitaler Bereich,  
 in dem Interaktionen kryptografisch gesichert,  
-aber kontextuell begrenzt sind.  
+aber kontextuell begrenzt sind.
 
 Ein Vertrauensraum entsteht,  
 wenn mehrere Profile sich gegenseitig authentifizieren,  
 ohne zentrale Instanz.  
 Er existiert nur für die Dauer des Vorgangs,  
-verschwindet danach spurlos.  
+verschwindet danach spurlos.
 
 Das ist Governance im Quantenmodus:  
 temporär, eindeutig, kontrolliert.
@@ -81,17 +81,17 @@ temporär, eindeutig, kontrolliert.
 
 Eine Gemeinde beschließt,  
 über den Standort einer neuen Klinik abzustimmen.  
-Jedes Profil erhält Zugang zu einem Vertrauensraum.  
+Jedes Profil erhält Zugang zu einem Vertrauensraum.
 
 Dort werden Argumente ausgetauscht,  
 Informationen geteilt, Stimmen abgegeben.  
 Alle Transaktionen sind verschlüsselt,  
 jede Entscheidung signiert,  
-aber kein Name gespeichert.  
+aber kein Name gespeichert.
 
 Am Ende entsteht ein Ergebnis –  
 nachvollziehbar,  
-aber **nicht rückverfolgbar**.  
+aber **nicht rückverfolgbar**.
 
 Das Vertrauen liegt im Code,  
 nicht in der Kontrolle.
@@ -102,11 +102,11 @@ nicht in der Kontrolle.
 
 Oft wird Blockchain mit Energieverschwendung assoziiert.  
 Doch moderne Protokolle – Proof-of-Stake, DAGs, Layer-2-Lösungen –  
-haben das verändert.  
+haben das verändert.
 
 Vertrauen lässt sich heute **leichtgewichtig** erzeugen:  
 mit minimalem Rechenaufwand,  
-aber maximaler Transparenz.  
+aber maximaler Transparenz.
 
 Der Staat von morgen braucht keine Serverfarmen,  
 sondern **Knoten aus Überzeugung** –  
@@ -120,12 +120,12 @@ ohne zentrale Macht.
 Wenn jede Bürgerin ein Knoten ist,  
 wird Kryptographie zur **gesellschaftlichen Praxis**.  
 Nicht mehr „die IT“ schützt Daten,  
-sondern alle gemeinsam.  
+sondern alle gemeinsam.
 
 Jeder, der teilnimmt,  
 stärkt das Netz.  
 Jede neue Verbindung  
-erhöht die Sicherheit des Ganzen.  
+erhöht die Sicherheit des Ganzen.
 
 So entsteht eine **soziale Kryptographie**,  
 in der Vertrauen keine Ressource mehr ist,  
@@ -138,12 +138,12 @@ sondern eine, die **zirkuliert**.
 
 Blockchain und Zero-Knowledge sind nicht nur Technik,  
 sie sind Ausdruck einer neuen Ethik:  
-Ehrlichkeit durch Struktur.  
+Ehrlichkeit durch Struktur.
 
 In einer solchen Ordnung braucht niemand mehr glauben,  
 weil jeder prüfen kann.  
 Das ist das Ende der Bürokratie –  
-und der Anfang der **mathematisch überprüfbaren Verantwortung**.  
+und der Anfang der **mathematisch überprüfbaren Verantwortung**.
 
 Der Staat verliert damit seine Allmacht,  
 aber gewinnt seine **Glaubwürdigkeit** zurück.  

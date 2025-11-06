@@ -33,7 +33,7 @@ patch_md = true
 fix_inplace = false
 
 [tool.mypy]
-python_version = "3.11"
+python_version = "3.12"
 ignore_missing_imports = true
 no_implicit_optional = false
 check_untyped_defs = false
@@ -49,7 +49,7 @@ fix = true
 unsafe-fixes = true
 
 [tool.poetry.dependencies]
-python = ">=3.9,<4.0"
+python = ">=3.12,<4.0"
 pandas = "^2.3.2"
 python-dotenv = "^1.1.0"
 requests = "^2.32.5"

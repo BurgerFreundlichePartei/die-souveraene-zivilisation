@@ -1,4 +1,4 @@
-# Vorwort
+# Vorwort {#-vorwort}
 
 > *„Demokratie beginnt dort, wo der Mensch aufhört, nur verwaltet zu werden – und anfängt, sich selbst zu gestalten.“*
 

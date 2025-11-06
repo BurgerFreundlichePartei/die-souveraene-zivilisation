@@ -1,16 +1,32 @@
-title: "Die souveraene Zivilisation"
-subtitle: ""
+series: "Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung"
+title: "Die souveräne Zivilisation"
+subtitle: "Architektur der Freiheit – Entwürfe für eine souveräne Gesellschaft"
 author: "Asterios Raptis"
 isbn:
   ebook: ""
   paperback: ""
   hardcover: ""
-edition: "1"
-publisher: ""
+edition: "1. Auflage"
+publisher: "Conscious Path Publishing"
 date: "2025"
-language: "en"
-description: "Konzept und Manuskript zur Neuordnung von Staat, Gesellschaft und digitaler Souveränität. Das ist die Fortsetzung des ersten Bandes Das lebende Stimmrecht."
-keywords: []
-cover_image: "assets/covers/cover.png"
+lang: "de"
+language: "de"
+description: >
+  Zweiter Band der Reihe *Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung*.
+  Dieses Werk entwickelt das Konzept der digitalen Souveränität und der lebenden Demokratie weiter.
+  Es beschreibt die Grundlagen einer souveränen Zivilisation, in der Verantwortung, Technologie und Bewusstsein
+  eine neue Ordnung bilden – eine Architektur der Freiheit.
+keywords:
+  - politische Philosophie
+  - digitale Souveränität
+  - Gesellschaftsvertrag
+  - Demokratie
+  - Ethik
+  - Freiheit
+  - Staat und Bürger
+  - Zukunft der Politik
+cover-image: "assets/covers/cover.png"
 output_formats: ["pdf", "epub", "docx"]
-kdp_enabled: false
+kdp_enabled: true
+epub-stylesheet:
+  - config/styles.css

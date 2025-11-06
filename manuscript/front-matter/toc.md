@@ -1,6 +1,6 @@
-# 📘 Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung
+# Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung
 
-0. [Vorwort – Zwischen Stillstand und Möglichkeit](#-vorwort)
+[Vorwort – Zwischen Stillstand und Möglichkeit](#-vorwort)
 
 ---
 
@@ -49,9 +49,6 @@
 
 ---
 
-## Epilog – Die Wiedergeburt der Demokratie
+## Epilog
 
-26. [Das politische Profil als lebendes Stimmrecht](26_lebendes_stimmrecht.md)
-27. [Ausblick – Vom Konzept zur Umsetzung](27_ausblick.md)
-
----
+[Die Rückkehr des Bewusstseins](#-epilog)
