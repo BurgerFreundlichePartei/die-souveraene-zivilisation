@@ -1,6 +1,6 @@
 # Impressum {#-imprint}
 
-**Titel:** _Das lebende Stimmrecht – Vom Untertan zum Auftraggeber_  
+**Titel:** _Die souveräne Zivilisation – Architektur der Freiheit – Entwürfe für eine souveräne Gesellschaft_  
 **Autor:** Asterios Raptis  
 **Verlag (Imprint):** Conscious Path Publishing  
 **Ausgabe:** Erste Auflage (2025)
