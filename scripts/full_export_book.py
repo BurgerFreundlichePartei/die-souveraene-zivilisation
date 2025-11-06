@@ -156,7 +156,7 @@ def get_metadata_language():
     with METADATA_FILE.open("r", encoding="utf-8") as f:
         try:
             metadata = yaml.safe_load(f)
-            return metadata.get("language")
+            return metadata.get("language") or metadata.get("lang")
         except yaml.YAMLError as e:
             print(f"⚠️ Failed to parse {METADATA_FILE}: {e}")
             return None
@@ -275,6 +275,10 @@ def compile_book(
     if not md_files:
         print(f"❌ No Markdown files found for format {format}. Skipping.")
         return
+    # Resource-Paths: assets (Bilder), config (CSS, evtl. Cover), Projektwurzel (Fallback)
+    assets_abs = os.path.abspath("./assets")
+    config_abs = os.path.abspath("./config")
+    root_abs = os.path.abspath(".")
 
     # Construct Pandoc command
     pandoc_cmd = [
@@ -283,7 +287,7 @@ def compile_book(
         "--from=markdown",
         f"--to={FORMATS[format]}",
         f"--output={output_path}",
-        f"--resource-path={os.path.abspath('./assets')}",  # To resolve images and assets
+        f"--resource-path={assets_abs}:{config_abs}:{root_abs}",  # To resolve images and assets
         f"--metadata-file={METADATA_FILE}",
     ] + md_files  # Append all markdown files to compile
 
