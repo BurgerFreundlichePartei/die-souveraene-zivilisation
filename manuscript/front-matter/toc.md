@@ -1,60 +1,57 @@
 # 📘 Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung
 
-**Konzept und Manuskript zur Neuordnung von Staat, Gesellschaft und digitaler Souveränität**  
-_Fortsetzung von „Das lebende Stimmrecht“_
+0. [Vorwort – Zwischen Stillstand und Möglichkeit](#-vorwort)
 
 ---
 
 ## Teil I – Grundlagen der digitalen Souveränität
 
-1. [Einleitung – Warum das politische Profil notwendig ist](chapters/01_einleitung.md)
-2. [Vom Bürger zum Datenpunkt – Wie Repräsentation verschwand](chapters/02_datenpunkt.md)
-3. [Digitale Identität vs. politische Identität](chapters/03_digitale_identitaet.md)
-4. [Vertrauen, Transparenz und Verschlüsselung als neue Staatslogik](chapters/04_vertrauen_transparenz.md)
-5. [Das Ende des analogen Staates – Papier, Kontrolle und Trägheit](chapters/05_analoges_ende.md)
+1. [Einleitung – Warum das politische Profil notwendig ist](#-chapter-1)
+2. [Vom Bürger zum Datenpunkt – Wie Repräsentation verschwand](#-chapter-2)
+3. [Digitale Identität vs. politische Identität](#-chapter-3)
+4. [Vertrauen, Transparenz und Verschlüsselung als neue Staatslogik](#-chapter-4)
+5. [Das Ende des analogen Staates – Papier, Kontrolle und Trägheit](#-chapter-5)
 
 ---
 
 ## Teil II – Architektur des politischen Profils
 
-6. [Grundprinzip: Selbstbestimmung durch digitale Profile](chapters/06_selbstbestimmung.md)
-7. [Private Souveränität – Standardmäßig verschlüsselt und anonym](chapters/07_private_souveraenitaet.md)
-8. [Öffentliche Teilhabe – Aktivierungsmodus für engagierte Bürger](chapters/08_oeffentliche_teilhabe.md)
-9. [Reversibilität – Jederzeit zwischen privat und öffentlich wechseln](chapters/09_reversibilitaet.md)
-10. [Keine Nachteile für Zurückhaltung – Gleichberechtigung digitaler Bürger](chapters/10_gleichberechtigung.md)
-11. [Politische Profile als dezentrale Infrastruktur](chapters/11_dezentrale_infrastruktur.md)
-12. [Blockchain, Zero-Knowledge und Vertrauensräume](chapters/12_blockchain_trust.md)
-13. [Datensouveränität statt Datenherrschaft – Das neue Verhältnis zwischen Bürger und Staat](chapters/13_datensouveraenitaet.md)
+6. [Grundprinzip: Selbstbestimmung durch digitale Profile](#-chapter-6)
+7. [Private Souveränität – Standardmäßig verschlüsselt und anonym](#-chapter-7)
+8. [Öffentliche Teilhabe – Aktivierungsmodus für engagierte Bürger](#-chapter-8)
+9. [Reversibilität – Jederzeit zwischen privat und öffentlich wechseln](#-chapter-9)
+10. [Keine Nachteile für Zurückhaltung – Gleichberechtigung digitaler Bürger](#-chapter-10)
+11. [Politische Profile als dezentrale Infrastruktur](#-chapter-11)
+12. [Blockchain, Zero-Knowledge und Vertrauensräume](#-chapter-12)
+13. [Datensouveränität statt Datenherrschaft – Das neue Verhältnis zwischen Bürger und Staat](#-chapter-13)
 
 ---
 
 ## Teil III – Gesellschaft im Wandel
 
-14. [Der Bürger als Auftraggeber – Dienstleistungsstaat 2.0](chapters/14_buerger_auftraggeber.md)
-15. [Demokratie als Betriebssystem – Updates, Patches und Beteiligung](chapters/15_demokratie_betriebssystem.md)
-16. [Von der Wahl zur Wirkung – Permanente politische Präsenz](chapters/16_wahl_wirkung.md)
-17. [Digitale Teilhabe über Grenzen hinweg – Europäische Integration neu gedacht](chapters/17_digitale_teilhabe_eu.md)
-18. [Souveränität im Alltag – Bildung, Verwaltung, Gesundheit, Arbeit](chapters/18_souveraenitaet_alltag.md)
-19. [Reformen durch Architektur – Nicht durch Gesetze allein](chapters/19_reformen_architektur.md)
+14. [Der Bürger als Auftraggeber – Dienstleistungsstaat 2.0](#-chapter-14)
+15. [Demokratie als Betriebssystem – Updates, Patches und Beteiligung](#-chapter-15)
+16. [Von der Wahl zur Wirkung – Permanente politische Präsenz](#-chapter-16)
+17. [Digitale Teilhabe über Grenzen hinweg – Europäische Integration neu gedacht](#-chapter-17)
+18. [Souveränität im Alltag – Bildung, Verwaltung, Gesundheit, Arbeit](#-chapter-18)
+19. [Reformen durch Architektur – Nicht durch Gesetze allein](#-chapter-19)
 
 ---
 
 ## Teil IV – Ethik, Macht und Zukunft
 
-20. [Ethik der Transparenz – Das neue Gleichgewicht zwischen Freiheit und Verantwortung](chapters/20_ethik_transparenz.md)
-21. [Algorithmische Fairness – Wie KI das politische Profil interpretiert](chapters/21_algorithmische_fairness.md)
-22. [Digitale Würde – Schutz der Identität als Menschenrecht](chapters/22_digitale_wuerde.md)
-23. [Globale Perspektive – Vom Bürgerstaat zur Menschheitsverwaltung](chapters/23_globale_perspektive.md)
-24. [Von Kontrolle zu Kooperation – Das Ende der bürokratischen Macht](chapters/24_kontrolle_kooperation.md)
-25. [Souveränität als gelebte Ethik – Der neue Gesellschaftsvertrag](chapters/25_souveraenitaet_ethik.md)
+20. [Ethik der Transparenz – Das neue Gleichgewicht zwischen Freiheit und Verantwortung](#-chapter-20)
+21. [Algorithmische Fairness – Wie KI das politische Profil interpretiert](#-chapter-21)
+22. [Digitale Würde – Schutz der Identität als Menschenrecht](#-chapter-22)
+23. [Globale Perspektive – Vom Bürgerstaat zur Menschheitsverwaltung](#-chapter-23)
+24. [Von Kontrolle zu Kooperation – Das Ende der bürokratischen Macht](#-chapter-24)
+25. [Souveränität als gelebte Ethik – Der neue Gesellschaftsvertrag](#-chapter-25)
 
 ---
 
 ## Epilog – Die Wiedergeburt der Demokratie
 
-26. [Das politische Profil als lebendes Stimmrecht](chapters/26_lebendes_stimmrecht.md)
-27. [Ausblick – Vom Konzept zur Umsetzung](chapters/27_ausblick.md)
+26. [Das politische Profil als lebendes Stimmrecht](26_lebendes_stimmrecht.md)
+27. [Ausblick – Vom Konzept zur Umsetzung](27_ausblick.md)
 
 ---
-
-© 2025 Asterios Raptis • BFREI – Bürgerfreundliche Reform-Initiative  

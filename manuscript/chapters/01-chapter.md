@@ -1,4 +1,4 @@
-# Kapitel 1 – Warum das politische Profil notwendig ist
+# Kapitel 1 – Warum das politische Profil notwendig ist {#-chapter-1}
 
 > *„Wir leben in einer Welt, in der Daten mehr über uns wissen als der Staat – und der Staat weniger über uns weiß, als er sollte.“*
 
