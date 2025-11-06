@@ -172,6 +172,3 @@ So entsteht eine Gesellschaft,
 die nicht mehr zwischen Ökonomie und Ökologie trennt,  
 weil sie verstanden hat:  
 Beides sind **Kreisläufe desselben Lebens.**
-
----
-ja 

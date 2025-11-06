@@ -25,7 +25,6 @@ keywords:
   - Freiheit
   - Staat und Bürger
   - Zukunft der Politik
-cover-image: "assets/covers/cover.png"
 output_formats: ["pdf", "epub", "docx"]
 kdp_enabled: true
 epub-stylesheet:
