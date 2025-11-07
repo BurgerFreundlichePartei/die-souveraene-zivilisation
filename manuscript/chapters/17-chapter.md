@@ -1,4 +1,8 @@
-# **Kapitel 17 — Digitale Teilhabe über Grenzen hinweg – Europäische Integration neu gedacht** {#-chapter-17}
+# Kapitel 17 {#-chapter-17}
+
+## Digitale Teilhabe über Grenzen hinweg
+
+### Europäische Integration neu gedacht
 
 > *„Europa ist kein Ort – es ist eine Schnittstelle.“*
 
@@ -37,7 +41,9 @@ entscheiden, abstimmen, Projekte starten –
 ohne bürokratische Mauern,  
 aber mit **kryptografischer Integrität**.
 
-### **Mini-Szene — Die europäische Initiative**
+### Mini-Szene
+
+#### Die europäische Initiative
 
 Ein Netzwerk aus Bürgern, Forschern und Unternehmern  
 möchte ein europäisches Solarprogramm gründen.  
@@ -125,7 +131,9 @@ lokal angepasst, global verständlich.
 So entsteht kein Weltstaat,  
 sondern ein **Weltstandard der Integrität**.
 
-### **Mini-Szene — Die Wahl über Kontinente hinweg**
+### Mini-Szene
+
+#### Die Wahl über Kontinente hinweg
 
 Ein europäischer Student in Kanada  
 stimmt über ein EU-weites Forschungsprogramm ab.  
@@ -141,7 +149,9 @@ So wird Zugehörigkeit neu definiert:
 nicht durch Ort,  
 sondern durch **Teilnahme.**
 
-### **Fazit — Europa als Betriebssystem der Kooperation**
+### Fazit
+
+#### Europa als Betriebssystem der Kooperation
 
 Europa kann wieder Vorbild werden –  
 nicht durch Macht,  

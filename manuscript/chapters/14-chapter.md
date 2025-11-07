@@ -1,4 +1,8 @@
-# **Kapitel 14 — Der Bürger als Auftraggeber – Dienstleistungsstaat 2.0** {#-chapter-14}
+# **Kapitel 14  {#-chapter-14}
+
+## Der Bürger als Auftraggeber
+
+### Dienstleistungsstaat 2.0
 
 > *„Der Staat ist nicht der Vater der Gesellschaft – er ist ihr Dienstleister.“*
 
@@ -39,7 +43,9 @@ der Staat reagiert **in Echtzeit**.
 Anträge werden zu Aufträgen,  
 Pflichten zu **Kooperationsverhältnissen**.
 
-### **Mini-Szene — Der Auftrag Energie**
+### Mini-Szene
+
+#### Der Auftrag Energie
 
 Eine Bürgerin bemerkt,  
 dass ihre Gemeinde zu viel Energie verschwendet.  
@@ -125,7 +131,9 @@ Das Verhältnis zwischen Bürger und Verwaltung
 wird dadurch nicht schwächer,  
 sondern **partnerschaftlich produktiver**.
 
-### **Mini-Szene — Die Verwaltungsarchitektin**
+### Mini-Szene
+
+#### Die Verwaltungsarchitektin
 
 Sie arbeitet in einer Behörde,  
 die keine Anträge mehr entgegennimmt.  
@@ -143,7 +151,9 @@ sondern weil sie **Funktion hat**.
 Der Dienstleistungsstaat braucht genau diese neue Haltung:  
 Verwaltung als **Design**, nicht als Kontrolle.
 
-### **Fazit — Der Bürger als Souverän und Kunde**
+### Fazit
+
+#### Der Bürger als Souverän und Kunde
 
 Wenn der Staat ein Dienstleister ist,  
 endet die Epoche der Unterwerfung.

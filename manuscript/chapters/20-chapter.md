@@ -1,4 +1,6 @@
-# **Kapitel 20 — Bildung, Bewusstsein und digitale Mündigkeit** {#-chapter-20}
+# Kapitel 20 {#-chapter-20}
+
+## Bildung, Bewusstsein und digitale Mündigkeit
 
 > *„Freiheit ohne Bildung ist Zufall.  
 Technologie ohne Bewusstsein ist Gefahr.“*
@@ -38,7 +40,9 @@ Ein mündiger Mensch erkennt:
 Digitale Bildung ist daher kein IT-Unterricht,  
 sondern **Bewusstseinsbildung im Umgang mit Unsichtbarkeit.**
 
-### **Mini-Szene — Der Unterricht im Jahr 2035**
+### Mini-Szene
+
+#### Der Unterricht im Jahr 2035
 
 Die Klasse sitzt nicht vor Tablets,  
 sondern in einem Kreis.  
@@ -111,7 +115,9 @@ ethisch, technologisch, sozial.
 So wird Bildung zum **Betriebssystem der Demokratie** –  
 offen, anpassbar, nie abgeschlossen.
 
-### **Mini-Szene — Die Bürgerakademie**
+### Mini-Szene
+
+#### Die Bürgerakademie
 
 Eine 60-jährige Bürgerin  
 besucht eine Online-Akademie der Regierung.  
@@ -143,7 +149,9 @@ weil sie nicht blind glaubt.
 Ein Land, das in Bildung investiert,  
 investiert in **Sicherheitsarchitektur aus Bewusstsein.**
 
-### **Fazit — Die Bildung des Erwachens**
+### Fazit
+
+#### Die Bildung des Erwachens
 
 Bildung ist kein Systemziel mehr,  
 sondern die **Energiequelle des Staates.**

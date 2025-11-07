@@ -1,4 +1,6 @@
-# **Kapitel 12 — Blockchain, Zero-Knowledge und Vertrauensräume** {#-chapter-12}
+# Kapitel 12  {#-chapter-12}
+
+## Blockchain, Zero-Knowledge und Vertrauensräume
 
 > *„Vertrauen ist die einzige Währung, die sich nicht drucken lässt – aber berechnen.“*
 
@@ -32,7 +34,9 @@ Damit trennt sich Verantwortung von Überwachung.
 Die Gesellschaft erinnert sich,  
 ohne den Menschen zu verfolgen.
 
-### **Zero-Knowledge-Proofs – Wissen ohne Offenbarung**
+### Zero-Knowledge-Proofs
+
+#### Wissen ohne Offenbarung
 
 Die vielleicht eleganteste Idee der Kryptographie:  
 etwas beweisen, ohne es zu zeigen.
@@ -67,7 +71,9 @@ verschwindet danach spurlos.
 Das ist Governance im Quantenmodus:  
 temporär, eindeutig, kontrolliert.
 
-### **Mini-Szene — Die stille Abstimmung**
+### Mini-Szene
+
+#### Die stille Abstimmung
 
 Eine Gemeinde beschließt,  
 über den Standort einer neuen Klinik abzustimmen.  
@@ -118,7 +124,9 @@ in der Vertrauen keine Ressource mehr ist,
 die verteilt wird,  
 sondern eine, die **zirkuliert**.
 
-### **Fazit — Die Mathematik der Moral**
+### Fazit
+
+#### Die Mathematik der Moral
 
 Blockchain und Zero-Knowledge sind nicht nur Technik,  
 sie sind Ausdruck einer neuen Ethik:  

@@ -1,4 +1,8 @@
-# **Kapitel 24 — Der neue Gesellschaftsvertrag – Architektur einer lebenden Republik**{#-chapter-24}
+# **Kapitel 24 {#-chapter-24}
+
+## Der neue Gesellschaftsvertrag
+
+### Architektur einer lebenden Republik
 
 > *„Ein Gesellschaftsvertrag ist kein Dokument.  
 Er ist ein Versprechen, das täglich erneuert wird.“*
@@ -50,7 +54,9 @@ und das System gleicht sich selbst aus.
 
 So entsteht **Stabilität durch Bewegung.**
 
-### **Mini-Szene — Der Vertrag in Aktion**
+### Mini-Szene
+
+#### Der Vertrag in Aktion
 
 Eine Kommune plant eine neue Schule.  
 Bürger, Verwaltung, Unternehmen, Umweltvertreter –  
@@ -114,7 +120,9 @@ sondern **balanciert.**
 Verantwortung ist kein moralischer Appell,  
 sondern **eine Systemfunktion.**
 
-### **Mini-Szene — Der Vertrag mit sich selbst**
+### Mini-Szene
+
+#### Der Vertrag mit sich selbst
 
 Ein Bürger sieht in seinem Profil,  
 dass sein ökologischer Fußabdruck  
@@ -132,7 +140,9 @@ So wird der Vertrag
 nicht aufgezwungen,  
 sondern **gelebt.**
 
-### **Fazit — Die Republik als Lebewesen**
+### Fazit
+
+#### Die Republik als Lebewesen
 
 Der neue Gesellschaftsvertrag  
 ist kein starres Werk mehr,  

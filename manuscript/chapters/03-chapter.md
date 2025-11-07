@@ -1,4 +1,6 @@
-# **Kapitel 3 — Digitale Identität vs. politische Identität** {#-chapter-3}
+# Kapitel 3  {#-chapter-3}
+
+## Digitale Identität vs. politische Identität
 
 > *„Wer sich nur noch einloggt, ohne sich einzubringen, verliert das Gefühl, Teil von etwas zu sein.“*
 
@@ -85,7 +87,9 @@ Das politische Profil schließt genau diese Lücke:
 Es verbindet Authentifizierung mit Sinn.  
 Es macht aus Identität wieder **Beziehung**.
 
-### **Mini-Szene — Ein digitaler Schatten**
+### Mini-Szene
+
+#### Ein digitaler Schatten
 
 Er klickt „Akzeptieren“ – wieder einmal.  
 Datenschutzrichtlinien, Nutzungsbedingungen, alles Routine.  

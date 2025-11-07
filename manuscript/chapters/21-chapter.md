@@ -1,4 +1,8 @@
-# **Kapitel 21 — Arbeit, Sinn und Teilhabe – Die neue Ökonomie der Verantwortung**{#-chapter-21}
+# Kapitel 21 {#-chapter-21}
+
+## Arbeit, Sinn und Teilhabe
+
+### Die neue Ökonomie der Verantwortung
 
 > *„Arbeit ist nicht, was wir tun,  
 sondern was durch uns geschieht.“*
@@ -35,7 +39,9 @@ für Entscheidungen, für Gemeinschaft, für Wirkung.
 Das ist nicht Moralismus,  
 sondern **Funktionslogik eines vernetzten Systems.**
 
-### **Mini-Szene — Der Programmierer der Zukunft**
+### Mini-Szene
+
+#### Der Programmierer der Zukunft
 
 Er arbeitet nicht für ein Unternehmen,  
 sondern für ein Netzwerk öffentlicher Projekte.  
@@ -102,7 +108,9 @@ Kapitalismus wandelt sich zur **Kooperationsökonomie**:
 Wettbewerb um Vertrauen,  
 nicht um Täuschung.
 
-### **Mini-Szene — Die Werkstatt der Gesellschaft**
+### Mini-Szene
+
+#### Die Werkstatt der Gesellschaft
 
 In einer Stadt wird eine alte Fabrik umgebaut.  
 Nicht zu einem Start-up-Zentrum,  
@@ -138,7 +146,9 @@ sondern in **Beteiligung, Bildung, Balance.**
 Ökonomisches Wachstum wird ersetzt durch  
 **Bewusstseinswachstum.**
 
-### **Fazit — Die Arbeit als Ausdruck des Selbst**
+### Fazit
+
+#### Die Arbeit als Ausdruck des Selbst
 
 Arbeit kehrt an ihren Ursprung zurück:  
 Sie ist nicht länger Zwang,  

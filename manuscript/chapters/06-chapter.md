@@ -1,4 +1,6 @@
-# **Kapitel 6 — Grundprinzip: Selbstbestimmung durch digitale Profile** {#-chapter-6}
+# Kapitel 6 {#-chapter-6}
+
+## Grundprinzip: Selbstbestimmung durch digitale Profile
 
 > *„Souveränität beginnt dort, wo der Mensch die Architektur seines Handelns versteht.“*
 
@@ -62,7 +64,9 @@ Das Profil ist die Infrastruktur,
 die diese Ebenen verbindet –  
 **nicht durch Macht, sondern durch Design**.
 
-### **Mini-Szene — Die Abstimmung in Echtzeit**
+### Mini-Szene
+
+#### Die Abstimmung in Echtzeit
 
 Ein Bürger erhält eine Mitteilung:  
 „Neuer Vorschlag: kommunaler Energiehaushalt 2030.“  
@@ -93,7 +97,9 @@ Der digitale Staat erreicht Schutz durch **Kompetenz**.
 Er erkennt: Freiheit ist keine Gefahr,  
 sondern die Voraussetzung für Stabilität.
 
-### **Fazit — Der neue Gesellschaftsvertrag**
+### Fazit
+
+###  Der neue Gesellschaftsvertrag
 
 Das politische Profil ist kein Werkzeug des Staates,  
 sondern des Bürgers.  

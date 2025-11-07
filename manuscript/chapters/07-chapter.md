@@ -1,4 +1,6 @@
-# **Kapitel 7 — Private Souveränität – Standardmäßig verschlüsselt und anonym** {#-chapter-7}
+# Kapitel 7 {#-chapter-7}
+
+## Private Souveränität – Standardmäßig verschlüsselt und anonym
 
 > *„Freiheit beginnt dort, wo Schweigen kein Risiko ist.“*
 
@@ -63,7 +65,9 @@ Das politische Profil respektiert das:
 Jede Spur darf vergehen,  
 wenn ihr Zweck erfüllt ist.
 
-### **Mini-Szene — Der stille Aktivist**
+### Mini-Szene
+
+#### Der stille Aktivist
 
 Sie engagiert sich für Umweltschutz.  
 Früher musste sie Mitgliedslisten unterzeichnen,  
@@ -111,7 +115,9 @@ Der neue Staat erkennt das:
 Er schützt nicht durch Kontrolle,  
 sondern durch **Unsichtbarkeit als Recht**.
 
-### **Fazit — Die stille Revolution**
+### Fazit
+
+#### Die stille Revolution
 
 Die stille Revolution des 21. Jahrhunderts  
 besteht nicht darin, mehr Daten zu verarbeiten,  

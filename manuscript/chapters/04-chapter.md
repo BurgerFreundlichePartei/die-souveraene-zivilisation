@@ -1,4 +1,6 @@
-# **Kapitel 4 — Vertrauen, Transparenz und Verschlüsselung als neue Staatslogik** {#-chapter-4}
+# Kapitel 4 {#-chapter-4}
+
+## Vertrauen, Transparenz und Verschlüsselung als neue Staatslogik
 
 > *„Vertrauen entsteht, wenn Kontrolle überflüssig wird.“*
 
@@ -64,7 +66,9 @@ Erst im Zusammenspiel entsteht das,
 was man früher „Rechtsstaat“ nannte –  
 heute: **Vertrauensarchitektur**.
 
-### **Mini-Szene — Das unsichtbare Verfahren**
+### Mini-Szene
+
+#### Das unsichtbare Verfahren
 
 Ein Bürger reicht einen Antrag ein.  
 Früher verschwand er in einer Behörde,  
@@ -114,7 +118,9 @@ Das ist die neue Ethik der Macht:
 alles darf sichtbar sein –  
 **außer der Mensch selbst.**
 
-### **Fazit — Die Mathematik des Vertrauens**
+### Fazit
+
+#### Die Mathematik des Vertrauens
 
 Das politische Profil ist mehr als eine digitale Akte.  
 Es ist der **Beweis**,  

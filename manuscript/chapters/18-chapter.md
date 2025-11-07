@@ -1,4 +1,8 @@
-# **Kapitel 18 — Digitale Ethik – Die Moral der Maschinen** {#-chapter-18}
+# Kapitel 18 {#-chapter-18}
+
+## Digitale Ethik
+
+### Die Moral der Maschinen
 
 > *„Intelligenz ist leicht zu programmieren.  
 Verantwortung nicht.“*
@@ -59,7 +63,9 @@ mit folgenden Parametern verknüpft sein:
 So entsteht keine „Maschinenmoral“,  
 sondern **institutionalisierte Ethik im Code.**
 
-### **Mini-Szene — Die KI im Gericht**
+### Mini-Szene
+
+#### Die KI im Gericht
 
 Eine algorithmische Entscheidungshilfe  
 bewertet die Rückfallwahrscheinlichkeit eines Straftäters.  
@@ -121,7 +127,9 @@ Maschinen handeln in Räumen,
 in denen **Moral technische Bedingung** ist,  
 nicht Dekoration.
 
-### **Mini-Szene — Der Algorithmus, der Nein sagt**
+### Mini-Szene
+
+#### Der Algorithmus, der Nein sagt
 
 Ein Regierungsbeamter will  
 eine automatische Datenanalyse  
@@ -137,7 +145,9 @@ weil das Gesetz Teil ihres Codes ist.
 So sieht Machtbegrenzung im 21. Jahrhundert aus:  
 **eingeschrieben statt verordnet.**
 
-### **Fazit — Die Seele des Systems**
+### Fazit
+
+#### Die Seele des Systems
 
 Digitale Ethik bedeutet,  
 den Maschinen beizubringen,  

@@ -1,4 +1,8 @@
-# **Kapitel 13 — Datensouveränität statt Datenherrschaft – Das neue Verhältnis zwischen Bürger und Staat** {#-chapter-13}
+# Kapitel 13 {#-chapter-13}
+
+## Datensouveränität statt Datenherrschaft
+
+### Das neue Verhältnis zwischen Bürger und Staat
 
 > *„Wer Daten besitzt, beherrscht. Wer sie teilt, befähigt.“*
 
@@ -18,7 +22,9 @@ Sie bedeutet:
 **Der Mensch bleibt Eigentümer seiner Daten –  
 auch nachdem er sie geteilt hat.**
 
-### **Datenherrschaft – die alte Asymmetrie**
+### Datenherrschaft
+
+#### die alte Asymmetrie
 
 Datenherrschaft beruht auf Kontrolle:  
 Zentralisierung, Zugriff, Dauerhaftigkeit.  
@@ -34,7 +40,9 @@ anfällig für Missbrauch und Manipulation.
 Datenherrschaft ist kein Sicherheitskonzept,  
 sondern eine **Form von politischer Besitzstandswahrung**.
 
-### **Datensouveränität – die neue Balance**
+### Datensouveränität
+
+#### die neue Balance
 
 Souveränität bedeutet nicht Abschottung,  
 sondern **bewusste Freigabe**.  
@@ -54,7 +62,9 @@ Dadurch entsteht eine **aktive Beziehung**
 zwischen Mensch und Staat –  
 nicht Unterordnung, sondern **Partnerschaft**.
 
-### **Mini-Szene — Das Gesundheitsdossier**
+### Mini-Szene
+
+#### Das Gesundheitsdossier
 
 Ein Bürger benötigt medizinische Unterstützung.  
 Früher lagen seine Daten in verschiedenen Ämtern,  
@@ -137,7 +147,9 @@ Er muss nicht mehr alles wissen,
 um richtig zu handeln –  
 er muss nur **nachvollziehbar** handeln.
 
-### **Fazit — Die neue Beziehung**
+### Fazit
+
+#### Die neue Beziehung
 
 Datensouveränität ist mehr als Datenschutz.  
 Sie ist der neue Gesellschaftsvertrag.

@@ -1,8 +1,10 @@
-# **Kapitel 2 — Warum das politische Profil notwendig ist** {#-chapter-2}
+# Kapitel 2  {#-chapter-2}
+
+## Warum das politische Profil notwendig ist
 
 > *„Wenn Repräsentation an ihre Grenze stößt, entsteht der Wunsch nach direkter Gegenwart.“*
 
-### **Vom System zur Architektur**
+## **Vom System zur Architektur**
 
 Der erschöpfte Staat ist kein moralisches Versagen,  
 sondern das Symptom einer **veralteten Architektur**.  
@@ -17,7 +19,8 @@ statt sie durch Instanzen zu schleusen.
 Diese Architektur beginnt beim Individuum:  
 beim **politischen Profil**.
 
-### **Was das politische Profil ist – und was nicht**
+## Was das politische Profil ist 
+### und was nicht
 
 Ein politisches Profil ist keine neue Identität,  
 kein Social-Media-Konto und keine Bürgernummer.  
@@ -81,7 +84,9 @@ gegenseitige Rechenschaft.
 Der Staat bleibt notwendig –  
 aber nicht mehr als Vormund, sondern als **Dienstleister**.
 
-### **Mini-Szene — Die neue Amtshandlung**
+## Mini-Szene
+
+### Die neue Amtshandlung
 
 Eine Bürgerin will ihre Steuerklasse ändern.  
 Früher bedeutete das: Papier, Termine, Warten.  

@@ -1,4 +1,8 @@
-# **Kapitel 15 — Demokratie als Betriebssystem – Updates, Patches und Beteiligung** {#-chapter-15}
+# Kapitel 15  {#-chapter-15}
+
+## Demokratie als Betriebssystem
+
+### Updates, Patches und Beteiligung
 
 > *„Eine Demokratie, die sich nicht selbst aktualisiert, wird vom Fortschritt deinstalliert.“*
 
@@ -59,7 +63,9 @@ Politik wird dadurch **experimentell, transparent und lernfähig.**
 Fehler sind kein Scheitern,  
 sondern Teil des Fortschritts.
 
-### **Mini-Szene — Das Update Bildung 3.2**
+### Mini-Szene
+
+#### Das Update Bildung 3.2
 
 Ein Jahr nach Einführung des Bürgerauftrags-Systems  
 zeigt die Analyse:  
@@ -148,7 +154,9 @@ Das Gemeinwesen hört auf,
 zyklisch zu atmen –  
 es atmet **kontinuierlich.**
 
-### **Fazit — Zukunft als Wartungsvertrag**
+### Fazit
+
+#### Zukunft als Wartungsvertrag
 
 Eine lebendige Demokratie  
 ist kein Kunstwerk,  

@@ -1,4 +1,6 @@
-# **Epilog — Die Rückkehr des Bewusstseins** {#-epilog}
+# Epilog {#-epilog}
+
+## Die Rückkehr des Bewusstseins
 
 > *„Am Anfang stand der Mensch.  
 Dann kam der Staat.  

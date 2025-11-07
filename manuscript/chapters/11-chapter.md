@@ -1,4 +1,6 @@
-# **Kapitel 11 — Politische Profile als dezentrale Infrastruktur** {#-chapter-11}
+# **Kapitel 11 {#-chapter-11}
+
+## Politische Profile als dezentrale Infrastruktur
 
 > *„Der Staat der Zukunft ist kein Gebäude mehr – er ist ein Netzwerk aus Vertrauen.“*
 
@@ -62,7 +64,9 @@ bis sie geteilt werden **muss**, nicht **soll**.
 So entsteht Verwaltung ohne Verwalter:  
 **automatisierte Kooperation** statt Genehmigungskette.
 
-### **Mini-Szene — Das dezentrale Rathaus**
+### Mini-Szene
+
+#### Das dezentrale Rathaus
 
 In einer mittelgroßen Stadt beschließen Bürger,  
 eine lokale Infrastruktur für Entscheidungen aufzubauen.  
@@ -130,7 +134,9 @@ Nicht „Darf ich?“ – sondern „Ich kann, und du kannst es prüfen.“
 Das ist keine Auflösung des Staates,  
 sondern seine **Neuorganisation als Ökosystem**.
 
-### **Fazit — Der Staat als Netzwerk aus Menschen**
+### Fazit
+
+#### Der Staat als Netzwerk aus Menschen
 
 Der Staat der Zukunft besteht nicht aus Ämtern,  
 sondern aus **Beziehungen, die sich selbst verwalten**.

@@ -1,4 +1,8 @@
-# **Kapitel 19 — Mensch und Maschine – Kooperation statt Konkurrenz** {#-chapter-19}
+# Kapitel 19 {#-chapter-19}
+
+## Mensch und Maschine
+
+### Kooperation statt Konkurrenz
 
 > *„Maschinen nehmen uns nichts weg.  
 Sie zeigen uns, was wirklich menschlich ist.“*
@@ -55,7 +59,9 @@ So bleibt der Mensch im Zentrum,
 die Maschine im Dienst –  
 ein Gleichgewicht aus Kraft und Gewissen.
 
-### **Mini-Szene — Das smarte Parlament**
+### Mini-Szene
+
+#### Das smarte Parlament
 
 Im neuen Parlament sitzen Menschen und Systeme nebeneinander.  
 Algorithmen fassen Argumente zusammen,  
@@ -110,7 +116,9 @@ sondern *warum es richtig ist.*
 Das ist der Unterschied  
 zwischen Datenverarbeitung und **Bewusstseinskultur**.
 
-### **Mini-Szene — Die Lehrerin und ihr Assistent**
+### Mini-Szene
+
+#### Die Lehrerin und ihr Assistent
 
 Eine Lehrerin nutzt ein KI-System,  
 das Lernfortschritte analysiert.  
@@ -143,7 +151,9 @@ Dieses Gleichgewicht ist kein Zufall –
 es ist **eingeschrieben in das Design**  
 der neuen digitalen Ordnung.
 
-### **Fazit — Die geteilte Intelligenz**
+### Fazit
+
+#### Die geteilte Intelligenz
 
 Kooperation zwischen Mensch und Maschine  
 ist die neue Form der Evolution.  

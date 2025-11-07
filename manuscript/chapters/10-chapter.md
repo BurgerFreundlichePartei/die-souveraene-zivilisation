@@ -1,4 +1,6 @@
-# **Kapitel 10 — Keine Nachteile für Zurückhaltung – Gleichberechtigung digitaler Bürger** {#-chapter-10}
+# Kapitel 10 {#-chapter-10}
+
+## Keine Nachteile für Zurückhaltung – Gleichberechtigung digitaler Bürger
 
 > *„Wer sich nicht zeigt, darf trotzdem dazugehören.“*
 
@@ -118,7 +120,9 @@ Die Demokratie von morgen
 wird nicht durch ständige Beteiligung wachsen,  
 sondern durch **bewusste Intervalle** von Aktivität und Ruhe.
 
-### **Fazit — Der Staat ohne Druck**
+### Fazit
+
+#### Der Staat ohne Druck
 
 Ein gerechter Staat erzeugt keine Mitmachpflicht.  
 Er bietet Möglichkeiten, nicht Zwänge.  

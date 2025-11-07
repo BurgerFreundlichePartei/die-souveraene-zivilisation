@@ -1,4 +1,6 @@
-# **Kapitel 9 — Reversibilität – Jederzeit zwischen privat und öffentlich wechseln** {#-chapter-9}
+# Kapitel 9 {#-chapter-9}
+
+## Reversibilität – Jederzeit zwischen privat und öffentlich wechseln
 
 > *„Wahre Freiheit besteht nicht darin, immer sichtbar zu sein – sondern sichtbar werden zu können, wenn es zählt.“*
 
@@ -53,7 +55,9 @@ Reversibilität schützt vor der Endgültigkeit digitaler Spuren.
 Sie gibt dem Menschen zurück,  
 was die meisten Systeme ihm genommen haben: **Vergänglichkeit**.
 
-### **Mini-Szene — Der Umschaltmoment**
+### Mini-Szene
+
+#### Der Umschaltmoment
 
 Ein Lehrer beteiligt sich an einer Bildungsdebatte.  
 Er aktiviert sein Profil, bringt Argumente ein,  
@@ -112,7 +116,9 @@ Gesellschaft verliert die Angst vor Korrektur,
 weil sie gelernt hat, dass Rückzug keine Schwäche ist,  
 sondern Teil der Reifung.
 
-### **Fazit — Die Freiheit des Rückwegs**
+### Fazit
+
+#### Die Freiheit des Rückwegs
 
 Reversibilität ist die Freiheit,  
 Fehler zu machen, zu lernen, sich neu zu positionieren.  

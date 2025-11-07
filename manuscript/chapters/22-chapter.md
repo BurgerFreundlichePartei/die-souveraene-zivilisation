@@ -1,4 +1,8 @@
-# **Kapitel 22 — Nachhaltigkeit und Kreislauf – Die Ethik des Gleichgewichts**{#-chapter-22}
+# **Kapitel 22 {#-chapter-22}
+
+## Nachhaltigkeit und Kreislauf
+
+### Die Ethik des Gleichgewichts
 
 > *„Wer den Kreislauf versteht, erkennt:  
 Fortschritt ist kein Rennen, sondern ein Rhythmus.“*
@@ -38,7 +42,9 @@ wo fehlt Balance?
 Regieren heißt nicht mehr verwalten,  
 sondern **den Kreislauf stabilisieren.**
 
-### **Mini-Szene — Der Haushalt ohne Papier**
+### Mini-Szene
+
+#### Der Haushalt ohne Papier
 
 Ein Bürger prüft seine Energieabrechnung.  
 Keine Rechnung, kein Brief –  
@@ -107,7 +113,9 @@ sondern durch **öffentliche Sichtbarkeit.**
 So ersetzt Transparenz  
 das Steuerrecht der Zukunft.
 
-### **Mini-Szene — Der Stoffwechsel der Stadt**
+### Mini-Szene
+
+#### Der Stoffwechsel der Stadt
 
 Eine Stadt misst nicht mehr nur Verkehr und Strom,  
 sondern **ihren eigenen Stoffwechsel.**  
@@ -139,7 +147,9 @@ Ein Staat, der das versteht,
 wird nicht asketisch,  
 sondern **bewusst effizient.**
 
-### **Fazit — Fortschritt als Rückkehr**
+### Fazit
+
+#### Fortschritt als Rückkehr
 
 Nachhaltigkeit ist kein Rückschritt,  
 sondern die Rückkehr zu einem älteren Wissen:  

@@ -1,4 +1,6 @@
-# Kapitel 1 – Warum das politische Profil notwendig ist {#-chapter-1}
+# Kapitel 1 {#-chapter-1}
+
+## Warum das politische Profil notwendig ist
 
 > *„Wir leben in einer Welt, in der Daten mehr über uns wissen als der Staat – und der Staat weniger über uns weiß, als
 er sollte.“*
@@ -70,7 +72,9 @@ Heute können wir es **programmieren**.
 Das politische Profil ist der Ausdruck dieser neuen Möglichkeit:  
 eine Demokratie, die nicht nur gewählt, sondern **gelebt** wird – in Echtzeit, mit Verantwortung und Würde.
 
-### Mini-Szene — Ein Bürger im Jahr 2025
+## Mini-Szene 
+
+### Ein Bürger im Jahr 2025
 
 Er sitzt in der Warteschlange eines Online-Formulars.  
 Ein Fenster blinkt: *„Bitte nutzen Sie den Internet Explorer.“*  
@@ -98,7 +102,9 @@ Nicht enttäuscht.
 Nicht wütend.  
 Nur müde.
 
-### Mini-Szene — Ein Gründer gegen Papierwände
+## Mini-Szene
+
+### Ein Gründer gegen Papierwände
 
 Er hat eine Idee.  
 Klein, pragmatisch, sofort umsetzbar.  
@@ -135,7 +141,9 @@ Wieder ein Wertschöpfer weniger.
 Nicht resigniert.  
 Nur rational.
 
-### Übergang — Vom Stillstand zur Neuerfindung
+## Übergang
+
+### Vom Stillstand zur Neuerfindung
 
 Ein System, das seine eigene Trägheit spürt, steht an einem Wendepunkt.  
 Nicht mehr Gegner oder Krisen sind seine Bedrohung,  

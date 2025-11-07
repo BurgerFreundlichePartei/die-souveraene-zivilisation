@@ -1,4 +1,6 @@
-# **Kapitel 8 — Öffentliche Teilhabe – Aktivierungsmodus für engagierte Bürger** {#-chapter-8}
+# Kapitel 8 {#-chapter-8}
+
+## Öffentliche Teilhabe – Aktivierungsmodus für engagierte Bürger
 
 > *„Demokratie ist kein Zustand, sondern ein Rhythmus.“*
 
@@ -123,7 +125,9 @@ sie ist die **Immunantwort der Demokratie**.
 Sie schützt nicht nur Institutionen,  
 sondern das Vertrauen selbst.
 
-### **Fazit — Der Atem der Demokratie**
+### Fazit
+
+#### Der Atem der Demokratie
 
 Das politische Profil atmet:  
 Privatheit ein, Öffentlichkeit aus.  

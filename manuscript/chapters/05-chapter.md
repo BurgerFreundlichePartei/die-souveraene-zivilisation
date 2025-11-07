@@ -1,4 +1,6 @@
-# **Kapitel 5 — Das Ende des analogen Staates – Papier, Kontrolle und Trägheit** {#-chapter-5}
+# Kapitel 5 {#-chapter-5}
+
+## Das Ende des analogen Staates – Papier, Kontrolle und Trägheit
 
 > *„Papier war einmal Speicher, jetzt ist es Ballast.“*
 
@@ -59,7 +61,9 @@ So wird jede Idee zur Akte,
 jeder Bürger zum Vorgang.  
 Innovation erstickt im Ordner.
 
-### **Mini-Szene — Der Papierfriedhof**
+### Mini-Szene
+
+#### Der Papierfriedhof
 
 Ein Amtsarchiv am Rande der Stadt.  
 Zehntausende Kartonboxen auf Metallregalen,  
@@ -101,7 +105,9 @@ Die Lösung liegt nicht in mehr Papier – sondern in **rhythmischer Verwaltung*
 einem System, das sich im Takt der Gesellschaft bewegt,  
 nicht gegen sie.
 
-### **Fazit — Das letzte Blatt**
+### Fazit
+
+#### Das letzte Blatt
 
 Papier war ein Wunder.  
 Es hat Zivilisation getragen.  

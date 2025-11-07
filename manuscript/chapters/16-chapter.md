@@ -1,4 +1,8 @@
-# **Kapitel 16 — Von der Wahl zur Wirkung – Permanente politische Präsenz** {#-chapter-16}
+# Kapitel 16 {#-chapter-16}
+
+## Von der Wahl zur Wirkung
+
+### Permanente politische Präsenz
 
 > *„Demokratie beginnt nicht am Wahltag – sie darf dort nur nicht enden.“*
 
@@ -52,7 +56,9 @@ Welche Themen bleiben stabil?
 Diese Echtzeit-Daten schaffen eine neue Form politischer Intelligenz:  
 nicht repräsentativ, sondern **responsiv**.
 
-### **Mini-Szene — Die fortlaufende Abstimmung**
+### Mini-Szene
+
+#### Die fortlaufende Abstimmung
 
 Ein Bürger unterstützt einen Vorschlag zur Mobilitätsreform.  
 Er stimmt zu – das Signal wird registriert.  
@@ -68,7 +74,9 @@ So entsteht eine Demokratie,
 die denkt, wie Menschen denken:  
 mit Korrektur, ohne Scham.
 
-### **Permanente Beteiligung – ohne Überforderung**
+### Permanente Beteiligung
+
+#### ohne Überforderung
 
 Politische Präsenz bedeutet nicht Dauerstress.  
 Das System erlaubt **skalierte Mitwirkung**:
@@ -118,7 +126,9 @@ So entsteht ein Zeitgefühl,
 das der Komplexität gerecht wird:  
 immer aktuell, nie abgeschlossen.
 
-### **Mini-Szene — Die leise Macht des Signals**
+### Mini-Szene
+
+#### Die leise Macht des Signals
 
 Ein Thema polarisiert die Gesellschaft.  
 Lautstarke Minderheiten dominieren die Debatte.
@@ -133,7 +143,9 @@ sondern auf **Kohärenz**.
 Das ist die stille Revolution  
 der digitalen Demokratie.
 
-### **Fazit — Die Demokratie im Dauerzustand**
+### Fazit
+
+#### Die Demokratie im Dauerzustand
 
 Wirkung ersetzt Wahl,  
 Prozess ersetzt Ereignis,  

@@ -1,4 +1,8 @@
-# **Kapitel 25 — Die Zukunft der Freiheit – Der Mensch als Ursprung der Ordnung**{#-chapter-25}
+# Kapitel 25 {#-chapter-25}
+
+## Die Zukunft der Freiheit
+
+### Der Mensch als Ursprung der Ordnung
 
 > *„Freiheit ist nicht, was man hat.  
 Freiheit ist, was man nicht abgeben kann.“*
@@ -38,7 +42,9 @@ Freiheit lebt nur,
 wenn beide tanzen –  
 im Rhythmus des Miteinanders.
 
-### **Mini-Szene — Das Kind und die Maschine**
+### Mini-Szene
+
+#### Das Kind und die Maschine
 
 Ein Kind fragt eine KI:  
 „Was ist Freiheit?“  
@@ -107,7 +113,9 @@ So wird der Mensch
 nicht zum Herrscher über Systeme,  
 sondern zu ihrem **Hüter.**
 
-### **Mini-Szene — Der Spiegel der Republik**
+### Mini-Szene
+
+#### Der Spiegel der Republik
 
 Ein Bürger blickt in sein politisches Profil.  
 Kein Punktestand, kein Rating, kein Urteil.  
@@ -139,7 +147,9 @@ sondern:
 Das ist die letzte Stufe der Freiheit –  
 Selbstkenntnis als Staatsprinzip.
 
-### **Fazit — Die Freiheit der Zukunft**
+### Fazit
+
+#### Die Freiheit der Zukunft
 
 Freiheit war einst das Ziel der Geschichte.  
 Jetzt wird sie ihr Ursprung.
