@@ -3,8 +3,6 @@
 > *„Arbeit ist nicht, was wir tun,  
 sondern was durch uns geschieht.“*
 
----
-
 ### **21.1 Vom Job zur Wirksamkeit**
 
 Die industrielle Ökonomie definierte Arbeit als Zeit gegen Geld.  
@@ -20,8 +18,6 @@ Das neue Paradigma lautet:
 **Wert entsteht durch Beitrag, nicht durch Besitz.**  
 Und Beitrag kann viele Formen haben:  
 Wissen, Kreativität, Fürsorge, Aufmerksamkeit, Verantwortung.
-
----
 
 ### **21.2 Die Ökonomie der Verantwortung**
 
@@ -39,8 +35,6 @@ für Entscheidungen, für Gemeinschaft, für Wirkung.
 Das ist nicht Moralismus,  
 sondern **Funktionslogik eines vernetzten Systems.**
 
----
-
 ### **21.3 Mini-Szene — Der Programmierer der Zukunft**
 
 Er arbeitet nicht für ein Unternehmen,  
@@ -55,8 +49,6 @@ Er schreibt keine Software für Profit,
 sondern für **öffentliche Intelligenz.**  
 Das ist der neue Beruf des Jahrhunderts:  
 Architekt von Verantwortung.
-
----
 
 ### **21.4 Das Ende der Beschäftigung**
 
@@ -77,8 +69,6 @@ Das System bewertet nicht,
 ob jemand arbeitet,  
 sondern **was sein Tun bewirkt.**
 
----
-
 ### **21.5 Das Grundeinkommen der Verantwortung**
 
 Ein gerechter Staat erkennt an,  
@@ -96,8 +86,6 @@ nicht bedingungslos,
 sondern bedingungsgerecht.  
 Es belohnt Teilnahme, nicht Anpassung.
 
----
-
 ### **21.6 Wirtschaft als Kooperation**
 
 Unternehmen werden zu **Knoten in einem Vertrauensnetz.**  
@@ -113,8 +101,6 @@ sondern Wettbewerbsvorteile.
 Kapitalismus wandelt sich zur **Kooperationsökonomie**:  
 Wettbewerb um Vertrauen,  
 nicht um Täuschung.
-
----
 
 ### **21.7 Mini-Szene — Die Werkstatt der Gesellschaft**
 
@@ -136,8 +122,6 @@ Das ist keine Utopie,
 sondern das Geschäftsmodell der Zukunft:  
 **Gemeinschaft als Wertschöpfung.**
 
----
-
 ### **21.8 Der neue Sinnbegriff**
 
 Sinn ist kein Luxus,  
@@ -153,8 +137,6 @@ sondern in **Beteiligung, Bildung, Balance.**
 
 Ökonomisches Wachstum wird ersetzt durch  
 **Bewusstseinswachstum.**
-
----
 
 ### **21.9 Fazit — Die Arbeit als Ausdruck des Selbst**
 
@@ -173,5 +155,3 @@ Ein Staat, der das versteht,
 wird reich –  
 nicht an Geld,  
 sondern an **Beteiligung.**
-
----

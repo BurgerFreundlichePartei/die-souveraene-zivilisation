@@ -2,8 +2,6 @@
 
 > *„Vertrauen ist die einzige Währung, die sich nicht drucken lässt – aber berechnen.“*
 
----
-
 ### **12.1 Die Architektur des Vertrauens**
 
 Wenn Vertrauen früher eine moralische Entscheidung war,  
@@ -16,8 +14,6 @@ Es ersetzt den Mittler durch Mathematik.
 Nicht mehr Institutionen bestätigen Wahrheit,  
 sondern **kryptografische Protokolle**,  
 die weder Bestechung noch Vergessen kennen.
-
----
 
 ### **12.2 Blockchain als Gedächtnis der Gesellschaft**
 
@@ -35,8 +31,6 @@ nicht *wer* es tat.
 Damit trennt sich Verantwortung von Überwachung.  
 Die Gesellschaft erinnert sich,  
 ohne den Menschen zu verfolgen.
-
----
 
 ### **12.3 Zero-Knowledge-Proofs – Wissen ohne Offenbarung**
 
@@ -56,8 +50,6 @@ So entsteht **Nachvollziehbarkeit ohne Nacktheit**.
 Vertrauen wird zur Funktion,  
 nicht zur Emotion.
 
----
-
 ### **12.4 Vertrauensräume**
 
 Zwischen absoluter Transparenz und totaler Geheimhaltung  
@@ -74,8 +66,6 @@ verschwindet danach spurlos.
 
 Das ist Governance im Quantenmodus:  
 temporär, eindeutig, kontrolliert.
-
----
 
 ### **12.5 Mini-Szene — Die stille Abstimmung**
 
@@ -96,8 +86,6 @@ aber **nicht rückverfolgbar**.
 Das Vertrauen liegt im Code,  
 nicht in der Kontrolle.
 
----
-
 ### **12.6 Energieeffizienz des Vertrauens**
 
 Oft wird Blockchain mit Energieverschwendung assoziiert.  
@@ -112,8 +100,6 @@ Der Staat von morgen braucht keine Serverfarmen,
 sondern **Knoten aus Überzeugung** –  
 Profile, die sich gegenseitig sichern,  
 ohne zentrale Macht.
-
----
 
 ### **12.7 Kollektive Kryptographie**
 
@@ -132,8 +118,6 @@ in der Vertrauen keine Ressource mehr ist,
 die verteilt wird,  
 sondern eine, die **zirkuliert**.
 
----
-
 ### **12.8 Fazit — Die Mathematik der Moral**
 
 Blockchain und Zero-Knowledge sind nicht nur Technik,  
@@ -149,5 +133,3 @@ Der Staat verliert damit seine Allmacht,
 aber gewinnt seine **Glaubwürdigkeit** zurück.  
 Denn in der Sprache des Codes  
 lügt kein Formular.
-
----

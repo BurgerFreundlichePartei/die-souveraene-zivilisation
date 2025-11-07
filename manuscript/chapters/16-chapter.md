@@ -2,8 +2,6 @@
 
 > *„Demokratie beginnt nicht am Wahltag – sie darf dort nur nicht enden.“*
 
----
-
 ### **16.1 Die Illusion der Wahl**
 
 Die repräsentative Demokratie lebt vom Mythos der Wahl.  
@@ -23,8 +21,6 @@ In einer digital vernetzten Welt
 ist diese Form der Beteiligung zu langsam,  
 zu träge und zu selten.
 
----
-
 ### **16.2 Von der Stimme zum Signal**
 
 Das politische Profil verwandelt die Stimme in ein Signal.  
@@ -39,8 +35,6 @@ sondern **jeden Tag, in Echtzeit**.
 Politische Präsenz wird so messbar,  
 ohne Kontrolle –  
 wirksam, ohne Dauerüberwachung.
-
----
 
 ### **16.3 Wirkung statt Symbolik**
 
@@ -58,8 +52,6 @@ Welche Themen bleiben stabil?
 Diese Echtzeit-Daten schaffen eine neue Form politischer Intelligenz:  
 nicht repräsentativ, sondern **responsiv**.
 
----
-
 ### **16.4 Mini-Szene — Die fortlaufende Abstimmung**
 
 Ein Bürger unterstützt einen Vorschlag zur Mobilitätsreform.  
@@ -75,8 +67,6 @@ nur **adaptiver Wille**.
 So entsteht eine Demokratie,  
 die denkt, wie Menschen denken:  
 mit Korrektur, ohne Scham.
-
----
 
 ### **16.5 Permanente Beteiligung – ohne Überforderung**
 
@@ -94,8 +84,6 @@ und kann es jederzeit ändern.
 So entsteht keine Überforderung,  
 sondern **individuelle Taktung der Demokratie**.
 
----
-
 ### **16.6 Politische Präsenz als Kulturtechnik**
 
 Politische Präsenz ist kein technisches Feature,  
@@ -110,8 +98,6 @@ natürlich, rhythmisch, organisch.
 Der Bürger verliert die Angst vor Politik,  
 weil sie **nicht mehr Ausnahme**,  
 sondern **Alltag** ist.
-
----
 
 ### **16.7 Der neue Zeitbegriff der Politik**
 
@@ -132,8 +118,6 @@ So entsteht ein Zeitgefühl,
 das der Komplexität gerecht wird:  
 immer aktuell, nie abgeschlossen.
 
----
-
 ### **16.8 Mini-Szene — Die leise Macht des Signals**
 
 Ein Thema polarisiert die Gesellschaft.  
@@ -149,8 +133,6 @@ sondern auf **Kohärenz**.
 Das ist die stille Revolution  
 der digitalen Demokratie.
 
----
-
 ### **16.9 Fazit — Die Demokratie im Dauerzustand**
 
 Wirkung ersetzt Wahl,  
@@ -165,5 +147,3 @@ wie Blut durch den Körper der Gesellschaft.
 
 So wird Demokratie nicht mehr gewählt,  
 sondern **gelebt**.
-
----

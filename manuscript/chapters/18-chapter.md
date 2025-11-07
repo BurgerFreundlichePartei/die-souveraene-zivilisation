@@ -3,8 +3,6 @@
 > *„Intelligenz ist leicht zu programmieren.  
 Verantwortung nicht.“*
 
----
-
 ### **18.1 Die stille Macht der Algorithmen**
 
 Algorithmen entscheiden längst über unser Leben –  
@@ -22,8 +20,6 @@ nicht für lernende Systeme.
 Wir brauchen eine **digitale Ethik**,  
 die nicht nur fragt, *was* Maschinen tun,  
 sondern *warum* und *auf wessen Grundlage*.
-
----
 
 ### **18.2 Von Intelligenz zu Integrität**
 
@@ -46,8 +42,6 @@ durch ethische Protokolle,
 die jede Handlung  
 mit einem moralischen Audit verknüpfen.
 
----
-
 ### **18.3 Ethische Protokolle**
 
 In einer digitalen Demokratie  
@@ -65,8 +59,6 @@ mit folgenden Parametern verknüpft sein:
 So entsteht keine „Maschinenmoral“,  
 sondern **institutionalisierte Ethik im Code.**
 
----
-
 ### **18.4 Mini-Szene — Die KI im Gericht**
 
 Eine algorithmische Entscheidungshilfe  
@@ -81,8 +73,6 @@ welche Daten, welche Gewichtungen, welche Unsicherheiten.
 Er entscheidet, nicht die Maschine.  
 Doch die Maschine zwingt ihn, **bewusster zu entscheiden.**  
 Das ist der Unterschied zwischen Automatisierung und Ethik.
-
----
 
 ### **18.5 Verantwortung statt Delegation**
 
@@ -100,8 +90,6 @@ ist wie ein Werkzeug mit transparentem Griff:
 Man sieht, wer es hält,  
 und wie fest.
 
----
-
 ### **18.6 Daten als moralische Substanz**
 
 Daten sind keine Zahlen,  
@@ -115,8 +103,6 @@ dass Systeme diese Geschichten respektieren:
 nicht verarbeiten, ohne zu verstehen.  
 Nicht speichern, ohne zu begrenzen.  
 Nicht urteilen, ohne Kontext.
-
----
 
 ### **18.7 Die moralische Infrastruktur**
 
@@ -135,8 +121,6 @@ Maschinen handeln in Räumen,
 in denen **Moral technische Bedingung** ist,  
 nicht Dekoration.
 
----
-
 ### **18.8 Mini-Szene — Der Algorithmus, der Nein sagt**
 
 Ein Regierungsbeamter will  
@@ -152,8 +136,6 @@ weil das Gesetz Teil ihres Codes ist.
 
 So sieht Machtbegrenzung im 21. Jahrhundert aus:  
 **eingeschrieben statt verordnet.**
-
----
 
 ### **18.9 Fazit — Die Seele des Systems**
 
@@ -175,5 +157,3 @@ dass sie Gerechtigkeit erzwingen.
 Das ist die neue Moral:  
 nicht metaphysisch,  
 sondern **mathematisch verankert**.
-
----

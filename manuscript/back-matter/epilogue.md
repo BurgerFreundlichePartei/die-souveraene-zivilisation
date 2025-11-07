@@ -4,8 +4,6 @@
 Dann kam der Staat.  
 Jetzt kehrt der Mensch zurück.“*
 
----
-
 ### **1. Der Kreis schließt sich**
 
 Dieses Buch begann mit der Diagnose eines erschöpften Systems –  
@@ -21,8 +19,6 @@ liegt der Weg, den jede Gesellschaft gehen muss:
 von der Angst zur Verantwortung,  
 vom Glauben zur Erkenntnis,  
 vom Gehorsam zur Bewusstheit.
-
----
 
 ### **2. Der leise Wandel**
 
@@ -44,8 +40,6 @@ um gerecht zu bleiben.
 Das ist der stille Fortschritt:  
 **Vertrauen als Struktur.**
 
----
-
 ### **3. Die Kunst, Staat zu sein**
 
 Vielleicht war der größte Irrtum der Moderne,  
@@ -61,8 +55,6 @@ Er ist kein Gegner des Menschen,
 sondern seine **kollektive Form.**  
 Und je bewusster wir handeln,  
 desto menschlicher wird er.
-
----
 
 ### **4. Die neue Stille**
 
@@ -86,8 +78,6 @@ in dem Demokratie aufhört, ein System zu sein,
 und zu einem Zustand wird:  
 **innere Freiheit.**
 
----
-
 ### **5. Die letzte Zeile**
 
 Vielleicht wird eines Tages  
@@ -104,5 +94,3 @@ kann die Antwort nur lauten:
 > *Wir wollten verstehen,  
 > wie man Mensch bleibt,  
 > während man Zukunft baut.*
-
----

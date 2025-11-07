@@ -3,8 +3,6 @@
 > *„Freiheit ist nicht, was man hat.  
 Freiheit ist, was man nicht abgeben kann.“*
 
----
-
 ### **25.1 Die Rückkehr zum Ursprung**
 
 Nach all den Systemen, Strukturen und Protokollen  
@@ -23,8 +21,6 @@ seinem Mut, sich selbst zu erkennen.
 Der neue Staat beginnt nicht im Code,  
 sondern im **Herzschlag der Freiheit.**
 
----
-
 ### **25.2 Freiheit als Energieform**
 
 Freiheit ist keine Ressource,  
@@ -41,8 +37,6 @@ verwandelt sie sich in Machtmissbrauch.
 Freiheit lebt nur,  
 wenn beide tanzen –  
 im Rhythmus des Miteinanders.
-
----
 
 ### **25.3 Mini-Szene — Das Kind und die Maschine**
 
@@ -62,8 +56,6 @@ Freiheit ist kein Code.
 Sie ist das, was bleibt,  
 wenn Code endet.
 
----
-
 ### **25.4 Der Mensch als Zentrum des Systems**
 
 In der lebenden Republik  
@@ -79,8 +71,6 @@ nicht zu ersetzen.
 Denn der Mensch ist  
 nicht ein Fehler im Algorithmus,  
 sondern **sein Sinn.**
-
----
 
 ### **25.5 Die Verantwortung des Bewusstseins**
 
@@ -98,8 +88,6 @@ Verbindung ohne Besitz.
 Das ist die Ethik der Zukunft –  
 nicht geschrieben,  
 sondern **gelebt.**
-
----
 
 ### **25.6 Der neue Humanismus**
 
@@ -119,8 +107,6 @@ So wird der Mensch
 nicht zum Herrscher über Systeme,  
 sondern zu ihrem **Hüter.**
 
----
-
 ### **25.7 Mini-Szene — Der Spiegel der Republik**
 
 Ein Bürger blickt in sein politisches Profil.  
@@ -137,8 +123,6 @@ kein Wähler,
 kein Nutzer.  
 Er ist **Bewusstsein in Bewegung.**
 
----
-
 ### **25.8 Zukunft als Selbstkenntnis**
 
 Die Zukunft wird nicht von Technologie abhängen,  
@@ -154,8 +138,6 @@ sondern:
 
 Das ist die letzte Stufe der Freiheit –  
 Selbstkenntnis als Staatsprinzip.
-
----
 
 ### **25.9 Fazit — Die Freiheit der Zukunft**
 
@@ -176,5 +158,3 @@ weil sie **Systemzustand** geworden ist.
 Sie gehört denen,  
 die sie verstehen –  
 und frei bleiben, während sie sie nutzen.“*
-
----

@@ -3,8 +3,6 @@
 > *„Ein Staat ohne Seele ist nur Verwaltung.  
 Eine Gemeinschaft ohne Kultur ist nur Routine.“*
 
----
-
 ### **23.1 Die unsichtbare Infrastruktur**
 
 Straßen, Netze, Daten – sie sind sichtbar.  
@@ -19,8 +17,6 @@ es aktualisiert Werte, bevor Gesetze es tun.
 Ohne Kultur kann keine Demokratie bestehen,  
 denn sie ist das **Gefühl, das den Code trägt.**
 
----
-
 ### **23.2 Gemeinschaft als Energieform**
 
 In der digitalen Gesellschaft  
@@ -34,8 +30,6 @@ Gemeinschaft entsteht dadurch,
 dass Menschen **füreinander sichtbar werden**,  
 nicht durch Uniformität,  
 sondern durch **gegenseitige Wirksamkeit.**
-
----
 
 ### **23.3 Mini-Szene — Der Marktplatz der Resonanz**
 
@@ -55,8 +49,6 @@ So entsteht Kultur im digitalen Raum:
 nicht durch Unterhaltung,  
 sondern durch **gegenseitige Inspiration.**
 
----
-
 ### **23.4 Identität als dynamisches Gleichgewicht**
 
 In der alten Welt war Identität fest:  
@@ -70,8 +62,6 @@ ohne sie zu verraten.
 
 So entsteht ein neuer Freiheitsbegriff:  
 **Selbstbestimmung ohne Selbstverlust.**
-
----
 
 ### **23.5 Kultur als Selbstheilungssystem**
 
@@ -89,8 +79,6 @@ vor Zynismus, Gleichgültigkeit und Entfremdung.
 Denn ein Volk, das sich ausdrückt,  
 verliert nie die Fähigkeit,  
 sich zu erneuern.
-
----
 
 ### **23.6 Digitale Kulturpolitik**
 
@@ -110,8 +98,6 @@ das sind die neuen Werkzeuge der Freiheit.
 So wird Kreativität zur Infrastruktur  
 und Vielfalt zum Staatsziel.
 
----
-
 ### **23.7 Mini-Szene — Die digitale Agora**
 
 Abends in einer Stadt.  
@@ -130,8 +116,6 @@ Kultur wird so zu dem,
 was sie immer war:  
 das Gespräch der Gesellschaft mit sich selbst.
 
----
-
 ### **23.8 Gemeinschaft als Souveränität**
 
 Wahre Souveränität liegt nicht in Unabhängigkeit,  
@@ -147,8 +131,6 @@ Wenn Identität plural wird,
 wird Solidarität konkret.  
 Das ist die stille Revolution  
 des neuen Staatsbewusstseins.
-
----
 
 ### **23.9 Fazit — Die Seele im Code**
 
@@ -173,5 +155,3 @@ Und genau hier
 beginnt die Zukunft –  
 nicht in Maschinen,  
 sondern im **Geist, der sie beseelt.**
-
----

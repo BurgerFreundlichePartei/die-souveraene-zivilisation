@@ -2,8 +2,6 @@
 
 > *„Der Staat ist nicht der Vater der Gesellschaft – er ist ihr Dienstleister.“*
 
----
-
 ### **14.1 Vom Bittsteller zum Auftraggeber**
 
 Seit Jahrhunderten spricht der Bürger beim Staat vor,  
@@ -20,8 +18,6 @@ Heute kann jeder Bürger Daten, Entscheidungen und Prozesse
 selbst anstoßen, steuern und nachverfolgen.  
 Damit wird der Staat **vom Verwalter zum Auftragnehmer**,  
 und der Bürger zum **Auftraggeber seines Gemeinwesens**.
-
----
 
 ### **14.2 Der Staat als Serviceplattform**
 
@@ -42,8 +38,6 @@ der Staat reagiert **in Echtzeit**.
 
 Anträge werden zu Aufträgen,  
 Pflichten zu **Kooperationsverhältnissen**.
-
----
 
 ### **14.3 Mini-Szene — Der Auftrag Energie**
 
@@ -67,8 +61,6 @@ und alle Beteiligten sehen den Fortschritt in Echtzeit.
 Das ist keine Vision.  
 Das ist **Verwaltung als Service**.
 
----
-
 ### **14.4 Auftrag statt Gnade**
 
 In der alten Staatslogik war Verwaltung ein Akt der Gnade:  
@@ -84,8 +76,6 @@ Der Staat erklärt sich,
 statt Entscheidungen zu verstecken.  
 Er liefert,  
 statt zu verwalten.
-
----
 
 ### **14.5 Öffentliche Qualitätssicherung**
 
@@ -104,8 +94,6 @@ Diese Kennzahlen werden automatisch aus den Profilen erzeugt.
 So entsteht eine **transparente Leistungsgesellschaft**,  
 in der Staat und Bürger dieselben Daten sehen.
 
----
-
 ### **14.6 Kooperation statt Kontrolle**
 
 Ein Dienstleistungsstaat kontrolliert nicht,  
@@ -120,8 +108,6 @@ reagiert das System **präventiv statt repressiv**.
 So entsteht Verwaltung als **Feedback-Schleife**,  
 nicht als Machtinstrument.  
 Kontrolle wird ersetzt durch **gegenseitige Verantwortlichkeit**.
-
----
 
 ### **14.7 Der neue Beamtenbegriff**
 
@@ -138,8 +124,6 @@ sondern zu **vereinfachen**.
 Das Verhältnis zwischen Bürger und Verwaltung  
 wird dadurch nicht schwächer,  
 sondern **partnerschaftlich produktiver**.
-
----
 
 ### **14.8 Mini-Szene — Die Verwaltungsarchitektin**
 
@@ -159,8 +143,6 @@ sondern weil sie **Funktion hat**.
 Der Dienstleistungsstaat braucht genau diese neue Haltung:  
 Verwaltung als **Design**, nicht als Kontrolle.
 
----
-
 ### **14.9 Fazit — Der Bürger als Souverän und Kunde**
 
 Wenn der Staat ein Dienstleister ist,  
@@ -178,5 +160,3 @@ Verantwortung ersetzt Macht.
 
 So entsteht das Fundament der kommenden Ordnung:  
 **Ein Staat, der dient, weil er verstanden hat, wem er gehört.**
-
----

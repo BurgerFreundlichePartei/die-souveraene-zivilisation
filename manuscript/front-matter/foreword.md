@@ -12,8 +12,6 @@ Es ist kein Manifest gegen den Staat, sondern eine Einladung zu seiner Erneuerun
 Nicht durch Revolution, sondern durch **Architektur** – durch die Neugestaltung der digitalen Grundlagen, auf denen
 Macht, Vertrauen und Verantwortung ruhen.
 
----
-
 ## Vom Wähler zum Souverän
 
 Das politische Profil ist der nächste Schritt in der Evolution der Demokratie.  
@@ -23,8 +21,6 @@ Jeder Mensch besitzt ein Profil – **standardmäßig privat und verschlüsselt*
 öffentlich zu werden, wenn Beteiligung gewünscht ist.  
 So entsteht ein Raum, in dem politische Handlung kein Privileg, sondern eine persönliche Entscheidung ist.
 
----
-
 ## Vom System zum Ökosystem
 
 In einer Zeit, in der Staaten ihre Bürger wie Datensätze behandeln, müssen wir den Staat neu denken – nicht als
@@ -32,8 +28,6 @@ Herrschaftsapparat, sondern als **Dienstleister** seiner Auftraggeber: der Bürg
 Politische Profile bilden die Schnittstelle zwischen persönlicher Freiheit und öffentlicher Verantwortung.  
 Sie ermöglichen **Reversibilität**, **digitale Gleichberechtigung** und eine neue **Transparenzethik**, in der Vertrauen
 technisch garantiert ist.
-
----
 
 ## Vom Misstrauen zur Zusammenarbeit
 
@@ -43,11 +37,7 @@ Was wir heute programmieren, wird morgen unsere Gesellschaft formen.
 Darum muss politische Technologie offen, überprüfbar und ethisch fundiert sein.  
 Nur so kann sie das leisten, was Politik einst versprach: das Wohl des Menschen zu schützen.
 
----
-
 Dieses Buch ist ein Entwurf – aber kein theoretischer.  
 Es zeigt, wie eine **digitale Staatsarchitektur** aussehen kann, die Menschen nicht entmündigt, sondern befähigt.  
 Die Idee ist einfach:  
 **Ein sicheres Profil für jeden. Eine Stimme, die nie verstummt. Eine Demokratie, die lebt.**
-
----

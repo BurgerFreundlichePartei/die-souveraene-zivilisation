@@ -2,8 +2,6 @@
 
 > *„Wer Daten besitzt, beherrscht. Wer sie teilt, befähigt.“*
 
----
-
 ### **13.1 Vom Eigentum zur Selbstbestimmung**
 
 In der alten Ordnung galt:  
@@ -20,8 +18,6 @@ Sie bedeutet:
 **Der Mensch bleibt Eigentümer seiner Daten –  
 auch nachdem er sie geteilt hat.**
 
----
-
 ### **13.2 Datenherrschaft – die alte Asymmetrie**
 
 Datenherrschaft beruht auf Kontrolle:  
@@ -37,8 +33,6 @@ Doch diese Konzentration macht Systeme träge,
 anfällig für Missbrauch und Manipulation.  
 Datenherrschaft ist kein Sicherheitskonzept,  
 sondern eine **Form von politischer Besitzstandswahrung**.
-
----
 
 ### **13.3 Datensouveränität – die neue Balance**
 
@@ -60,8 +54,6 @@ Dadurch entsteht eine **aktive Beziehung**
 zwischen Mensch und Staat –  
 nicht Unterordnung, sondern **Partnerschaft**.
 
----
-
 ### **13.4 Mini-Szene — Das Gesundheitsdossier**
 
 Ein Bürger benötigt medizinische Unterstützung.  
@@ -81,8 +73,6 @@ erlöschen die Berechtigungen automatisch.
 Keine Kopien, keine Weitergabe.  
 Er bleibt der **Souverän seiner Geschichte**.
 
----
-
 ### **13.5 Verantwortung als Ressource**
 
 Wenn Bürger über ihre Daten bestimmen,  
@@ -100,8 +90,6 @@ Ein Staat, der Bürger als Partner sieht,
 gewinnt an Intelligenz,  
 weil er aus freiwilligem Wissen lernt.
 
----
-
 ### **13.6 Das Ende der Datenspeicherung**
 
 Die Zukunft gehört nicht der Speicherung,  
@@ -117,8 +105,6 @@ und bewahrt Kontext.
 Der Staat hört auf,  
 ein Archiv der Vergangenheit zu sein,  
 und wird zum **Koordinator der Gegenwart**.
-
----
 
 ### **13.7 Transparente Reziprozität**
 
@@ -139,8 +125,6 @@ sondern: „Ich weiß, was der Staat weiß.“
 Das ist nicht Misstrauen –  
 das ist **Erwachsenwerden der Demokratie**.
 
----
-
 ### **13.8 Von Kontrolle zu Vertrauen**
 
 Datensouveränität ersetzt Kontrolle durch **Nachvollziehbarkeit**.  
@@ -152,8 +136,6 @@ sondern **menschlicher**.
 Er muss nicht mehr alles wissen,  
 um richtig zu handeln –  
 er muss nur **nachvollziehbar** handeln.
-
----
 
 ### **13.9 Fazit — Die neue Beziehung**
 
@@ -171,5 +153,3 @@ sondern **Verantwortung**.
 Und das ist vielleicht  
 die erste echte Definition von Demokratie  
 im digitalen Zeitalter.
-
----

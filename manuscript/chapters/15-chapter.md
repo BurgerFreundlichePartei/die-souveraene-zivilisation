@@ -2,8 +2,6 @@
 
 > *„Eine Demokratie, die sich nicht selbst aktualisiert, wird vom Fortschritt deinstalliert.“*
 
----
-
 ### **15.1 Von der Verfassung zur Version**
 
 Die Demokratie wurde einst als feste Struktur entworfen –  
@@ -21,8 +19,6 @@ So wie Software gewartet wird,
 muss auch Demokratie **iterativ gepflegt** werden –  
 mit Fehlerbehebungen, Erweiterungen,  
 und neuen Sicherheitsstandards.
-
----
 
 ### **15.2 Das politische Betriebssystem**
 
@@ -42,8 +38,6 @@ Der Staat wird zur Infrastruktur,
 nicht zum Herrschaftsinstrument.  
 Bürger und Institutionen interagieren **wie Prozesse in einem verteilten System** –  
 stabil, modular, überprüfbar.
-
----
 
 ### **15.3 Updates als demokratischer Prozess**
 
@@ -65,8 +59,6 @@ Politik wird dadurch **experimentell, transparent und lernfähig.**
 Fehler sind kein Scheitern,  
 sondern Teil des Fortschritts.
 
----
-
 ### **15.4 Mini-Szene — Das Update Bildung 3.2**
 
 Ein Jahr nach Einführung des Bürgerauftrags-Systems  
@@ -85,8 +77,6 @@ automatische Rückmeldung für Schulen.
 Das System lernt –  
 weil Demokratie endlich wieder **Feedback-fähig** ist.
 
----
-
 ### **15.5 Governance als Open Source**
 
 In der Demokratie 2.0 ist Gesetzgebung  
@@ -102,8 +92,6 @@ noch dem Ethos der Gemeinschaft entspricht.
 Transparenz ersetzt Vertrauen.  
 Der Staat verliert nichts –  
 außer die Möglichkeit, sich zu verstecken.
-
----
 
 ### **15.6 Patch-Kultur statt Revolution**
 
@@ -121,8 +109,6 @@ die aus Bürgerfeedback hervorgeht.
 So ersetzt Demokratie den Ausnahmezustand  
 durch **kontinuierliche Selbstheilung**.  
 Nicht Sturm, sondern Wartung.
-
----
 
 ### **15.7 Verantwortung als Versionskontrolle**
 
@@ -145,8 +131,6 @@ ohne Bürokratie –
 und verhindert, dass Macht  
 sich im Nebel der Geschichte versteckt.
 
----
-
 ### **15.8 Demokratie als Lernsystem**
 
 Wenn Demokratie ein Betriebssystem ist,  
@@ -163,8 +147,6 @@ sondern Teil eines fortlaufenden Prozesses.
 Das Gemeinwesen hört auf,  
 zyklisch zu atmen –  
 es atmet **kontinuierlich.**
-
----
 
 ### **15.9 Fazit — Zukunft als Wartungsvertrag**
 
@@ -185,5 +167,3 @@ So lebt die Demokratie weiter –
 nicht als Monument,  
 sondern als **laufendes System,  
 das nie fertig, aber immer funktionsfähig bleibt.**
-
----

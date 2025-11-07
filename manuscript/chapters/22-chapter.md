@@ -3,8 +3,6 @@
 > *„Wer den Kreislauf versteht, erkennt:  
 Fortschritt ist kein Rennen, sondern ein Rhythmus.“*
 
----
-
 ### **22.1 Der Irrtum des linearen Denkens**
 
 Die alte Wirtschaft dachte linear:  
@@ -21,8 +19,6 @@ oder **Energie recyceln**?
 
 Nachhaltigkeit ist keine ökologische Nische mehr,  
 sondern eine **Systemlogik**.
-
----
 
 ### **22.2 Der Staat als Kreislaufsystem**
 
@@ -42,8 +38,6 @@ wo fehlt Balance?
 Regieren heißt nicht mehr verwalten,  
 sondern **den Kreislauf stabilisieren.**
 
----
-
 ### **22.3 Mini-Szene — Der Haushalt ohne Papier**
 
 Ein Bürger prüft seine Energieabrechnung.  
@@ -60,8 +54,6 @@ So entsteht eine Wirtschaft,
 die nicht auf Wachstum,  
 sondern auf **Gleichgewicht** basiert.
 
----
-
 ### **22.4 Nachhaltigkeit als moralische Infrastruktur**
 
 Nachhaltigkeit ist kein Ziel,  
@@ -77,8 +69,6 @@ Jeder Prozess enthält Begrenzungen,
 jede Entscheidung Kosten in ökologischer Währung.
 
 So wird Moral **algorithmisch überprüfbar.**
-
----
 
 ### **22.5 Der ökologische Vertrag**
 
@@ -99,8 +89,6 @@ verliert Zugriffsrechte – automatisch.
 Keine Strafe.  
 Nur **Selbstkorrektur durch Transparenz.**
 
----
-
 ### **22.6 Wirtschaft als Ökosystem**
 
 In der neuen Ökonomie  
@@ -119,8 +107,6 @@ sondern durch **öffentliche Sichtbarkeit.**
 So ersetzt Transparenz  
 das Steuerrecht der Zukunft.
 
----
-
 ### **22.7 Mini-Szene — Der Stoffwechsel der Stadt**
 
 Eine Stadt misst nicht mehr nur Verkehr und Strom,  
@@ -135,8 +121,6 @@ Nichts wird verschwendet,
 weil alles **im Kreislauf verknüpft** ist.  
 Die Stadt atmet,  
 wie ein lebendiger Organismus.
-
----
 
 ### **22.8 Die Ethik des Gleichgewichts**
 
@@ -154,8 +138,6 @@ sondern sie im Takt der Natur zu führen.
 Ein Staat, der das versteht,  
 wird nicht asketisch,  
 sondern **bewusst effizient.**
-
----
 
 ### **22.9 Fazit — Fortschritt als Rückkehr**
 

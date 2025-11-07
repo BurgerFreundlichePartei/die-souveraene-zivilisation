@@ -3,8 +3,6 @@
 > *„Wir leben in einer Welt, in der Daten mehr über uns wissen als der Staat – und der Staat weniger über uns weiß, als
 er sollte.“*
 
----
-
 ## 1.1 Die Fehlstelle moderner Demokratien
 
 Die Demokratie des 21. Jahrhunderts leidet nicht an Ideenmangel, sondern an **Verbindungsproblemen**.  
@@ -17,8 +15,6 @@ wirksam.
 Der Staat dagegen sieht nur Zahlen, nicht Menschen.
 
 Das politische Profil schließt diese Lücke.
-
----
 
 ## 1.2 Was das politische Profil ist
 
@@ -37,8 +33,6 @@ Das Profil ist:
 
 Damit entsteht eine Infrastruktur, die **demokratische Präsenz** ermöglicht – ohne Repräsentationsverlust.
 
----
-
 ## 1.3 Warum der Staat das braucht
 
 Der moderne Staat ist überfordert, weil er sich auf **analoge Verfahren** in einer **digitalen Realität** stützt.  
@@ -51,8 +45,6 @@ Politische Kommunikation wird dadurch **dauerhaft**, nicht nur episodisch zur Wa
 
 Das Ziel ist nicht Kontrolle, sondern **Effizienz und Nachvollziehbarkeit**:  
 Staatliche Entscheidungen werden überprüfbar, bürgerliche Teilhabe messbar – ohne Überwachung.
-
----
 
 ## 1.4 Warum der Bürger das braucht
 
@@ -68,8 +60,6 @@ Das politische Profil ersetzt:
 Wer sein Profil kontrolliert, kontrolliert seine Wirkung.  
 Nicht der Staat bestimmt, wer gehört wird – sondern der Mensch selbst.
 
----
-
 ## 1.5 Warum die Zeit jetzt reif ist
 
 Künstliche Intelligenz, Blockchain und dezentrale Verschlüsselungstechnologien haben  
@@ -79,8 +69,6 @@ Damit fällt das letzte Argument, das zentrale Macht rechtfertigte – die Notwe
 Heute können wir es **programmieren**.  
 Das politische Profil ist der Ausdruck dieser neuen Möglichkeit:  
 eine Demokratie, die nicht nur gewählt, sondern **gelebt** wird – in Echtzeit, mit Verantwortung und Würde.
-
----
 
 ### **1.6 Mini-Szene — Ein Bürger im Jahr 2025**
 
@@ -109,8 +97,6 @@ Er denkt: *„Der Staat lebt in einer anderen Zeit.“*
 Nicht enttäuscht.  
 Nicht wütend.  
 Nur müde.
-
----
 
 ### **1.7 Mini-Szene — Ein Gründer gegen Papierwände**
 
@@ -149,8 +135,6 @@ Wieder ein Wertschöpfer weniger.
 Nicht resigniert.  
 Nur rational.
 
----
-
 ### **1.8 Übergang — Vom Stillstand zur Neuerfindung**
 
 Ein System, das seine eigene Trägheit spürt, steht an einem Wendepunkt.  
@@ -161,7 +145,5 @@ Doch jede Erschöpfung trägt einen Impuls in sich: den Wunsch, es besser zu mac
 Wenn die alten Strukturen nicht mehr tragen,  
 entsteht Raum für etwas Neues – nicht revolutionär, sondern funktional.  
 Kein Aufstand, sondern ein **Neuentwurf**.
-
----
 
 > *Vielleicht ist die Lösung nicht, mehr zu regieren – sondern anders zu verbinden.*

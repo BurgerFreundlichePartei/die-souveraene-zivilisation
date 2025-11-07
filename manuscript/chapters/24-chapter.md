@@ -3,8 +3,6 @@
 > *„Ein Gesellschaftsvertrag ist kein Dokument.  
 Er ist ein Versprechen, das täglich erneuert wird.“*
 
----
-
 ### **24.1 Vom Papier zur Praxis**
 
 Der erste Gesellschaftsvertrag war ein Text.  
@@ -22,8 +20,6 @@ eine Architektur,
 die Prinzipien lebendig hält,  
 statt sie nur zu zitieren.
 
----
-
 ### **24.2 Die drei Säulen der lebenden Republik**
 
 Die neue Ordnung ruht auf drei Säulen:
@@ -38,8 +34,6 @@ Diese drei Säulen bilden
 das **Betriebssystem der Demokratie 2.0** –  
 nicht in Paragraphen,  
 sondern in Protokollen.
-
----
 
 ### **24.3 Der Vertrag als dynamische Gleichung**
 
@@ -56,8 +50,6 @@ und das System gleicht sich selbst aus.
 
 So entsteht **Stabilität durch Bewegung.**
 
----
-
 ### **24.4 Mini-Szene — Der Vertrag in Aktion**
 
 Eine Kommune plant eine neue Schule.  
@@ -72,8 +64,6 @@ alle Argumente dokumentiert.
 Am Ende gibt es keinen Gewinner und keinen Verlierer –  
 nur **eine nachvollziehbare Entscheidung.**  
 Der Vertrag hat sich **selbst erfüllt.**
-
----
 
 ### **24.5 Souveränität als Funktion**
 
@@ -90,8 +80,6 @@ So wird Demokratie
 nicht geschwächt, sondern stabilisiert –  
 weil sie sich selbst korrigieren kann,  
 ohne Gewalt, ohne Revolution.
-
----
 
 ### **24.6 Rechte als lebende Parameter**
 
@@ -110,8 +98,6 @@ und schützt, bevor Schaden entsteht.
 So wird das Recht nicht mehr gebrochen,  
 sondern **proaktiv gewahrt.**
 
----
-
 ### **24.7 Verantwortung als Verfassungsprinzip**
 
 Im alten Staat konnte man Macht besitzen,  
@@ -127,8 +113,6 @@ So wird Macht nicht mehr begrenzt,
 sondern **balanciert.**  
 Verantwortung ist kein moralischer Appell,  
 sondern **eine Systemfunktion.**
-
----
 
 ### **24.8 Mini-Szene — Der Vertrag mit sich selbst**
 
@@ -147,8 +131,6 @@ alles transparent, dokumentiert, reversibel.
 So wird der Vertrag  
 nicht aufgezwungen,  
 sondern **gelebt.**
-
----
 
 ### **24.9 Fazit — Die Republik als Lebewesen**
 
@@ -169,5 +151,3 @@ sondern über Bewusstsein erhält.
 
 > *„Der Staat ist nicht mehr das Gegenüber des Bürgers.  
 Er ist seine gemeinsame Form.“*
-
----

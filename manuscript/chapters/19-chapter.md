@@ -3,8 +3,6 @@
 > *„Maschinen nehmen uns nichts weg.  
 Sie zeigen uns, was wirklich menschlich ist.“*
 
----
-
 ### **19.1 Der falsche Wettkampf**
 
 Seit Beginn der Digitalisierung  
@@ -22,8 +20,6 @@ Der Mensch versteht Bedeutung,
 die Maschine verarbeitet Daten.  
 Gemeinsam bilden sie das,  
 was man einst **Erkenntnisgemeinschaft** nannte.
-
----
 
 ### **19.2 Von Automatisierung zu Symbiose**
 
@@ -43,8 +39,6 @@ Mensch liefert Kontext.
 Beide sind nötig,  
 damit Gesellschaft **bewusst intelligent** wird.
 
----
-
 ### **19.3 Vertrauen als Betriebssystem der Kooperation**
 
 Die entscheidende Frage ist nicht,  
@@ -60,8 +54,6 @@ im System **signiert, geprüft und revidierbar** gespeichert.
 So bleibt der Mensch im Zentrum,  
 die Maschine im Dienst –  
 ein Gleichgewicht aus Kraft und Gewissen.
-
----
 
 ### **19.4 Mini-Szene — Das smarte Parlament**
 
@@ -83,8 +75,6 @@ und Verantwortung zu behalten.
 So entsteht ein Dialog,  
 kein Diktat.
 
----
-
 ### **19.5 Arbeitsteilung im Denken**
 
 Kooperation bedeutet Spezialisierung:
@@ -101,8 +91,6 @@ Der Mensch bleibt Ursprung,
 die Maschine wird Erweiterung.  
 Das ist keine Hierarchie,  
 sondern eine **Symbiose der Fähigkeiten.**
-
----
 
 ### **19.6 Lernen in beide Richtungen**
 
@@ -122,8 +110,6 @@ sondern *warum es richtig ist.*
 Das ist der Unterschied  
 zwischen Datenverarbeitung und **Bewusstseinskultur**.
 
----
-
 ### **19.7 Mini-Szene — Die Lehrerin und ihr Assistent**
 
 Eine Lehrerin nutzt ein KI-System,  
@@ -141,8 +127,6 @@ Beide lernen voneinander.
 Ergebnis: kein Ersatz,  
 sondern **gegenseitige Verstärkung.**
 
----
-
 ### **19.8 Die Ethik der Ergänzung**
 
 Kooperation braucht Grenzen,  
@@ -158,8 +142,6 @@ dass er verantwortlich bleibt.**
 Dieses Gleichgewicht ist kein Zufall –  
 es ist **eingeschrieben in das Design**  
 der neuen digitalen Ordnung.
-
----
 
 ### **19.9 Fazit — Die geteilte Intelligenz**
 
@@ -179,5 +161,3 @@ sondern **Beziehung** ist.
 Und das ist die schönste Ironie der Technik:  
 Sie hat den Menschen nicht ersetzt –  
 sie hat ihn **endlich verstanden.**
-
----

@@ -2,8 +2,6 @@
 
 > *„Wer sich nicht zeigt, darf trotzdem dazugehören.“*
 
----
-
 ### **10.1 Das Paradox der Beteiligung**
 
 In der klassischen Demokratie gilt:  
@@ -17,8 +15,6 @@ Eine gerechte Ordnung erkennt:
 Denn Freiheit bedeutet nicht nur das Recht, zu reden,  
 sondern auch das Recht, **zu schweigen**,  
 ohne dafür an Wert zu verlieren.
-
----
 
 ### **10.2 Gleichwertigkeit ohne Sichtbarkeit**
 
@@ -39,8 +35,6 @@ der eine für Bewegung, der andere für Balance.
 Eine Demokratie, die Stille bestraft,  
 verliert das Gleichgewicht zwischen Denken und Handeln.
 
----
-
 ### **10.3 Kein Bonus für Lautstärke**
 
 In vielen digitalen Räumen gilt:  
@@ -57,8 +51,6 @@ er kann später entscheiden,
 er bleibt immer präsent – nur eben unsichtbar.
 
 So entsteht eine Kultur der **Gleichwürdigkeit**.
-
----
 
 ### **10.4 Mini-Szene — Der unsichtbare Bürger**
 
@@ -80,8 +72,6 @@ sondern weil er wollte.
 Und das System nimmt ihn auf,  
 als wäre er nie abwesend gewesen.
 
----
-
 ### **10.5 Gleichberechtigung als Infrastruktur**
 
 In der neuen Architektur wird Gleichheit nicht behauptet,  
@@ -96,8 +86,6 @@ sie wird **technisch garantiert**.
 
 Gleichberechtigung wird damit nicht moralisch,  
 sondern **systemisch verankert**.
-
----
 
 ### **10.6 Von Leistung zu Legitimität**
 
@@ -115,8 +103,6 @@ sondern *ob er handeln kann*.
 Denn echte Gleichheit ist die **gleiche Möglichkeit**,  
 nicht die gleiche Lautstärke.
 
----
-
 ### **10.7 Ruhe als Ressource**
 
 In einer überhitzten Öffentlichkeit  
@@ -131,8 +117,6 @@ weil Erkenntnis Zeit braucht.
 Die Demokratie von morgen  
 wird nicht durch ständige Beteiligung wachsen,  
 sondern durch **bewusste Intervalle** von Aktivität und Ruhe.
-
----
 
 ### **10.8 Fazit — Der Staat ohne Druck**
 
@@ -150,5 +134,3 @@ Wer beobachtet, bleibt Teil der Zukunft.
 Denn in der neuen Demokratie  
 zählt nicht, **wie laut du bist**,  
 sondern **dass du da bist.**
-
----

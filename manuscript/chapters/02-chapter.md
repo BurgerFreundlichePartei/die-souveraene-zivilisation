@@ -2,8 +2,6 @@
 
 > *„Wenn Repräsentation an ihre Grenze stößt, entsteht der Wunsch nach direkter Gegenwart.“*
 
----
-
 ### **2.1 Vom System zur Architektur**
 
 Der erschöpfte Staat ist kein moralisches Versagen,  
@@ -18,8 +16,6 @@ statt sie durch Instanzen zu schleusen.
 
 Diese Architektur beginnt beim Individuum:  
 beim **politischen Profil**.
-
----
 
 ### **2.2 Was das politische Profil ist – und was nicht**
 
@@ -38,8 +34,6 @@ Das Profil ist
 Damit wird politische Teilhabe **technisch möglich**,  
 ohne dass Datenschutz und Selbstbestimmung geopfert werden.
 
----
-
 ### **2.3 Warum Repräsentation nicht mehr reicht**
 
 Repräsentation war eine historische Notlösung.  
@@ -57,8 +51,6 @@ Es übersetzt Beteiligung in messbare, nachvollziehbare Signale,
 ohne Institutionen zu umgehen,  
 sondern indem es sie **wieder an die Gesellschaft anschließt**.
 
----
-
 ### **2.4 Vom Vertrauen auf Personen zum Vertrauen auf Prinzipien**
 
 Bisher basiert Demokratie auf Vertrauen in Personen:  
@@ -74,8 +66,6 @@ es wird **technisch garantiert**.
 Macht wird dadurch nicht abgeschafft,  
 sondern **messbar und überprüfbar** gemacht.
 
----
-
 ### **2.5 Staat und Bürger als gleichwertige Akteure**
 
 In der analogen Ordnung war der Staat Sender, der Bürger Empfänger.  
@@ -90,8 +80,6 @@ gegenseitige Rechenschaft.
 
 Der Staat bleibt notwendig –  
 aber nicht mehr als Vormund, sondern als **Dienstleister**.
-
----
 
 ### **2.6 Mini-Szene — Die neue Amtshandlung**
 
@@ -111,8 +99,6 @@ Sie atmet auf.
 Zum ersten Mal fühlt sich Verwaltung nicht nach Kontrolle an,  
 sondern nach **Kompetenz**.
 
----
-
 ### **2.7 Der Paradigmenwechsel**
 
 Das politische Profil ist keine App,  
@@ -127,5 +113,3 @@ Er **muss** es – oder er hört auf, Staat zu sein.
 Das politische Profil ist der erste Entwurf dieser Zukunft:  
 ein Raum, in dem Macht geteilt, Verantwortung nachvollziehbar  
 und Freiheit **praktisch erfahrbar** wird.
-
----

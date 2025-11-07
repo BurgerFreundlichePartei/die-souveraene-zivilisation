@@ -3,8 +3,6 @@
 > *„Freiheit ohne Bildung ist Zufall.  
 Technologie ohne Bewusstsein ist Gefahr.“*
 
----
-
 ### **20.1 Bildung als Überlebenssystem**
 
 Bildung war nie neutral.  
@@ -25,8 +23,6 @@ Deshalb wird Bildung
 zum **entscheidenden Menschenrecht**  
 der kommenden Epoche.
 
----
-
 ### **20.2 Digitale Mündigkeit**
 
 Digitale Mündigkeit bedeutet:  
@@ -41,8 +37,6 @@ Ein mündiger Mensch erkennt:
 
 Digitale Bildung ist daher kein IT-Unterricht,  
 sondern **Bewusstseinsbildung im Umgang mit Unsichtbarkeit.**
-
----
 
 ### **20.3 Mini-Szene — Der Unterricht im Jahr 2035**
 
@@ -62,8 +56,6 @@ sagt die Lehrerin.
 Die Kinder nicken –  
 sie **sehen** das System,  
 nicht nur das Symbol.
-
----
 
 ### **20.4 Bildung als ethische Praxis**
 
@@ -88,8 +80,6 @@ Im neuen Curriculum gehören dazu:
 Nicht als Zusatzfach,  
 sondern als **Grundsprache der Demokratie.**
 
----
-
 ### **20.5 Die Rolle der Lehrerinnen und Lehrer**
 
 Lehrerinnen und Lehrer  
@@ -106,8 +96,6 @@ Sie begleiten Schüler dabei,
 digitale Werkzeuge zu **bewusst eingesetzten Instrumenten** zu machen –  
 nicht zu Autoritäten.
 
----
-
 ### **20.6 Lebenslanges Lernen als Staatsprinzip**
 
 Digitale Mündigkeit ist kein Schulfach,  
@@ -122,8 +110,6 @@ ethisch, technologisch, sozial.
 
 So wird Bildung zum **Betriebssystem der Demokratie** –  
 offen, anpassbar, nie abgeschlossen.
-
----
 
 ### **20.7 Mini-Szene — Die Bürgerakademie**
 
@@ -142,8 +128,6 @@ Sie ist keine Nutzerin mehr –
 sie ist Teil des Systems,  
 bewusst, wach, ruhig.
 
----
-
 ### **20.8 Bewusstsein als nationale Infrastruktur**
 
 Das neue Gemeinwesen erkennt:  
@@ -158,8 +142,6 @@ weil sie nicht blind glaubt.
 
 Ein Land, das in Bildung investiert,  
 investiert in **Sicherheitsarchitektur aus Bewusstsein.**
-
----
 
 ### **20.9 Fazit — Die Bildung des Erwachens**
 
@@ -180,5 +162,3 @@ sondern im Kopf.
 Und ihre Zukunft liegt  
 in den Händen derer,  
 die verstehen wollen.
-
----

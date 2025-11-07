@@ -2,8 +2,6 @@
 
 > *„Papier war einmal Speicher, jetzt ist es Ballast.“*
 
----
-
 ### **5.1 Die Religion des Papiers**
 
 Papier war das Rückgrat der Zivilisation.  
@@ -18,8 +16,6 @@ der Glaube, dass Ordnung ohne Papier zerfällt.
 
 Doch Papier schützt nicht vor Fehlern,  
 es konserviert sie nur besser.
-
----
 
 ### **5.2 Trägheit als Strukturprinzip**
 
@@ -36,8 +32,6 @@ Diese Haltung erzeugt Sicherheit — aber nur für die,
 die schon drinnen sind.  
 Für alle anderen bedeutet sie: **Warten.**
 
----
-
 ### **5.3 Digitalisierung ohne Transformation**
 
 Der Staat hat längst begonnen, seine Formulare zu digitalisieren.  
@@ -52,8 +46,6 @@ Solange jede Datei noch ausgedruckt werden kann,
 lebt der analoge Geist weiter —  
 in den Köpfen, nicht in den Archiven.
 
----
-
 ### **5.4 Der Preis der Papierlogik**
 
 Papier verlangsamt nicht nur,  
@@ -66,8 +58,6 @@ wo Zusammenarbeit entscheidend wäre.
 So wird jede Idee zur Akte,  
 jeder Bürger zum Vorgang.  
 Innovation erstickt im Ordner.
-
----
 
 ### **5.5 Mini-Szene — Der Papierfriedhof**
 
@@ -87,8 +77,6 @@ keine digital gesichert.
 
 Das Papier zeugt von Fleiß — nicht von Funktion.
 
----
-
 ### **5.6 Vom Papier zur Integrität**
 
 Der digitale Staat muss nicht schneller werden – er muss **integer** werden.  
@@ -97,8 +85,6 @@ Nicht mehr Signaturen sichern, sondern **Vertrauen strukturieren**.
 
 Papier war eine Krücke für fehlende Technik.  
 Heute ist es eine Krücke für fehlenden Mut.
-
----
 
 ### **5.7 Der Verlust des Taktgefühls**
 
@@ -115,8 +101,6 @@ Die Lösung liegt nicht in mehr Papier – sondern in **rhythmischer Verwaltung*
 einem System, das sich im Takt der Gesellschaft bewegt,  
 nicht gegen sie.
 
----
-
 ### **5.8 Fazit — Das letzte Blatt**
 
 Papier war ein Wunder.  
@@ -130,5 +114,3 @@ Und es vergilbt nicht.
 
 Der analoge Staat wird nicht gestürzt.  
 Er verwandelt sich – von Bürokratie zu **Architektur der Beweglichkeit**.
-
----

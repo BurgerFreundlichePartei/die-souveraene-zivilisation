@@ -2,8 +2,6 @@
 
 > *„Europa ist kein Ort – es ist eine Schnittstelle.“*
 
----
-
 ### **17.1 Der Nationalstaat als Grenzobjekt**
 
 Der Nationalstaat war einst die effizienteste Form der Organisation.  
@@ -20,8 +18,6 @@ Formulare widersprechen sich,
 Systeme sind inkompatibel.  
 So wird Europa zu einer digitalen Inselgruppe  
 statt zu einem Kontinent.
-
----
 
 ### **17.2 Integration als Synchronisierung**
 
@@ -40,8 +36,6 @@ können im selben Vertrauensraum
 entscheiden, abstimmen, Projekte starten –  
 ohne bürokratische Mauern,  
 aber mit **kryptografischer Integrität**.
-
----
 
 ### **17.3 Mini-Szene — Die europäische Initiative**
 
@@ -63,8 +57,6 @@ nach einer Woche das Pilotprojekt.
 Europa funktioniert –  
 weil es **vernetzt statt verwaltet**.
 
----
-
 ### **17.4 Digitale Souveränität als geteilte Macht**
 
 Das alte Paradigma lautet:  
@@ -81,8 +73,6 @@ So entsteht ein Europa,
 das aus selbstständigen, aber synchronisierten Staaten besteht:  
 wie ein Chor,  
 nicht wie eine Kette.
-
----
 
 ### **17.5 Sprache, Identität und Übersetzung**
 
@@ -102,8 +92,6 @@ der politische Sprache in Verständlichkeit überführt.
 Integration bedeutet dann nicht Vereinheitlichung,  
 sondern **wechselseitige Lesbarkeit.**
 
----
-
 ### **17.6 Von der Union zur Konnektivität**
 
 Die Europäische Union wurde für die Nachkriegszeit gebaut.  
@@ -121,8 +109,6 @@ eine Schicht der **permanenten Konnektivität**,
 auf der Staaten sich verbinden,  
 ohne sich aufzulösen.
 
----
-
 ### **17.7 Globale Skalierbarkeit**
 
 Was in Europa funktioniert,  
@@ -139,8 +125,6 @@ lokal angepasst, global verständlich.
 So entsteht kein Weltstaat,  
 sondern ein **Weltstandard der Integrität**.
 
----
-
 ### **17.8 Mini-Szene — Die Wahl über Kontinente hinweg**
 
 Ein europäischer Student in Kanada  
@@ -156,8 +140,6 @@ sondern **systemisch**.
 So wird Zugehörigkeit neu definiert:  
 nicht durch Ort,  
 sondern durch **Teilnahme.**
-
----
 
 ### **17.9 Fazit — Europa als Betriebssystem der Kooperation**
 
@@ -176,5 +158,3 @@ denn es hört auf, statisch zu sein.
 Es wird **Software der Zusammenarbeit**,  
 und wer teilnimmt,  
 wird automatisch Teil der Zukunft.
-
----
