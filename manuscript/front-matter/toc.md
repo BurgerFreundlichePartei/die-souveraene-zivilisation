@@ -52,3 +52,5 @@
 ## Epilog
 
 [Die Rückkehr des Bewusstseins](#-epilog)
+
+---
