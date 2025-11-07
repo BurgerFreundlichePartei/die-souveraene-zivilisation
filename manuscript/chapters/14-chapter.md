@@ -1,4 +1,4 @@
-# **Kapitel 14  {#-chapter-14}
+# Kapitel 14 {#-chapter-14}
 
 ## Der Bürger als Auftraggeber
 

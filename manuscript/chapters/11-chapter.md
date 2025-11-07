@@ -1,4 +1,4 @@
-# **Kapitel 11 {#-chapter-11}
+# Kapitel 11 {#-chapter-11}
 
 ## Politische Profile als dezentrale Infrastruktur
 

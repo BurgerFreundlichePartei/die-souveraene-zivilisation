@@ -1,4 +1,4 @@
-# **Kapitel 22 {#-chapter-22}
+# Kapitel 22 {#-chapter-22}
 
 ## Nachhaltigkeit und Kreislauf
 

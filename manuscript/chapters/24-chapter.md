@@ -1,4 +1,4 @@
-# **Kapitel 24 {#-chapter-24}
+# Kapitel 24 {#-chapter-24}
 
 ## Der neue Gesellschaftsvertrag
 

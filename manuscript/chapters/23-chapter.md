@@ -1,4 +1,4 @@
-# **Kapitel 23 {#-chapter-23}
+# Kapitel 23 {#-chapter-23}
 
 ## Kultur, Gemeinschaft und Identität
 
