@@ -3,7 +3,7 @@
 > *„Wir leben in einer Welt, in der Daten mehr über uns wissen als der Staat – und der Staat weniger über uns weiß, als
 er sollte.“*
 
-## 1.1 Die Fehlstelle moderner Demokratien
+## Die Fehlstelle moderner Demokratien
 
 Die Demokratie des 21. Jahrhunderts leidet nicht an Ideenmangel, sondern an **Verbindungsproblemen**.  
 Zwischen Bürger und Staat klafft eine Lücke – nicht ideologisch, sondern **infrastrukturell**.  
@@ -16,7 +16,7 @@ Der Staat dagegen sieht nur Zahlen, nicht Menschen.
 
 Das politische Profil schließt diese Lücke.
 
-## 1.2 Was das politische Profil ist
+## Was das politische Profil ist
 
 Ein **politisches Profil** ist keine neue Identität, sondern eine **Erweiterung der bestehenden**.  
 Es verbindet die rechtliche, soziale und moralische Dimension des Bürgers zu einer **digitalen Souveränitätseinheit
@@ -26,14 +26,14 @@ koexistieren.
 
 Das Profil ist:
 
-- **Privat**: Standardmäßig verschlüsselt, vollständig unter der Kontrolle des Bürgers.
-- **Reversibel**: Jederzeit umschaltbar in einen öffentlichen Modus für politische Teilhabe.
-- **Neutral**: Kein Algorithmus bewertet oder bevorzugt, sondern bildet ab, was der Mensch selbst gestaltet.
-- **Interoperabel**: Funktioniert über Institutionen, Länder und Plattformen hinweg.
+• **Privat**: Standardmäßig verschlüsselt, vollständig unter der Kontrolle des Bürgers.  
+• **Reversibel**: Jederzeit umschaltbar in einen öffentlichen Modus für politische Teilhabe.  
+• **Neutral**: Kein Algorithmus bewertet oder bevorzugt, sondern bildet ab, was der Mensch selbst gestaltet.  
+• **Interoperabel**: Funktioniert über Institutionen, Länder und Plattformen hinweg.  
 
 Damit entsteht eine Infrastruktur, die **demokratische Präsenz** ermöglicht – ohne Repräsentationsverlust.
 
-## 1.3 Warum der Staat das braucht
+## Warum der Staat das braucht
 
 Der moderne Staat ist überfordert, weil er sich auf **analoge Verfahren** in einer **digitalen Realität** stützt.  
 Jede Unterschrift, jeder Antrag, jede Wahl ist ein Beweis dafür, dass der Verwaltungsapparat das Tempo der Gesellschaft
@@ -46,21 +46,21 @@ Politische Kommunikation wird dadurch **dauerhaft**, nicht nur episodisch zur Wa
 Das Ziel ist nicht Kontrolle, sondern **Effizienz und Nachvollziehbarkeit**:  
 Staatliche Entscheidungen werden überprüfbar, bürgerliche Teilhabe messbar – ohne Überwachung.
 
-## 1.4 Warum der Bürger das braucht
+## Warum der Bürger das braucht
 
 Die Mehrheit der Menschen hat längst aufgehört zu glauben, dass ihre Stimme zählt.  
 Doch das liegt nicht an Desinteresse, sondern an der **fehlenden Architektur**, die Wirkung ermöglicht.
 
 Das politische Profil ersetzt:
 
-- den Akt des Kreuzchens durch den **Akt der Präsenz**,
-- die sporadische Teilnahme durch **kontinuierliche Mitgestaltung**,
-- die Fremdverwaltung durch **digitale Eigenverantwortung**.
+• den Akt des Kreuzchens durch den **Akt der Präsenz**,  
+• die sporadische Teilnahme durch **kontinuierliche Mitgestaltung**,  
+• die Fremdverwaltung durch **digitale Eigenverantwortung**.
 
 Wer sein Profil kontrolliert, kontrolliert seine Wirkung.  
 Nicht der Staat bestimmt, wer gehört wird – sondern der Mensch selbst.
 
-## 1.5 Warum die Zeit jetzt reif ist
+## Warum die Zeit jetzt reif ist
 
 Künstliche Intelligenz, Blockchain und dezentrale Verschlüsselungstechnologien haben  
 eine neue Realität geschaffen: Vertrauen kann **technisch garantiert** werden.  
@@ -70,7 +70,7 @@ Heute können wir es **programmieren**.
 Das politische Profil ist der Ausdruck dieser neuen Möglichkeit:  
 eine Demokratie, die nicht nur gewählt, sondern **gelebt** wird – in Echtzeit, mit Verantwortung und Würde.
 
-### **1.6 Mini-Szene — Ein Bürger im Jahr 2025**
+### Mini-Szene — Ein Bürger im Jahr 2025
 
 Er sitzt in der Warteschlange eines Online-Formulars.  
 Ein Fenster blinkt: *„Bitte nutzen Sie den Internet Explorer.“*  
@@ -98,7 +98,7 @@ Nicht enttäuscht.
 Nicht wütend.  
 Nur müde.
 
-### **1.7 Mini-Szene — Ein Gründer gegen Papierwände**
+### Mini-Szene — Ein Gründer gegen Papierwände
 
 Er hat eine Idee.  
 Klein, pragmatisch, sofort umsetzbar.  
@@ -135,7 +135,7 @@ Wieder ein Wertschöpfer weniger.
 Nicht resigniert.  
 Nur rational.
 
-### **1.8 Übergang — Vom Stillstand zur Neuerfindung**
+### Übergang — Vom Stillstand zur Neuerfindung
 
 Ein System, das seine eigene Trägheit spürt, steht an einem Wendepunkt.  
 Nicht mehr Gegner oder Krisen sind seine Bedrohung,  

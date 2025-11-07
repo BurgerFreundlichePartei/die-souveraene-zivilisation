@@ -2,7 +2,7 @@
 
 > *„Europa ist kein Ort – es ist eine Schnittstelle.“*
 
-### **17.1 Der Nationalstaat als Grenzobjekt**
+### **Der Nationalstaat als Grenzobjekt**
 
 Der Nationalstaat war einst die effizienteste Form der Organisation.  
 Er schützte, koordinierte, strukturierte.  
@@ -19,7 +19,7 @@ Systeme sind inkompatibel.
 So wird Europa zu einer digitalen Inselgruppe  
 statt zu einem Kontinent.
 
-### **17.2 Integration als Synchronisierung**
+### **Integration als Synchronisierung**
 
 Europäische Integration darf nicht länger nur politisch,  
 sie muss **technologisch und semantisch** gedacht werden.  
@@ -37,7 +37,7 @@ entscheiden, abstimmen, Projekte starten –
 ohne bürokratische Mauern,  
 aber mit **kryptografischer Integrität**.
 
-### **17.3 Mini-Szene — Die europäische Initiative**
+### **Mini-Szene — Die europäische Initiative**
 
 Ein Netzwerk aus Bürgern, Forschern und Unternehmern  
 möchte ein europäisches Solarprogramm gründen.  
@@ -57,7 +57,7 @@ nach einer Woche das Pilotprojekt.
 Europa funktioniert –  
 weil es **vernetzt statt verwaltet**.
 
-### **17.4 Digitale Souveränität als geteilte Macht**
+### **Digitale Souveränität als geteilte Macht**
 
 Das alte Paradigma lautet:  
 Souveränität = Kontrolle.  
@@ -74,7 +74,7 @@ das aus selbstständigen, aber synchronisierten Staaten besteht:
 wie ein Chor,  
 nicht wie eine Kette.
 
-### **17.5 Sprache, Identität und Übersetzung**
+### **Sprache, Identität und Übersetzung**
 
 Technologie allein genügt nicht.  
 Europa leidet nicht an Technik,  
@@ -92,7 +92,7 @@ der politische Sprache in Verständlichkeit überführt.
 Integration bedeutet dann nicht Vereinheitlichung,  
 sondern **wechselseitige Lesbarkeit.**
 
-### **17.6 Von der Union zur Konnektivität**
+### **Von der Union zur Konnektivität**
 
 Die Europäische Union wurde für die Nachkriegszeit gebaut.  
 Ihre Struktur spiegelt Bürokratie,  
@@ -109,7 +109,7 @@ eine Schicht der **permanenten Konnektivität**,
 auf der Staaten sich verbinden,  
 ohne sich aufzulösen.
 
-### **17.7 Globale Skalierbarkeit**
+### **Globale Skalierbarkeit**
 
 Was in Europa funktioniert,  
 funktioniert überall.  
@@ -125,7 +125,7 @@ lokal angepasst, global verständlich.
 So entsteht kein Weltstaat,  
 sondern ein **Weltstandard der Integrität**.
 
-### **17.8 Mini-Szene — Die Wahl über Kontinente hinweg**
+### **Mini-Szene — Die Wahl über Kontinente hinweg**
 
 Ein europäischer Student in Kanada  
 stimmt über ein EU-weites Forschungsprogramm ab.  
@@ -141,7 +141,7 @@ So wird Zugehörigkeit neu definiert:
 nicht durch Ort,  
 sondern durch **Teilnahme.**
 
-### **17.9 Fazit — Europa als Betriebssystem der Kooperation**
+### **Fazit — Europa als Betriebssystem der Kooperation**
 
 Europa kann wieder Vorbild werden –  
 nicht durch Macht,  

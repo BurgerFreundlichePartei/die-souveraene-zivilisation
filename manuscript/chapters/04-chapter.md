@@ -2,7 +2,7 @@
 
 > *„Vertrauen entsteht, wenn Kontrolle überflüssig wird.“*
 
-### **4.1 Vertrauen als Systemfehler**
+### **Vertrauen als Systemfehler**
 
 Der moderne Staat basiert auf Misstrauen.  
 Er misstraut Bürgern, Bürger misstrauen Behörden,  
@@ -16,7 +16,7 @@ Jedes Dokument sagt: *„Beweise, dass du bist, wer du sagst.“*
 Doch Vertrauen, das ständig bewiesen werden muss,  
 ist kein Vertrauen – es ist **Überwachung**.
 
-### **4.2 Transparenz ohne Preisgabe**
+### **Transparenz ohne Preisgabe**
 
 Transparenz ist das Gegenmittel,  
 aber nur, wenn sie nicht zur Nacktheit führt.  
@@ -32,7 +32,7 @@ Diese Unterscheidung ist entscheidend:
 Transparenz schützt, wenn sie **strukturell** ist,  
 und zerstört, wenn sie **persönlich** wird.
 
-### **4.3 Verschlüsselung als Ethik**
+### **Verschlüsselung als Ethik**
 
 Verschlüsselung ist keine technische Marotte.  
 Sie ist der moralische Kern einer digitalen Demokratie.
@@ -50,7 +50,7 @@ Wenn Daten nur dort entschlüsselt werden,
 wo Einverständnis besteht,  
 wird das System selbst zum Wächter der Freiheit.
 
-### **4.4 Die neue Triade**
+### **Die neue Triade**
 
 Die Demokratie der Zukunft ruht auf drei Säulen:
 
@@ -64,7 +64,7 @@ Erst im Zusammenspiel entsteht das,
 was man früher „Rechtsstaat“ nannte –  
 heute: **Vertrauensarchitektur**.
 
-### **4.5 Mini-Szene — Das unsichtbare Verfahren**
+### **Mini-Szene — Das unsichtbare Verfahren**
 
 Ein Bürger reicht einen Antrag ein.  
 Früher verschwand er in einer Behörde,  
@@ -83,7 +83,7 @@ Er bleibt anonym, aber sein Weg durch das System ist **transparent**.
 Das Vertrauen wächst nicht durch Versprechen,  
 sondern durch **Einsicht in den Ablauf**.
 
-### **4.6 Der Staat als offenes Protokoll**
+### **Der Staat als offenes Protokoll**
 
 Der nächste Staat ist kein Büro mehr,  
 sondern ein **offenes Protokoll**.  
@@ -99,7 +99,7 @@ sondern gerechte Mechanik.
 Ein Staat, der sich **erklären** kann,  
 muss sich nicht mehr **rechtfertigen**.
 
-### **4.7 Vom Geheimnis zur Verantwortung**
+### **Vom Geheimnis zur Verantwortung**
 
 Geheimhaltung war einst Schutz vor Missbrauch.  
 Heute ist sie der Nährboden für ihn.  
@@ -114,7 +114,7 @@ Das ist die neue Ethik der Macht:
 alles darf sichtbar sein –  
 **außer der Mensch selbst.**
 
-### **4.8 Fazit — Die Mathematik des Vertrauens**
+### **Fazit — Die Mathematik des Vertrauens**
 
 Das politische Profil ist mehr als eine digitale Akte.  
 Es ist der **Beweis**,  

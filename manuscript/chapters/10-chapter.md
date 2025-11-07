@@ -2,7 +2,7 @@
 
 > *„Wer sich nicht zeigt, darf trotzdem dazugehören.“*
 
-### **10.1 Das Paradox der Beteiligung**
+### **Das Paradox der Beteiligung**
 
 In der klassischen Demokratie gilt:  
 Wer sich nicht beteiligt, verliert Mitsprache.  
@@ -16,7 +16,7 @@ Denn Freiheit bedeutet nicht nur das Recht, zu reden,
 sondern auch das Recht, **zu schweigen**,  
 ohne dafür an Wert zu verlieren.
 
-### **10.2 Gleichwertigkeit ohne Sichtbarkeit**
+### **Gleichwertigkeit ohne Sichtbarkeit**
 
 Das politische Profil garantiert Gleichberechtigung,  
 egal ob jemand aktiv teilnimmt oder still bleibt.  
@@ -35,7 +35,7 @@ der eine für Bewegung, der andere für Balance.
 Eine Demokratie, die Stille bestraft,  
 verliert das Gleichgewicht zwischen Denken und Handeln.
 
-### **10.3 Kein Bonus für Lautstärke**
+### **Kein Bonus für Lautstärke**
 
 In vielen digitalen Räumen gilt:  
 Wer mehr postet, gewinnt Reichweite.  
@@ -52,7 +52,7 @@ er bleibt immer präsent – nur eben unsichtbar.
 
 So entsteht eine Kultur der **Gleichwürdigkeit**.
 
-### **10.4 Mini-Szene — Der unsichtbare Bürger**
+### **Mini-Szene — Der unsichtbare Bürger**
 
 Er loggt sich nie ein.  
 Er beobachtet nur.  
@@ -72,7 +72,7 @@ sondern weil er wollte.
 Und das System nimmt ihn auf,  
 als wäre er nie abwesend gewesen.
 
-### **10.5 Gleichberechtigung als Infrastruktur**
+### **Gleichberechtigung als Infrastruktur**
 
 In der neuen Architektur wird Gleichheit nicht behauptet,  
 sie wird **technisch garantiert**.
@@ -87,7 +87,7 @@ sie wird **technisch garantiert**.
 Gleichberechtigung wird damit nicht moralisch,  
 sondern **systemisch verankert**.
 
-### **10.6 Von Leistung zu Legitimität**
+### **Von Leistung zu Legitimität**
 
 Gesellschaften haben gelernt, Aktivität zu belohnen.  
 Doch politische Legitimität entsteht nicht aus Aktivität,  
@@ -103,7 +103,7 @@ sondern *ob er handeln kann*.
 Denn echte Gleichheit ist die **gleiche Möglichkeit**,  
 nicht die gleiche Lautstärke.
 
-### **10.7 Ruhe als Ressource**
+### **Ruhe als Ressource**
 
 In einer überhitzten Öffentlichkeit  
 wird Stille zu einem politischen Gut.  
@@ -118,7 +118,7 @@ Die Demokratie von morgen
 wird nicht durch ständige Beteiligung wachsen,  
 sondern durch **bewusste Intervalle** von Aktivität und Ruhe.
 
-### **10.8 Fazit — Der Staat ohne Druck**
+### **Fazit — Der Staat ohne Druck**
 
 Ein gerechter Staat erzeugt keine Mitmachpflicht.  
 Er bietet Möglichkeiten, nicht Zwänge.  

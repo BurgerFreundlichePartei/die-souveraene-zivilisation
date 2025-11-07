@@ -2,7 +2,7 @@
 
 > *„Demokratie ist kein Zustand, sondern ein Rhythmus.“*
 
-### **8.1 Vom Rückzug zur Präsenz**
+### **Vom Rückzug zur Präsenz**
 
 Private Souveränität ist die Grundlage der Freiheit.  
 Doch Freiheit erfüllt sich erst, wenn sie **sichtbar wird**.  
@@ -18,7 +18,7 @@ sondern **situativ – für die Dauer der Beteiligung**.
 So entsteht ein Staat,  
 der nicht nur regiert, sondern **resoniert**.
 
-### **8.2 Aktivierung statt Anmeldung**
+### **Aktivierung statt Anmeldung**
 
 In der alten Verwaltung musste man sich **anmelden**,  
 um teilnehmen zu dürfen.  
@@ -40,7 +40,7 @@ Das Profil entscheidet selbst:
 Damit entsteht eine dynamische Form der Öffentlichkeit:  
 nicht aus Zwang, sondern aus **Freiwilligkeit mit Wirkung**.
 
-### **8.3 Die Architektur der Teilhabe**
+### **Die Architektur der Teilhabe**
 
 Öffentliche Teilhabe funktioniert über ein mehrstufiges System:
 
@@ -57,7 +57,7 @@ Jede Entscheidung bleibt nachvollziehbar,
 jede Stimme bleibt verifizierbar,  
 jede Teilnahme bleibt **freiwillig**.
 
-### **8.4 Präsenz ohne Profilverlust**
+### **Präsenz ohne Profilverlust**
 
 Öffentlichkeit bedeutet nicht Entblößung.  
 Das Profil behält seine Verschlüsselung,  
@@ -74,7 +74,7 @@ ohne wissen zu müssen, wer sie sind.
 Das ist Transparenz ohne Überwachung.  
 Ein System, das auf Vertrauen **ohne Gesichter** beruht.
 
-### **8.5 Mini-Szene — Der Tag der Entscheidung**
+### **Mini-Szene — Der Tag der Entscheidung**
 
 Ein landesweiter Bildungsvorschlag steht zur Abstimmung.  
 Lehrer, Eltern, Schüler loggen sich in ihre Profile ein.  
@@ -93,7 +93,7 @@ Nur **Bürger in Synchronität**.
 Am Abend sind sie wieder privat –  
 aber ihre Entscheidung bleibt Teil des öffentlichen Gedächtnisses.
 
-### **8.6 Von Meinung zu Verantwortung**
+### **Von Meinung zu Verantwortung**
 
 Öffentliche Teilhabe ist mehr als Abstimmung.  
 Sie ist ein Prozess der **kollektiven Verantwortung**.  
@@ -109,7 +109,7 @@ So verwandelt sich Meinung in **nachvollziehbare Wirkung**.
 Das ist die neue Form der politischen Reife:  
 Nicht laut, sondern **langfristig sichtbar**.
 
-### **8.7 Präsenz als soziales Immunsystem**
+### **Präsenz als soziales Immunsystem**
 
 Ein Staat, in dem Bürger regelmäßig aktiv werden,  
 entwickelt Widerstandskraft.  
@@ -123,7 +123,7 @@ sie ist die **Immunantwort der Demokratie**.
 Sie schützt nicht nur Institutionen,  
 sondern das Vertrauen selbst.
 
-### **8.8 Fazit — Der Atem der Demokratie**
+### **Fazit — Der Atem der Demokratie**
 
 Das politische Profil atmet:  
 Privatheit ein, Öffentlichkeit aus.  

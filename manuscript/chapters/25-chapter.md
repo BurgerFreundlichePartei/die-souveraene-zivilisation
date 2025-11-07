@@ -3,7 +3,7 @@
 > *„Freiheit ist nicht, was man hat.  
 Freiheit ist, was man nicht abgeben kann.“*
 
-### **25.1 Die Rückkehr zum Ursprung**
+### **Die Rückkehr zum Ursprung**
 
 Nach all den Systemen, Strukturen und Protokollen  
 bleibt eine einfache Frage:  
@@ -21,7 +21,7 @@ seinem Mut, sich selbst zu erkennen.
 Der neue Staat beginnt nicht im Code,  
 sondern im **Herzschlag der Freiheit.**
 
-### **25.2 Freiheit als Energieform**
+### **Freiheit als Energieform**
 
 Freiheit ist keine Ressource,  
 die verteilt werden kann.  
@@ -38,7 +38,7 @@ Freiheit lebt nur,
 wenn beide tanzen –  
 im Rhythmus des Miteinanders.
 
-### **25.3 Mini-Szene — Das Kind und die Maschine**
+### **Mini-Szene — Das Kind und die Maschine**
 
 Ein Kind fragt eine KI:  
 „Was ist Freiheit?“  
@@ -56,7 +56,7 @@ Freiheit ist kein Code.
 Sie ist das, was bleibt,  
 wenn Code endet.
 
-### **25.4 Der Mensch als Zentrum des Systems**
+### **Der Mensch als Zentrum des Systems**
 
 In der lebenden Republik  
 wird der Mensch nicht überwacht,  
@@ -72,7 +72,7 @@ Denn der Mensch ist
 nicht ein Fehler im Algorithmus,  
 sondern **sein Sinn.**
 
-### **25.5 Die Verantwortung des Bewusstseins**
+### **Die Verantwortung des Bewusstseins**
 
 Freiheit ist kein Geschenk,  
 sondern eine tägliche Übung.  
@@ -89,7 +89,7 @@ Das ist die Ethik der Zukunft –
 nicht geschrieben,  
 sondern **gelebt.**
 
-### **25.6 Der neue Humanismus**
+### **Der neue Humanismus**
 
 Der digitale Humanismus  
 versteht den Menschen nicht als Mittelpunkt,  
@@ -107,7 +107,7 @@ So wird der Mensch
 nicht zum Herrscher über Systeme,  
 sondern zu ihrem **Hüter.**
 
-### **25.7 Mini-Szene — Der Spiegel der Republik**
+### **Mini-Szene — Der Spiegel der Republik**
 
 Ein Bürger blickt in sein politisches Profil.  
 Kein Punktestand, kein Rating, kein Urteil.  
@@ -123,7 +123,7 @@ kein Wähler,
 kein Nutzer.  
 Er ist **Bewusstsein in Bewegung.**
 
-### **25.8 Zukunft als Selbstkenntnis**
+### **Zukunft als Selbstkenntnis**
 
 Die Zukunft wird nicht von Technologie abhängen,  
 sondern davon,  
@@ -139,7 +139,7 @@ sondern:
 Das ist die letzte Stufe der Freiheit –  
 Selbstkenntnis als Staatsprinzip.
 
-### **25.9 Fazit — Die Freiheit der Zukunft**
+### **Fazit — Die Freiheit der Zukunft**
 
 Freiheit war einst das Ziel der Geschichte.  
 Jetzt wird sie ihr Ursprung.

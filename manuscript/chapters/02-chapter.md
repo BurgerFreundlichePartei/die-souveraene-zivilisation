@@ -2,7 +2,7 @@
 
 > *„Wenn Repräsentation an ihre Grenze stößt, entsteht der Wunsch nach direkter Gegenwart.“*
 
-### **2.1 Vom System zur Architektur**
+### **Vom System zur Architektur**
 
 Der erschöpfte Staat ist kein moralisches Versagen,  
 sondern das Symptom einer **veralteten Architektur**.  
@@ -17,7 +17,7 @@ statt sie durch Instanzen zu schleusen.
 Diese Architektur beginnt beim Individuum:  
 beim **politischen Profil**.
 
-### **2.2 Was das politische Profil ist – und was nicht**
+### **Was das politische Profil ist – und was nicht**
 
 Ein politisches Profil ist keine neue Identität,  
 kein Social-Media-Konto und keine Bürgernummer.  
@@ -26,15 +26,15 @@ ein persönlicher Raum, in dem sich Rechte, Werte und Handlungsfähigkeit verbin
 
 Das Profil ist
 
-- **privat**, standardmäßig verschlüsselt und nur dem Eigentümer zugänglich;
-- **reversibel**, also jederzeit öffentlich aktivierbar für politische Beteiligung;
-- **gerecht**, da niemand benachteiligt wird, wenn er privat bleibt;
-- **transparent in Wirkung**, nicht in Persönlichkeit – der Mensch entscheidet, was sichtbar wird.
+• **privat**, standardmäßig verschlüsselt und nur dem Eigentümer zugänglich;  
+• **reversibel**, also jederzeit öffentlich aktivierbar für politische Beteiligung;  
+• **gerecht**, da niemand benachteiligt wird, wenn er privat bleibt;  
+• **transparent in Wirkung**, nicht in Persönlichkeit – der Mensch entscheidet, was sichtbar wird.  
 
 Damit wird politische Teilhabe **technisch möglich**,  
 ohne dass Datenschutz und Selbstbestimmung geopfert werden.
 
-### **2.3 Warum Repräsentation nicht mehr reicht**
+### **Warum Repräsentation nicht mehr reicht**
 
 Repräsentation war eine historische Notlösung.  
 Als Kommunikation langsam und teuer war, mussten Stellvertreter sprechen.  
@@ -51,7 +51,7 @@ Es übersetzt Beteiligung in messbare, nachvollziehbare Signale,
 ohne Institutionen zu umgehen,  
 sondern indem es sie **wieder an die Gesellschaft anschließt**.
 
-### **2.4 Vom Vertrauen auf Personen zum Vertrauen auf Prinzipien**
+### **Vom Vertrauen auf Personen zum Vertrauen auf Prinzipien**
 
 Bisher basiert Demokratie auf Vertrauen in Personen:  
 gewählte Vertreter, Parteien, Institutionen.  
@@ -66,7 +66,7 @@ es wird **technisch garantiert**.
 Macht wird dadurch nicht abgeschafft,  
 sondern **messbar und überprüfbar** gemacht.
 
-### **2.5 Staat und Bürger als gleichwertige Akteure**
+### **Staat und Bürger als gleichwertige Akteure**
 
 In der analogen Ordnung war der Staat Sender, der Bürger Empfänger.  
 In der digitalen Architektur stehen beide auf derselben Plattform.
@@ -81,7 +81,7 @@ gegenseitige Rechenschaft.
 Der Staat bleibt notwendig –  
 aber nicht mehr als Vormund, sondern als **Dienstleister**.
 
-### **2.6 Mini-Szene — Die neue Amtshandlung**
+### **Mini-Szene — Die neue Amtshandlung**
 
 Eine Bürgerin will ihre Steuerklasse ändern.  
 Früher bedeutete das: Papier, Termine, Warten.  
@@ -99,7 +99,7 @@ Sie atmet auf.
 Zum ersten Mal fühlt sich Verwaltung nicht nach Kontrolle an,  
 sondern nach **Kompetenz**.
 
-### **2.7 Der Paradigmenwechsel**
+### **Der Paradigmenwechsel**
 
 Das politische Profil ist keine App,  
 sondern ein **neues Verständnis von Staatlichkeit**.  

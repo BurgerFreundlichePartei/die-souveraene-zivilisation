@@ -2,7 +2,7 @@
 
 > *„Wahre Freiheit besteht nicht darin, immer sichtbar zu sein – sondern sichtbar werden zu können, wenn es zählt.“*
 
-### **9.1 Der Fluss zwischen Innen und Außen**
+### **Der Fluss zwischen Innen und Außen**
 
 Jeder Mensch bewegt sich zwischen zwei Zuständen:  
 Rückzug und Ausdruck, Stille und Stimme.  
@@ -15,7 +15,7 @@ Es erlaubt **Reversibilität** –
 den fließenden Übergang zwischen privat und öffentlich,  
 ohne bürokratische Hürden, ohne Datenverlust, ohne Sanktionen.
 
-### **9.2 Die Architektur der Entscheidung**
+### **Die Architektur der Entscheidung**
 
 Reversibilität ist kein Feature,  
 sondern das **Herz der Systemethik**.  
@@ -38,7 +38,7 @@ Der Wechsel erfolgt durch drei einfache Prinzipien:
 So entsteht Kontrolle ohne Paranoia,  
 Transparenz ohne Preisgabe.
 
-### **9.3 Zwischen Anonymität und Verantwortung**
+### **Zwischen Anonymität und Verantwortung**
 
 Ein System, das Privatheit erlaubt,  
 muss auch Verantwortung tragen können.  
@@ -53,7 +53,7 @@ Reversibilität schützt vor der Endgültigkeit digitaler Spuren.
 Sie gibt dem Menschen zurück,  
 was die meisten Systeme ihm genommen haben: **Vergänglichkeit**.
 
-### **9.4 Mini-Szene — Der Umschaltmoment**
+### **Mini-Szene — Der Umschaltmoment**
 
 Ein Lehrer beteiligt sich an einer Bildungsdebatte.  
 Er aktiviert sein Profil, bringt Argumente ein,  
@@ -69,7 +69,7 @@ ohne getrackt zu werden.
 Er war Teil der Entscheidung,  
 nicht Teil der Beobachtung.
 
-### **9.5 Die Ethik der Umkehrbarkeit**
+### **Die Ethik der Umkehrbarkeit**
 
 Reversibilität ist mehr als Datenschutz.  
 Sie ist ein ethisches Statement:  
@@ -83,7 +83,7 @@ in eine **temporäre Beziehung**.
 Das System weiß nichts,  
 es **erinnert nur, solange es nötig ist.**
 
-### **9.6 Technik der Balance**
+### **Technik der Balance**
 
 Reversibilität basiert auf drei Technologien:
 
@@ -100,7 +100,7 @@ ohne menschliches Eingreifen.
 Ein Staat, der verzeihen kann,  
 beginnt, menschlich zu werden.
 
-### **9.7 Gesellschaft im Fluss**
+### **Gesellschaft im Fluss**
 
 Wenn Bürger jederzeit zwischen Privatheit und Öffentlichkeit wechseln können,  
 entsteht eine neue soziale Dynamik.  
@@ -112,7 +112,7 @@ Gesellschaft verliert die Angst vor Korrektur,
 weil sie gelernt hat, dass Rückzug keine Schwäche ist,  
 sondern Teil der Reifung.
 
-### **9.8 Fazit — Die Freiheit des Rückwegs**
+### **Fazit — Die Freiheit des Rückwegs**
 
 Reversibilität ist die Freiheit,  
 Fehler zu machen, zu lernen, sich neu zu positionieren.  

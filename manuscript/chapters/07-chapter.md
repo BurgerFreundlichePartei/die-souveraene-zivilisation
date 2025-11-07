@@ -2,7 +2,7 @@
 
 > *„Freiheit beginnt dort, wo Schweigen kein Risiko ist.“*
 
-### **7.1 Der Wert des Unsichtbaren**
+### **Der Wert des Unsichtbaren**
 
 In der physischen Welt schützt uns eine Tür.  
 Im digitalen Raum schützt uns Verschlüsselung.  
@@ -15,7 +15,7 @@ Sichtbarkeit ist kein Synonym für Ehrlichkeit.
 Privatheit ist keine Verweigerung –  
 sie ist **Selbstschutz in einer offenen Welt**.
 
-### **7.2 Anonymität als Standard, nicht als Ausnahme**
+### **Anonymität als Standard, nicht als Ausnahme**
 
 Im analogen Staat ist Transparenz Pflicht,  
 im digitalen Staat wird sie zur Option.  
@@ -32,7 +32,7 @@ Diese Architektur garantiert:
 Privatheit ist kein Zustand,  
 sondern ein **aktiver Mechanismus der Freiheit**.
 
-### **7.3 Die Ökonomie der Aufmerksamkeit**
+### **Die Ökonomie der Aufmerksamkeit**
 
 Unsere Gegenwart leidet an Dauerbeleuchtung.  
 Alles wird geteilt, bewertet, kommentiert –  
@@ -48,7 +48,7 @@ Nicht, wer am lautesten sendet,
 sondern wer bewusst wählt, **wann** er teilnimmt,  
 bestimmt das Gewicht seiner Stimme.
 
-### **7.4 Verschlüsselung als Menschenrecht**
+### **Verschlüsselung als Menschenrecht**
 
 Die technische Grundlage der Privatheit ist Verschlüsselung.  
 Doch sie ist mehr als Mathematik – sie ist **Zivilisation in Code**.  
@@ -63,7 +63,7 @@ Das politische Profil respektiert das:
 Jede Spur darf vergehen,  
 wenn ihr Zweck erfüllt ist.
 
-### **7.5 Mini-Szene — Der stille Aktivist**
+### **Mini-Szene — Der stille Aktivist**
 
 Sie engagiert sich für Umweltschutz.  
 Früher musste sie Mitgliedslisten unterzeichnen,  
@@ -80,7 +80,7 @@ Sie ist frei,
 nicht weil sie laut ist,  
 sondern weil sie **sicher ist**.
 
-### **7.6 Gleichberechtigung des Rückzugs**
+### **Gleichberechtigung des Rückzugs**
 
 In traditionellen Systemen gilt:  
 Wer schweigt, verliert Einfluss.  
@@ -96,7 +96,7 @@ Momente, in denen Denken Vorrang vor Reaktion hat.
 Der digitale Staat darf das nicht bestrafen,  
 sondern muss es **ermöglichen**.
 
-### **7.7 Privatheit als Fundament der Öffentlichkeit**
+### **Privatheit als Fundament der Öffentlichkeit**
 
 Nur wer sich sicher fühlt, kann sich öffnen.  
 Nur wer anonym beginnen darf,  
@@ -111,7 +111,7 @@ Der neue Staat erkennt das:
 Er schützt nicht durch Kontrolle,  
 sondern durch **Unsichtbarkeit als Recht**.
 
-### **7.8 Fazit — Die stille Revolution**
+### **Fazit — Die stille Revolution**
 
 Die stille Revolution des 21. Jahrhunderts  
 besteht nicht darin, mehr Daten zu verarbeiten,  

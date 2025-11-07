@@ -2,7 +2,7 @@
 
 > *„Wer sich nur noch einloggt, ohne sich einzubringen, verliert das Gefühl, Teil von etwas zu sein.“*
 
-### **3.1 Der Irrtum der Digitalisierung**
+### **Der Irrtum der Digitalisierung**
 
 Die meisten Staaten glauben, Digitalisierung bedeute:  
 Papier wird PDF, Unterschrift wird E-Signatur, Schalter wird Online-Portal.  
@@ -17,7 +17,7 @@ Solange der Staat Identität nur als **technische Zuordnung** behandelt,
 bleibt der Bürger ein Objekt in einer Datenbank –  
 nicht ein Subjekt mit Gestaltungsrecht.
 
-### **3.2 Digitale Identität: technisch korrekt, menschlich leer**
+### **Digitale Identität: technisch korrekt, menschlich leer**
 
 Eine digitale Identität identifiziert — sie erkennt dich wieder.  
 Sie weiß, dass du du bist, aber nicht, **wer** du bist.  
@@ -31,7 +31,7 @@ Denn Demokratie basiert auf **Haltung**, nicht auf Authentifizierung.
 Die digitale Identität kennt nur: „gültig“ oder „ungültig“.  
 Die politische Identität fragt: „Was willst du beitragen?“
 
-### **3.3 Politische Identität: der Raum der Verantwortung**
+### **Politische Identität: der Raum der Verantwortung**
 
 Eine **politische Identität** entsteht dort,  
 wo ein Mensch Verantwortung für sein Denken, Handeln und Entscheiden übernimmt.  
@@ -48,7 +48,7 @@ und ruht, wenn man sich entzieht.
 Doch sie bleibt immer Eigentum des Menschen –  
 nicht der Plattform, nicht der Behörde.
 
-### **3.4 Wenn Identität zur Ware wird**
+### **Wenn Identität zur Ware wird**
 
 Die digitale Ökonomie hat Identität längst zur Handelsware gemacht.  
 Likes, Suchanfragen, Klickverhalten – all das formt ein Schatten-Ich,  
@@ -67,7 +67,7 @@ und entscheidet aktiv, was öffentlich, privat oder temporär ist.
 So wird Identität nicht mehr verkauft –  
 sie wird **verwaltet durch den, dem sie gehört**.
 
-### **3.5 Die doppelte Wahrheit der Identität**
+### **Die doppelte Wahrheit der Identität**
 
 Im digitalen Zeitalter braucht der Mensch zwei Formen der Identität:
 
@@ -85,7 +85,7 @@ Das politische Profil schließt genau diese Lücke:
 Es verbindet Authentifizierung mit Sinn.  
 Es macht aus Identität wieder **Beziehung**.
 
-### **3.6 Mini-Szene — Ein digitaler Schatten**
+### **Mini-Szene — Ein digitaler Schatten**
 
 Er klickt „Akzeptieren“ – wieder einmal.  
 Datenschutzrichtlinien, Nutzungsbedingungen, alles Routine.  
@@ -100,7 +100,7 @@ Er erinnert sich nicht, sie je geteilt zu haben.
 Sein digitales Ich spricht längst für ihn,  
 aber nicht **mit** ihm.
 
-### **3.7 Die Rückeroberung des Selbst**
+### **Die Rückeroberung des Selbst**
 
 Die Aufgabe der nächsten Generation von Demokratien  
 ist nicht nur die Sicherung von Daten,  

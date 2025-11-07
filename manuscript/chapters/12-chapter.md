@@ -2,7 +2,7 @@
 
 > *„Vertrauen ist die einzige Währung, die sich nicht drucken lässt – aber berechnen.“*
 
-### **12.1 Die Architektur des Vertrauens**
+### **Die Architektur des Vertrauens**
 
 Wenn Vertrauen früher eine moralische Entscheidung war,  
 ist es heute eine **technische Eigenschaft**.  
@@ -15,7 +15,7 @@ Nicht mehr Institutionen bestätigen Wahrheit,
 sondern **kryptografische Protokolle**,  
 die weder Bestechung noch Vergessen kennen.
 
-### **12.2 Blockchain als Gedächtnis der Gesellschaft**
+### **Blockchain als Gedächtnis der Gesellschaft**
 
 Eine Blockchain ist kein Konto und keine Währung.  
 Sie ist ein **verteiltes Protokoll**,  
@@ -32,7 +32,7 @@ Damit trennt sich Verantwortung von Überwachung.
 Die Gesellschaft erinnert sich,  
 ohne den Menschen zu verfolgen.
 
-### **12.3 Zero-Knowledge-Proofs – Wissen ohne Offenbarung**
+### **Zero-Knowledge-Proofs – Wissen ohne Offenbarung**
 
 Die vielleicht eleganteste Idee der Kryptographie:  
 etwas beweisen, ohne es zu zeigen.
@@ -50,7 +50,7 @@ So entsteht **Nachvollziehbarkeit ohne Nacktheit**.
 Vertrauen wird zur Funktion,  
 nicht zur Emotion.
 
-### **12.4 Vertrauensräume**
+### **Vertrauensräume**
 
 Zwischen absoluter Transparenz und totaler Geheimhaltung  
 liegt der **Vertrauensraum** –  
@@ -67,7 +67,7 @@ verschwindet danach spurlos.
 Das ist Governance im Quantenmodus:  
 temporär, eindeutig, kontrolliert.
 
-### **12.5 Mini-Szene — Die stille Abstimmung**
+### **Mini-Szene — Die stille Abstimmung**
 
 Eine Gemeinde beschließt,  
 über den Standort einer neuen Klinik abzustimmen.  
@@ -86,7 +86,7 @@ aber **nicht rückverfolgbar**.
 Das Vertrauen liegt im Code,  
 nicht in der Kontrolle.
 
-### **12.6 Energieeffizienz des Vertrauens**
+### **Energieeffizienz des Vertrauens**
 
 Oft wird Blockchain mit Energieverschwendung assoziiert.  
 Doch moderne Protokolle – Proof-of-Stake, DAGs, Layer-2-Lösungen –  
@@ -101,7 +101,7 @@ sondern **Knoten aus Überzeugung** –
 Profile, die sich gegenseitig sichern,  
 ohne zentrale Macht.
 
-### **12.7 Kollektive Kryptographie**
+### **Kollektive Kryptographie**
 
 Wenn jede Bürgerin ein Knoten ist,  
 wird Kryptographie zur **gesellschaftlichen Praxis**.  
@@ -118,7 +118,7 @@ in der Vertrauen keine Ressource mehr ist,
 die verteilt wird,  
 sondern eine, die **zirkuliert**.
 
-### **12.8 Fazit — Die Mathematik der Moral**
+### **Fazit — Die Mathematik der Moral**
 
 Blockchain und Zero-Knowledge sind nicht nur Technik,  
 sie sind Ausdruck einer neuen Ethik:  

@@ -3,7 +3,7 @@
 > *„Ein Staat ohne Seele ist nur Verwaltung.  
 Eine Gemeinschaft ohne Kultur ist nur Routine.“*
 
-### **23.1 Die unsichtbare Infrastruktur**
+### **Die unsichtbare Infrastruktur**
 
 Straßen, Netze, Daten – sie sind sichtbar.  
 Doch die wahre Infrastruktur einer Gesellschaft  
@@ -17,7 +17,7 @@ es aktualisiert Werte, bevor Gesetze es tun.
 Ohne Kultur kann keine Demokratie bestehen,  
 denn sie ist das **Gefühl, das den Code trägt.**
 
-### **23.2 Gemeinschaft als Energieform**
+### **Gemeinschaft als Energieform**
 
 In der digitalen Gesellschaft  
 wird Gemeinschaft zur Energiequelle.  
@@ -31,7 +31,7 @@ dass Menschen **füreinander sichtbar werden**,
 nicht durch Uniformität,  
 sondern durch **gegenseitige Wirksamkeit.**
 
-### **23.3 Mini-Szene — Der Marktplatz der Resonanz**
+### **Mini-Szene — Der Marktplatz der Resonanz**
 
 Ein öffentlicher Platz,  
 halb analog, halb digital.  
@@ -49,7 +49,7 @@ So entsteht Kultur im digitalen Raum:
 nicht durch Unterhaltung,  
 sondern durch **gegenseitige Inspiration.**
 
-### **23.4 Identität als dynamisches Gleichgewicht**
+### **Identität als dynamisches Gleichgewicht**
 
 In der alten Welt war Identität fest:  
 Nationalität, Beruf, Geschlecht, Partei.  
@@ -63,7 +63,7 @@ ohne sie zu verraten.
 So entsteht ein neuer Freiheitsbegriff:  
 **Selbstbestimmung ohne Selbstverlust.**
 
-### **23.5 Kultur als Selbstheilungssystem**
+### **Kultur als Selbstheilungssystem**
 
 Wenn Systeme scheitern, heilt Kultur.  
 Sie bewahrt Geschichten,  
@@ -80,7 +80,7 @@ Denn ein Volk, das sich ausdrückt,
 verliert nie die Fähigkeit,  
 sich zu erneuern.
 
-### **23.6 Digitale Kulturpolitik**
+### **Digitale Kulturpolitik**
 
 In der digitalen Epoche  
 wird Kulturproduktion demokratisch.  
@@ -98,7 +98,7 @@ das sind die neuen Werkzeuge der Freiheit.
 So wird Kreativität zur Infrastruktur  
 und Vielfalt zum Staatsziel.
 
-### **23.7 Mini-Szene — Die digitale Agora**
+### **Mini-Szene — Die digitale Agora**
 
 Abends in einer Stadt.  
 Lichtprojektionen verwandeln Hauswände  
@@ -116,7 +116,7 @@ Kultur wird so zu dem,
 was sie immer war:  
 das Gespräch der Gesellschaft mit sich selbst.
 
-### **23.8 Gemeinschaft als Souveränität**
+### **Gemeinschaft als Souveränität**
 
 Wahre Souveränität liegt nicht in Unabhängigkeit,  
 sondern in **Verbindung.**
@@ -132,7 +132,7 @@ wird Solidarität konkret.
 Das ist die stille Revolution  
 des neuen Staatsbewusstseins.
 
-### **23.9 Fazit — Die Seele im Code**
+### **Fazit — Die Seele im Code**
 
 Am Ende jeder Reform  
 steht kein Algorithmus,  

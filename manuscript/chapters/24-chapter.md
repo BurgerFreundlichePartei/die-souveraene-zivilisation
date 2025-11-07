@@ -3,7 +3,7 @@
 > *„Ein Gesellschaftsvertrag ist kein Dokument.  
 Er ist ein Versprechen, das täglich erneuert wird.“*
 
-### **24.1 Vom Papier zur Praxis**
+### **Vom Papier zur Praxis**
 
 Der erste Gesellschaftsvertrag war ein Text.  
 Geschrieben in einer Zeit,  
@@ -20,7 +20,7 @@ eine Architektur,
 die Prinzipien lebendig hält,  
 statt sie nur zu zitieren.
 
-### **24.2 Die drei Säulen der lebenden Republik**
+### **Die drei Säulen der lebenden Republik**
 
 Die neue Ordnung ruht auf drei Säulen:
 
@@ -35,7 +35,7 @@ das **Betriebssystem der Demokratie 2.0** –
 nicht in Paragraphen,  
 sondern in Protokollen.
 
-### **24.3 Der Vertrag als dynamische Gleichung**
+### **Der Vertrag als dynamische Gleichung**
 
 Der alte Vertrag war statisch:  
 Pflichten hier, Rechte dort.
@@ -50,7 +50,7 @@ und das System gleicht sich selbst aus.
 
 So entsteht **Stabilität durch Bewegung.**
 
-### **24.4 Mini-Szene — Der Vertrag in Aktion**
+### **Mini-Szene — Der Vertrag in Aktion**
 
 Eine Kommune plant eine neue Schule.  
 Bürger, Verwaltung, Unternehmen, Umweltvertreter –  
@@ -65,7 +65,7 @@ Am Ende gibt es keinen Gewinner und keinen Verlierer –
 nur **eine nachvollziehbare Entscheidung.**  
 Der Vertrag hat sich **selbst erfüllt.**
 
-### **24.5 Souveränität als Funktion**
+### **Souveränität als Funktion**
 
 Souveränität bedeutet heute nicht,  
 alles zu kontrollieren,  
@@ -81,7 +81,7 @@ nicht geschwächt, sondern stabilisiert –
 weil sie sich selbst korrigieren kann,  
 ohne Gewalt, ohne Revolution.
 
-### **24.6 Rechte als lebende Parameter**
+### **Rechte als lebende Parameter**
 
 Grundrechte sind keine Denkmäler,  
 sondern **Parameter des Zusammenlebens.**
@@ -98,7 +98,7 @@ und schützt, bevor Schaden entsteht.
 So wird das Recht nicht mehr gebrochen,  
 sondern **proaktiv gewahrt.**
 
-### **24.7 Verantwortung als Verfassungsprinzip**
+### **Verantwortung als Verfassungsprinzip**
 
 Im alten Staat konnte man Macht besitzen,  
 ohne Verantwortung zu tragen.  
@@ -114,7 +114,7 @@ sondern **balanciert.**
 Verantwortung ist kein moralischer Appell,  
 sondern **eine Systemfunktion.**
 
-### **24.8 Mini-Szene — Der Vertrag mit sich selbst**
+### **Mini-Szene — Der Vertrag mit sich selbst**
 
 Ein Bürger sieht in seinem Profil,  
 dass sein ökologischer Fußabdruck  
@@ -132,7 +132,7 @@ So wird der Vertrag
 nicht aufgezwungen,  
 sondern **gelebt.**
 
-### **24.9 Fazit — Die Republik als Lebewesen**
+### **Fazit — Die Republik als Lebewesen**
 
 Der neue Gesellschaftsvertrag  
 ist kein starres Werk mehr,  

@@ -2,7 +2,7 @@
 
 > *„Wer Daten besitzt, beherrscht. Wer sie teilt, befähigt.“*
 
-### **13.1 Vom Eigentum zur Selbstbestimmung**
+### **Vom Eigentum zur Selbstbestimmung**
 
 In der alten Ordnung galt:  
 Der Staat sammelt Daten, um zu verwalten.  
@@ -18,7 +18,7 @@ Sie bedeutet:
 **Der Mensch bleibt Eigentümer seiner Daten –  
 auch nachdem er sie geteilt hat.**
 
-### **13.2 Datenherrschaft – die alte Asymmetrie**
+### **Datenherrschaft – die alte Asymmetrie**
 
 Datenherrschaft beruht auf Kontrolle:  
 Zentralisierung, Zugriff, Dauerhaftigkeit.  
@@ -34,7 +34,7 @@ anfällig für Missbrauch und Manipulation.
 Datenherrschaft ist kein Sicherheitskonzept,  
 sondern eine **Form von politischer Besitzstandswahrung**.
 
-### **13.3 Datensouveränität – die neue Balance**
+### **Datensouveränität – die neue Balance**
 
 Souveränität bedeutet nicht Abschottung,  
 sondern **bewusste Freigabe**.  
@@ -54,7 +54,7 @@ Dadurch entsteht eine **aktive Beziehung**
 zwischen Mensch und Staat –  
 nicht Unterordnung, sondern **Partnerschaft**.
 
-### **13.4 Mini-Szene — Das Gesundheitsdossier**
+### **Mini-Szene — Das Gesundheitsdossier**
 
 Ein Bürger benötigt medizinische Unterstützung.  
 Früher lagen seine Daten in verschiedenen Ämtern,  
@@ -73,7 +73,7 @@ erlöschen die Berechtigungen automatisch.
 Keine Kopien, keine Weitergabe.  
 Er bleibt der **Souverän seiner Geschichte**.
 
-### **13.5 Verantwortung als Ressource**
+### **Verantwortung als Ressource**
 
 Wenn Bürger über ihre Daten bestimmen,  
 übernehmen sie Verantwortung –  
@@ -90,7 +90,7 @@ Ein Staat, der Bürger als Partner sieht,
 gewinnt an Intelligenz,  
 weil er aus freiwilligem Wissen lernt.
 
-### **13.6 Das Ende der Datenspeicherung**
+### **Das Ende der Datenspeicherung**
 
 Die Zukunft gehört nicht der Speicherung,  
 sondern der **Verfügbarkeit auf Abruf**.  
@@ -106,7 +106,7 @@ Der Staat hört auf,
 ein Archiv der Vergangenheit zu sein,  
 und wird zum **Koordinator der Gegenwart**.
 
-### **13.7 Transparente Reziprozität**
+### **Transparente Reziprozität**
 
 Datensouveränität ist keine Einbahnstraße.  
 Auch der Staat wird transparent.  
@@ -125,7 +125,7 @@ sondern: „Ich weiß, was der Staat weiß.“
 Das ist nicht Misstrauen –  
 das ist **Erwachsenwerden der Demokratie**.
 
-### **13.8 Von Kontrolle zu Vertrauen**
+### **Von Kontrolle zu Vertrauen**
 
 Datensouveränität ersetzt Kontrolle durch **Nachvollziehbarkeit**.  
 Sie gibt Macht ab, ohne Ordnung zu verlieren.  
@@ -137,7 +137,7 @@ Er muss nicht mehr alles wissen,
 um richtig zu handeln –  
 er muss nur **nachvollziehbar** handeln.
 
-### **13.9 Fazit — Die neue Beziehung**
+### **Fazit — Die neue Beziehung**
 
 Datensouveränität ist mehr als Datenschutz.  
 Sie ist der neue Gesellschaftsvertrag.

@@ -2,7 +2,7 @@
 
 > *„Der Staat ist nicht der Vater der Gesellschaft – er ist ihr Dienstleister.“*
 
-### **14.1 Vom Bittsteller zum Auftraggeber**
+### **Vom Bittsteller zum Auftraggeber**
 
 Seit Jahrhunderten spricht der Bürger beim Staat vor,  
 nicht mit ihm.  
@@ -19,7 +19,7 @@ selbst anstoßen, steuern und nachverfolgen.
 Damit wird der Staat **vom Verwalter zum Auftragnehmer**,  
 und der Bürger zum **Auftraggeber seines Gemeinwesens**.
 
-### **14.2 Der Staat als Serviceplattform**
+### **Der Staat als Serviceplattform**
 
 Ein moderner Staat ist keine Behörde,  
 sondern eine Plattform für Dienstleistungen:  
@@ -39,7 +39,7 @@ der Staat reagiert **in Echtzeit**.
 Anträge werden zu Aufträgen,  
 Pflichten zu **Kooperationsverhältnissen**.
 
-### **14.3 Mini-Szene — Der Auftrag Energie**
+### **Mini-Szene — Der Auftrag Energie**
 
 Eine Bürgerin bemerkt,  
 dass ihre Gemeinde zu viel Energie verschwendet.  
@@ -61,7 +61,7 @@ und alle Beteiligten sehen den Fortschritt in Echtzeit.
 Das ist keine Vision.  
 Das ist **Verwaltung als Service**.
 
-### **14.4 Auftrag statt Gnade**
+### **Auftrag statt Gnade**
 
 In der alten Staatslogik war Verwaltung ein Akt der Gnade:  
 „Wir prüfen, ob Sie Anspruch haben.“  
@@ -77,7 +77,7 @@ statt Entscheidungen zu verstecken.
 Er liefert,  
 statt zu verwalten.
 
-### **14.5 Öffentliche Qualitätssicherung**
+### **Öffentliche Qualitätssicherung**
 
 Wenn der Bürger Auftraggeber ist,  
 braucht der Staat **Qualitätsmanagement**.  
@@ -94,7 +94,7 @@ Diese Kennzahlen werden automatisch aus den Profilen erzeugt.
 So entsteht eine **transparente Leistungsgesellschaft**,  
 in der Staat und Bürger dieselben Daten sehen.
 
-### **14.6 Kooperation statt Kontrolle**
+### **Kooperation statt Kontrolle**
 
 Ein Dienstleistungsstaat kontrolliert nicht,  
 er koordiniert.  
@@ -109,7 +109,7 @@ So entsteht Verwaltung als **Feedback-Schleife**,
 nicht als Machtinstrument.  
 Kontrolle wird ersetzt durch **gegenseitige Verantwortlichkeit**.
 
-### **14.7 Der neue Beamtenbegriff**
+### **Der neue Beamtenbegriff**
 
 Im Dienstleistungsstaat 2.0  
 wird der Beamte zum **Architekten öffentlicher Prozesse**.  
@@ -125,7 +125,7 @@ Das Verhältnis zwischen Bürger und Verwaltung
 wird dadurch nicht schwächer,  
 sondern **partnerschaftlich produktiver**.
 
-### **14.8 Mini-Szene — Die Verwaltungsarchitektin**
+### **Mini-Szene — Die Verwaltungsarchitektin**
 
 Sie arbeitet in einer Behörde,  
 die keine Anträge mehr entgegennimmt.  
@@ -143,7 +143,7 @@ sondern weil sie **Funktion hat**.
 Der Dienstleistungsstaat braucht genau diese neue Haltung:  
 Verwaltung als **Design**, nicht als Kontrolle.
 
-### **14.9 Fazit — Der Bürger als Souverän und Kunde**
+### **Fazit — Der Bürger als Souverän und Kunde**
 
 Wenn der Staat ein Dienstleister ist,  
 endet die Epoche der Unterwerfung.

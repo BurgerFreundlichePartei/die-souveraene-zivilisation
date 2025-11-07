@@ -3,7 +3,7 @@
 > *„Maschinen nehmen uns nichts weg.  
 Sie zeigen uns, was wirklich menschlich ist.“*
 
-### **19.1 Der falsche Wettkampf**
+### **Der falsche Wettkampf**
 
 Seit Beginn der Digitalisierung  
 fürchtet der Mensch, ersetzt zu werden.  
@@ -21,7 +21,7 @@ die Maschine verarbeitet Daten.
 Gemeinsam bilden sie das,  
 was man einst **Erkenntnisgemeinschaft** nannte.
 
-### **19.2 Von Automatisierung zu Symbiose**
+### **Von Automatisierung zu Symbiose**
 
 Automatisierung ist nur die erste Stufe.  
 Kooperation beginnt,  
@@ -39,7 +39,7 @@ Mensch liefert Kontext.
 Beide sind nötig,  
 damit Gesellschaft **bewusst intelligent** wird.
 
-### **19.3 Vertrauen als Betriebssystem der Kooperation**
+### **Vertrauen als Betriebssystem der Kooperation**
 
 Die entscheidende Frage ist nicht,  
 wie klug Maschinen werden,  
@@ -55,7 +55,7 @@ So bleibt der Mensch im Zentrum,
 die Maschine im Dienst –  
 ein Gleichgewicht aus Kraft und Gewissen.
 
-### **19.4 Mini-Szene — Das smarte Parlament**
+### **Mini-Szene — Das smarte Parlament**
 
 Im neuen Parlament sitzen Menschen und Systeme nebeneinander.  
 Algorithmen fassen Argumente zusammen,  
@@ -75,7 +75,7 @@ und Verantwortung zu behalten.
 So entsteht ein Dialog,  
 kein Diktat.
 
-### **19.5 Arbeitsteilung im Denken**
+### **Arbeitsteilung im Denken**
 
 Kooperation bedeutet Spezialisierung:
 
@@ -92,7 +92,7 @@ die Maschine wird Erweiterung.
 Das ist keine Hierarchie,  
 sondern eine **Symbiose der Fähigkeiten.**
 
-### **19.6 Lernen in beide Richtungen**
+### **Lernen in beide Richtungen**
 
 Auch Maschinen lernen von Menschen –  
 nicht nur technisch,  
@@ -110,7 +110,7 @@ sondern *warum es richtig ist.*
 Das ist der Unterschied  
 zwischen Datenverarbeitung und **Bewusstseinskultur**.
 
-### **19.7 Mini-Szene — Die Lehrerin und ihr Assistent**
+### **Mini-Szene — Die Lehrerin und ihr Assistent**
 
 Eine Lehrerin nutzt ein KI-System,  
 das Lernfortschritte analysiert.  
@@ -127,7 +127,7 @@ Beide lernen voneinander.
 Ergebnis: kein Ersatz,  
 sondern **gegenseitige Verstärkung.**
 
-### **19.8 Die Ethik der Ergänzung**
+### **Die Ethik der Ergänzung**
 
 Kooperation braucht Grenzen,  
 aber keine Angst.  
@@ -143,7 +143,7 @@ Dieses Gleichgewicht ist kein Zufall –
 es ist **eingeschrieben in das Design**  
 der neuen digitalen Ordnung.
 
-### **19.9 Fazit — Die geteilte Intelligenz**
+### **Fazit — Die geteilte Intelligenz**
 
 Kooperation zwischen Mensch und Maschine  
 ist die neue Form der Evolution.  

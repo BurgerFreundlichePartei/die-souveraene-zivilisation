@@ -3,7 +3,7 @@
 > *„Intelligenz ist leicht zu programmieren.  
 Verantwortung nicht.“*
 
-### **18.1 Die stille Macht der Algorithmen**
+### **Die stille Macht der Algorithmen**
 
 Algorithmen entscheiden längst über unser Leben –  
 über Kredite, Bewerbungen, medizinische Behandlungen,  
@@ -21,7 +21,7 @@ Wir brauchen eine **digitale Ethik**,
 die nicht nur fragt, *was* Maschinen tun,  
 sondern *warum* und *auf wessen Grundlage*.
 
-### **18.2 Von Intelligenz zu Integrität**
+### **Von Intelligenz zu Integrität**
 
 Künstliche Intelligenz ist nicht gefährlich,  
 weil sie denkt,  
@@ -42,7 +42,7 @@ durch ethische Protokolle,
 die jede Handlung  
 mit einem moralischen Audit verknüpfen.
 
-### **18.3 Ethische Protokolle**
+### **Ethische Protokolle**
 
 In einer digitalen Demokratie  
 muss jede automatisierte Entscheidung  
@@ -59,7 +59,7 @@ mit folgenden Parametern verknüpft sein:
 So entsteht keine „Maschinenmoral“,  
 sondern **institutionalisierte Ethik im Code.**
 
-### **18.4 Mini-Szene — Die KI im Gericht**
+### **Mini-Szene — Die KI im Gericht**
 
 Eine algorithmische Entscheidungshilfe  
 bewertet die Rückfallwahrscheinlichkeit eines Straftäters.  
@@ -74,7 +74,7 @@ Er entscheidet, nicht die Maschine.
 Doch die Maschine zwingt ihn, **bewusster zu entscheiden.**  
 Das ist der Unterschied zwischen Automatisierung und Ethik.
 
-### **18.5 Verantwortung statt Delegation**
+### **Verantwortung statt Delegation**
 
 Viele Politiker glauben,  
 Automatisierung könne Verantwortung ersetzen.  
@@ -90,7 +90,7 @@ ist wie ein Werkzeug mit transparentem Griff:
 Man sieht, wer es hält,  
 und wie fest.
 
-### **18.6 Daten als moralische Substanz**
+### **Daten als moralische Substanz**
 
 Daten sind keine Zahlen,  
 sondern **Echos menschlicher Erfahrung.**  
@@ -104,7 +104,7 @@ nicht verarbeiten, ohne zu verstehen.
 Nicht speichern, ohne zu begrenzen.  
 Nicht urteilen, ohne Kontext.
 
-### **18.7 Die moralische Infrastruktur**
+### **Die moralische Infrastruktur**
 
 Eine ethische Maschine  
 braucht mehr als Code –  
@@ -121,7 +121,7 @@ Maschinen handeln in Räumen,
 in denen **Moral technische Bedingung** ist,  
 nicht Dekoration.
 
-### **18.8 Mini-Szene — Der Algorithmus, der Nein sagt**
+### **Mini-Szene — Der Algorithmus, der Nein sagt**
 
 Ein Regierungsbeamter will  
 eine automatische Datenanalyse  
@@ -137,7 +137,7 @@ weil das Gesetz Teil ihres Codes ist.
 So sieht Machtbegrenzung im 21. Jahrhundert aus:  
 **eingeschrieben statt verordnet.**
 
-### **18.9 Fazit — Die Seele des Systems**
+### **Fazit — Die Seele des Systems**
 
 Digitale Ethik bedeutet,  
 den Maschinen beizubringen,  

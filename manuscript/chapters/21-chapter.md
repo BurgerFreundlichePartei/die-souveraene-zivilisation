@@ -3,7 +3,7 @@
 > *„Arbeit ist nicht, was wir tun,  
 sondern was durch uns geschieht.“*
 
-### **21.1 Vom Job zur Wirksamkeit**
+### **Vom Job zur Wirksamkeit**
 
 Die industrielle Ökonomie definierte Arbeit als Zeit gegen Geld.  
 Die digitale Ära sprengt diese Formel.  
@@ -19,7 +19,7 @@ Das neue Paradigma lautet:
 Und Beitrag kann viele Formen haben:  
 Wissen, Kreativität, Fürsorge, Aufmerksamkeit, Verantwortung.
 
-### **21.2 Die Ökonomie der Verantwortung**
+### **Die Ökonomie der Verantwortung**
 
 Wenn Maschinen Routine übernehmen,  
 bleibt dem Menschen das,  
@@ -35,7 +35,7 @@ für Entscheidungen, für Gemeinschaft, für Wirkung.
 Das ist nicht Moralismus,  
 sondern **Funktionslogik eines vernetzten Systems.**
 
-### **21.3 Mini-Szene — Der Programmierer der Zukunft**
+### **Mini-Szene — Der Programmierer der Zukunft**
 
 Er arbeitet nicht für ein Unternehmen,  
 sondern für ein Netzwerk öffentlicher Projekte.  
@@ -50,7 +50,7 @@ sondern für **öffentliche Intelligenz.**
 Das ist der neue Beruf des Jahrhunderts:  
 Architekt von Verantwortung.
 
-### **21.4 Das Ende der Beschäftigung**
+### **Das Ende der Beschäftigung**
 
 „Beschäftigung“ war immer ein sprachliches Missverständnis.  
 Sie diente dazu,  
@@ -69,7 +69,7 @@ Das System bewertet nicht,
 ob jemand arbeitet,  
 sondern **was sein Tun bewirkt.**
 
-### **21.5 Das Grundeinkommen der Verantwortung**
+### **Das Grundeinkommen der Verantwortung**
 
 Ein gerechter Staat erkennt an,  
 dass jeder Mensch Teil des Gemeinwesens ist –  
@@ -86,7 +86,7 @@ nicht bedingungslos,
 sondern bedingungsgerecht.  
 Es belohnt Teilnahme, nicht Anpassung.
 
-### **21.6 Wirtschaft als Kooperation**
+### **Wirtschaft als Kooperation**
 
 Unternehmen werden zu **Knoten in einem Vertrauensnetz.**  
 Sie handeln nicht mehr primär mit Produkten,  
@@ -102,7 +102,7 @@ Kapitalismus wandelt sich zur **Kooperationsökonomie**:
 Wettbewerb um Vertrauen,  
 nicht um Täuschung.
 
-### **21.7 Mini-Szene — Die Werkstatt der Gesellschaft**
+### **Mini-Szene — Die Werkstatt der Gesellschaft**
 
 In einer Stadt wird eine alte Fabrik umgebaut.  
 Nicht zu einem Start-up-Zentrum,  
@@ -122,7 +122,7 @@ Das ist keine Utopie,
 sondern das Geschäftsmodell der Zukunft:  
 **Gemeinschaft als Wertschöpfung.**
 
-### **21.8 Der neue Sinnbegriff**
+### **Der neue Sinnbegriff**
 
 Sinn ist kein Luxus,  
 sondern eine **Produktionsbedingung.**  
@@ -138,7 +138,7 @@ sondern in **Beteiligung, Bildung, Balance.**
 Ökonomisches Wachstum wird ersetzt durch  
 **Bewusstseinswachstum.**
 
-### **21.9 Fazit — Die Arbeit als Ausdruck des Selbst**
+### **Fazit — Die Arbeit als Ausdruck des Selbst**
 
 Arbeit kehrt an ihren Ursprung zurück:  
 Sie ist nicht länger Zwang,  

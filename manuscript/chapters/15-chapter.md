@@ -2,7 +2,7 @@
 
 > *„Eine Demokratie, die sich nicht selbst aktualisiert, wird vom Fortschritt deinstalliert.“*
 
-### **15.1 Von der Verfassung zur Version**
+### **Von der Verfassung zur Version**
 
 Die Demokratie wurde einst als feste Struktur entworfen –  
 ein Satz Regeln, der Jahrhunderte halten sollte.  
@@ -20,7 +20,7 @@ muss auch Demokratie **iterativ gepflegt** werden –
 mit Fehlerbehebungen, Erweiterungen,  
 und neuen Sicherheitsstandards.
 
-### **15.2 Das politische Betriebssystem**
+### **Das politische Betriebssystem**
 
 Im digitalen Staat wird Demokratie zum **Betriebssystem des Gemeinwesens**.  
 Sie stellt die Grundfunktionen bereit,  
@@ -39,7 +39,7 @@ nicht zum Herrschaftsinstrument.
 Bürger und Institutionen interagieren **wie Prozesse in einem verteilten System** –  
 stabil, modular, überprüfbar.
 
-### **15.3 Updates als demokratischer Prozess**
+### **Updates als demokratischer Prozess**
 
 Ein demokratisches Update unterscheidet sich  
 nicht vom Prinzip der Softwarepflege:  
@@ -59,7 +59,7 @@ Politik wird dadurch **experimentell, transparent und lernfähig.**
 Fehler sind kein Scheitern,  
 sondern Teil des Fortschritts.
 
-### **15.4 Mini-Szene — Das Update Bildung 3.2**
+### **Mini-Szene — Das Update Bildung 3.2**
 
 Ein Jahr nach Einführung des Bürgerauftrags-Systems  
 zeigt die Analyse:  
@@ -77,7 +77,7 @@ automatische Rückmeldung für Schulen.
 Das System lernt –  
 weil Demokratie endlich wieder **Feedback-fähig** ist.
 
-### **15.5 Governance als Open Source**
+### **Governance als Open Source**
 
 In der Demokratie 2.0 ist Gesetzgebung  
 kein exklusives Handwerk mehr,  
@@ -93,7 +93,7 @@ Transparenz ersetzt Vertrauen.
 Der Staat verliert nichts –  
 außer die Möglichkeit, sich zu verstecken.
 
-### **15.6 Patch-Kultur statt Revolution**
+### **Patch-Kultur statt Revolution**
 
 Revolutionen entstehen,  
 wenn Systeme sich nicht mehr anpassen.  
@@ -110,7 +110,7 @@ So ersetzt Demokratie den Ausnahmezustand
 durch **kontinuierliche Selbstheilung**.  
 Nicht Sturm, sondern Wartung.
 
-### **15.7 Verantwortung als Versionskontrolle**
+### **Verantwortung als Versionskontrolle**
 
 Wie bei Software-Entwicklung  
 muss auch bei Demokratie jede Änderung  
@@ -131,7 +131,7 @@ ohne Bürokratie –
 und verhindert, dass Macht  
 sich im Nebel der Geschichte versteckt.
 
-### **15.8 Demokratie als Lernsystem**
+### **Demokratie als Lernsystem**
 
 Wenn Demokratie ein Betriebssystem ist,  
 dann sind ihre Bürger **Entwickler**.  
@@ -148,7 +148,7 @@ Das Gemeinwesen hört auf,
 zyklisch zu atmen –  
 es atmet **kontinuierlich.**
 
-### **15.9 Fazit — Zukunft als Wartungsvertrag**
+### **Fazit — Zukunft als Wartungsvertrag**
 
 Eine lebendige Demokratie  
 ist kein Kunstwerk,  

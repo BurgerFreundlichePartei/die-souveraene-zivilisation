@@ -3,7 +3,7 @@
 > *„Freiheit ohne Bildung ist Zufall.  
 Technologie ohne Bewusstsein ist Gefahr.“*
 
-### **20.1 Bildung als Überlebenssystem**
+### **Bildung als Überlebenssystem**
 
 Bildung war nie neutral.  
 Sie formt, was eine Gesellschaft glaubt,  
@@ -23,7 +23,7 @@ Deshalb wird Bildung
 zum **entscheidenden Menschenrecht**  
 der kommenden Epoche.
 
-### **20.2 Digitale Mündigkeit**
+### **Digitale Mündigkeit**
 
 Digitale Mündigkeit bedeutet:  
 nicht nur wissen, wie Technik funktioniert,  
@@ -38,7 +38,7 @@ Ein mündiger Mensch erkennt:
 Digitale Bildung ist daher kein IT-Unterricht,  
 sondern **Bewusstseinsbildung im Umgang mit Unsichtbarkeit.**
 
-### **20.3 Mini-Szene — Der Unterricht im Jahr 2035**
+### **Mini-Szene — Der Unterricht im Jahr 2035**
 
 Die Klasse sitzt nicht vor Tablets,  
 sondern in einem Kreis.  
@@ -57,7 +57,7 @@ Die Kinder nicken –
 sie **sehen** das System,  
 nicht nur das Symbol.
 
-### **20.4 Bildung als ethische Praxis**
+### **Bildung als ethische Praxis**
 
 Digitale Kompetenz ohne Ethik  
 führt zu Zynismus.  
@@ -80,7 +80,7 @@ Im neuen Curriculum gehören dazu:
 Nicht als Zusatzfach,  
 sondern als **Grundsprache der Demokratie.**
 
-### **20.5 Die Rolle der Lehrerinnen und Lehrer**
+### **Die Rolle der Lehrerinnen und Lehrer**
 
 Lehrerinnen und Lehrer  
 werden in dieser Ordnung zu **Mentoren der Reflexion**.  
@@ -96,7 +96,7 @@ Sie begleiten Schüler dabei,
 digitale Werkzeuge zu **bewusst eingesetzten Instrumenten** zu machen –  
 nicht zu Autoritäten.
 
-### **20.6 Lebenslanges Lernen als Staatsprinzip**
+### **Lebenslanges Lernen als Staatsprinzip**
 
 Digitale Mündigkeit ist kein Schulfach,  
 sondern ein Lebensprozess.  
@@ -111,7 +111,7 @@ ethisch, technologisch, sozial.
 So wird Bildung zum **Betriebssystem der Demokratie** –  
 offen, anpassbar, nie abgeschlossen.
 
-### **20.7 Mini-Szene — Die Bürgerakademie**
+### **Mini-Szene — Die Bürgerakademie**
 
 Eine 60-jährige Bürgerin  
 besucht eine Online-Akademie der Regierung.  
@@ -128,7 +128,7 @@ Sie ist keine Nutzerin mehr –
 sie ist Teil des Systems,  
 bewusst, wach, ruhig.
 
-### **20.8 Bewusstsein als nationale Infrastruktur**
+### **Bewusstsein als nationale Infrastruktur**
 
 Das neue Gemeinwesen erkennt:  
 Die wichtigste Infrastruktur ist kein Netz aus Glasfaser,  
@@ -143,7 +143,7 @@ weil sie nicht blind glaubt.
 Ein Land, das in Bildung investiert,  
 investiert in **Sicherheitsarchitektur aus Bewusstsein.**
 
-### **20.9 Fazit — Die Bildung des Erwachens**
+### **Fazit — Die Bildung des Erwachens**
 
 Bildung ist kein Systemziel mehr,  
 sondern die **Energiequelle des Staates.**

@@ -9,11 +9,11 @@ nicht in Hinterzimmern, sondern in Systemen, die dem Menschen gehören.
 
 Dieses Buch zeigt, wie Freiheit zur Struktur wird:
 
-* das **politische Profil** – personalisierte, konfigurierbare Teilhabe
-* der **Health Wallet** – souveräner Umgang mit Gesundheitsdaten
-* eine **digitale Verwaltung**, die handelt statt hindert
-* Bildung, Wirtschaft und Finanzen im Gleichgewicht
-* der **Gesellschaftsvertrag des 21. Jahrhunderts**
+ • das **politische Profil** – personalisierte, konfigurierbare Teilhabe  
+ • der **Health Wallet** – souveräner Umgang mit Gesundheitsdaten  
+ • eine **digitale Verwaltung**, die handelt statt hindert  
+ • Bildung, Wirtschaft und Finanzen im Gleichgewicht  
+ • der **Gesellschaftsvertrag des 21. Jahrhunderts**  
 
 Statt Ideologien bietet es Architektur.
 Statt Parolen: Mechanismen, die funktionieren.
