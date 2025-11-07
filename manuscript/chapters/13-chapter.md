@@ -44,11 +44,11 @@ zielgebunden und transparent.
 
 Die Bürger entscheiden selbst:
 
-- Welche Informationen geteilt werden,
-- für welchen Zweck,
-- für welchen Zeitraum,
-- mit wem,
-- und wann sie wieder gelöscht werden.
+• Welche Informationen geteilt werden,  
+• für welchen Zweck,  
+• für welchen Zeitraum,  
+• mit wem,  
+• und wann sie wieder gelöscht werden.  
 
 Dadurch entsteht eine **aktive Beziehung**  
 zwischen Mensch und Staat –  
@@ -113,10 +113,10 @@ Auch der Staat wird transparent.
 Wenn Bürger Daten freigeben,  
 sehen sie, wie diese verwendet werden:
 
-- Welche Algorithmen sie verarbeitet haben,
-- welche Entscheidungen daraus resultierten,
-- welche Dritten Zugriff hatten,
-- und wann der Zugriff endete.
+• Welche Algorithmen sie verarbeitet haben,  
+• welche Entscheidungen daraus resultierten,  
+• welche Dritten Zugriff hatten,  
+• und wann der Zugriff endete.  
 
 So entsteht eine **symmetrische Beziehung**.  
 Nicht: „Der Staat weiß über mich Bescheid“,  

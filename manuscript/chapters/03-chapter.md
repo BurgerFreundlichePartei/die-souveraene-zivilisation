@@ -71,8 +71,8 @@ sie wird **verwaltet durch den, dem sie gehört**.
 
 Im digitalen Zeitalter braucht der Mensch zwei Formen der Identität:
 
-- eine **funktionale**, die ihn im System eindeutig macht,
-- und eine **politische**, die ihn im Gemeinwesen wirksam macht.
+• eine **funktionale**, die ihn im System eindeutig macht,  
+• und eine **politische**, die ihn im Gemeinwesen wirksam macht.
 
 Die funktionale Identität sagt: *„Ich bin registriert.“*  
 Die politische sagt: *„Ich bin beteiligt.“*

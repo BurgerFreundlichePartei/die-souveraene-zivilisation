@@ -113,9 +113,9 @@ die sie zu richtigem Verhalten zwingt.
 
 Das politische Profil-System liefert genau das:
 
-- Jede Handlung ist nachvollziehbar.
-- Jeder Eingriff ist signiert.
-- Jeder Missbrauch ist sichtbar.
+• Jede Handlung ist nachvollziehbar.  
+• Jeder Eingriff ist signiert.  
+• Jeder Missbrauch ist sichtbar.  
 
 Maschinen handeln in Räumen,  
 in denen **Moral technische Bedingung** ist,  

@@ -31,9 +31,9 @@ sondern **verstehen, wie Macht in ihr verborgen ist.**
 
 Ein mündiger Mensch erkennt:
 
-- wann er beobachtet wird,
-- welche Algorithmen ihn beeinflussen,
-- wann Bequemlichkeit zur Abhängigkeit wird.
+• wann er beobachtet wird,  
+• welche Algorithmen ihn beeinflussen,  
+• wann Bequemlichkeit zur Abhängigkeit wird.  
 
 Digitale Bildung ist daher kein IT-Unterricht,  
 sondern **Bewusstseinsbildung im Umgang mit Unsichtbarkeit.**
@@ -70,12 +70,12 @@ und Verständnis **warum es funktionieren sollte.**
 
 Im neuen Curriculum gehören dazu:
 
-- Kryptografie und Datenschutz
-- Algorithmische Fairness
-- Informationskritik
-- Medienbewusstsein
-- Psychologie der Aufmerksamkeit
-- Soziale Verantwortung im digitalen Raum
+• Kryptografie und Datenschutz  
+• Algorithmische Fairness  
+• Informationskritik  
+• Medienbewusstsein  
+• Psychologie der Aufmerksamkeit  
+• Soziale Verantwortung im digitalen Raum  
 
 Nicht als Zusatzfach,  
 sondern als **Grundsprache der Demokratie.**

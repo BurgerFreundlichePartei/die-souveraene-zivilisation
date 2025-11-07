@@ -32,10 +32,10 @@ nicht eine dauerhafte Registrierung.
 
 Das Profil entscheidet selbst:
 
-- Wann bin ich sichtbar?
-- Für wen bin ich erreichbar?
-- Welche Themen oder Räume betrete ich?
-- Wann ziehe ich mich wieder zurück?
+• Wann bin ich sichtbar?  
+• Für wen bin ich erreichbar?  
+• Welche Themen oder Räume betrete ich?  
+• Wann ziehe ich mich wieder zurück?  
 
 Damit entsteht eine dynamische Form der Öffentlichkeit:  
 nicht aus Zwang, sondern aus **Freiwilligkeit mit Wirkung**.

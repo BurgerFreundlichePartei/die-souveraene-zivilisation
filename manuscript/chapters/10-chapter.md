@@ -26,8 +26,8 @@ nicht hierarchisch.
 Das System unterscheidet Wirkung,  
 nicht Würde.
 
-- Der aktive Bürger gestaltet Prozesse.
-- Der ruhende Bürger stabilisiert sie.
+• Der aktive Bürger gestaltet Prozesse.  
+• Der ruhende Bürger stabilisiert sie.  
 
 Beide sind notwendig:  
 der eine für Bewegung, der andere für Balance.

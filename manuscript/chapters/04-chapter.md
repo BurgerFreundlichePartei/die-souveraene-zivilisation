@@ -72,10 +72,10 @@ und niemand wusste, wer ihn wann prüft.
 
 Jetzt sieht der Bürger in Echtzeit:
 
-- welcher Algorithmus die Vorprüfung übernimmt,
-- welcher Mitarbeiter die Entscheidung bestätigt,
-- welche Daten verwendet wurden,
-- und welche gelöscht werden.
+• welcher Algorithmus die Vorprüfung übernimmt,  
+• welcher Mitarbeiter die Entscheidung bestätigt,  
+• welche Daten verwendet wurden,  
+• und welche gelöscht werden.  
 
 Alles ist sichtbar – außer dem Bürger selbst.  
 Er bleibt anonym, aber sein Weg durch das System ist **transparent**.

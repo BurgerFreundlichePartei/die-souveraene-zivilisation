@@ -25,9 +25,9 @@ und erst bei bewusster Aktivierung wird es **öffentlich**.
 
 Diese Architektur garantiert:
 
-- Niemand kann gezwungen werden, sich zu zeigen,
-- kein öffentlicher Status wird bevorzugt,
-- und jede Freigabe ist zeitlich und inhaltlich begrenzt.
+• Niemand kann gezwungen werden, sich zu zeigen,  
+• kein öffentlicher Status wird bevorzugt,  
+• und jede Freigabe ist zeitlich und inhaltlich begrenzt.  
 
 Privatheit ist kein Zustand,  
 sondern ein **aktiver Mechanismus der Freiheit**.

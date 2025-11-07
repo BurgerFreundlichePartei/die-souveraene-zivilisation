@@ -27,10 +27,10 @@ Recht, Sicherheit, Infrastruktur, Bildung, Gesundheit.
 
 Jede dieser Leistungen folgt denselben Prinzipien:
 
-- klar definierter Auftrag,
-- transparente Ausführung,
-- überprüfbare Ergebnisse,
-- kontinuierliches Feedback.
+• klar definierter Auftrag,  
+• transparente Ausführung,  
+• überprüfbare Ergebnisse,  
+• kontinuierliches Feedback.  
 
 Das politische Profil wird zur **Schnittstelle** dafür.  
 Der Bürger gibt Impulse –  
@@ -85,10 +85,10 @@ Jede Dienstleistung wird evaluiert –
 nicht von internen Gremien,  
 sondern durch öffentlich einsehbare Kennzahlen:
 
-- Bearbeitungsdauer
-- Zufriedenheit
-- Nachvollziehbarkeit
-- Nachhaltigkeit
+• Bearbeitungsdauer  
+• Zufriedenheit  
+• Nachvollziehbarkeit  
+• Nachhaltigkeit  
 
 Diese Kennzahlen werden automatisch aus den Profilen erzeugt.  
 So entsteht eine **transparente Leistungsgesellschaft**,  

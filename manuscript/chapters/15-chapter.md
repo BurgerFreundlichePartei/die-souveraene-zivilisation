@@ -121,10 +121,10 @@ erhält eine **digitale Signatur** und Versionsnummer.
 Dadurch wird politische Entwicklung  
 rückverfolgbar wie ein Git-Repository:
 
-- Wer schlug was vor?
-- Wann wurde es geändert?
-- Mit welcher Begründung?
-- Und was hat sich dadurch verbessert?
+• Wer schlug was vor?  
+• Wann wurde es geändert?  
+• Mit welcher Begründung?  
+• Und was hat sich dadurch verbessert?  
 
 Das schafft institutionelles Gedächtnis  
 ohne Bürokratie –  

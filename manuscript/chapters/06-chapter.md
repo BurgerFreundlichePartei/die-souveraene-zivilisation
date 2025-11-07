@@ -24,10 +24,10 @@ wenn die Infrastruktur seine Entscheidungen respektiert – technisch, nicht nur
 
 Das politische Profil erfüllt diese Bedingung:
 
-- Jede Entscheidung wird **vom Nutzer ausgelöst**, nie von oben zugewiesen.
-- Jede Zustimmung ist **widerrufbar**, jederzeit und rückwirkend.
-- Jede Datenbeziehung ist **symmetrisch**: beide Seiten wissen, was geteilt wird.
-- Jede Handlung hinterlässt eine **prüfbare Spur**, aber keine gläserne Person.
+• Jede Entscheidung wird **vom Nutzer ausgelöst**, nie von oben zugewiesen.  
+• Jede Zustimmung ist **widerrufbar**, jederzeit und rückwirkend.  
+• Jede Datenbeziehung ist **symmetrisch**: beide Seiten wissen, was geteilt wird.  
+• Jede Handlung hinterlässt eine **prüfbare Spur**, aber keine gläserne Person.
 
 So entsteht ein System, in dem Selbstbestimmung **nicht behauptet**,  
 sondern **protokolliert** wird.
@@ -40,9 +40,9 @@ ohne mich aus der Gesellschaft auszuklinken.
 
 Das Profil macht das möglich:
 
-- Es verwaltet Zustimmungen zu Gesetzen, Programmen, Organisationen.
-- Es erlaubt temporäre Freigaben – z. B. für Abstimmungen oder Initiativen.
-- Es ersetzt Anträge durch **aktive Interaktionen**:  
+• Es verwaltet Zustimmungen zu Gesetzen, Programmen, Organisationen.  
+• Es erlaubt temporäre Freigaben – z. B. für Abstimmungen oder Initiativen.  
+• Es ersetzt Anträge durch **aktive Interaktionen**:  
   Der Bürger gibt Signale, der Staat reagiert automatisch.
 
 Dadurch verschwindet der Widerspruch zwischen Freiheit und Funktion.  
