@@ -55,12 +55,33 @@ wird das System selbst zum Wächter der Freiheit.
 ### Die neue Triade
 
 Die Demokratie der Zukunft ruht auf drei Säulen:
-
-| Prinzip             | Bedeutung            | Wirkung                |
-|:--------------------|:---------------------|:-----------------------|
-| **Vertrauen**       | moralische Grundlage | ermöglicht Kooperation |
-| **Transparenz**     | politische Grundlage | ermöglicht Kontrolle   |
-| **Verschlüsselung** | technische Grundlage | ermöglicht Sicherheit  |
+<!-- Grundlagenprinzipien (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Grundlagen&shy;prinzipien</caption>
+  <thead>
+    <tr>
+      <th scope="col">Prin&shy;zip</th>
+      <th scope="col">Bedeu&shy;tung</th>
+      <th scope="col">Wir&shy;kung</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Ver&shy;trauen</strong></th>
+      <td>mora&shy;lische Grund&shy;lage</td>
+      <td>ermög&shy;licht Koope&shy;ration</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Trans&shy;parenz</strong></th>
+      <td>poli&shy;tische Grund&shy;lage</td>
+      <td>ermög&shy;licht Kon&shy;trolle</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Ver&shy;schlüs&shy;selung</strong></th>
+      <td>tech&shy;nische Grund&shy;lage</td>
+      <td>ermög&shy;licht Sicher&shy;heit</td>
+    </tr>
+  </tbody>
+</table>
 
 Erst im Zusammenspiel entsteht das,  
 was man früher „Rechtsstaat“ nannte –  

@@ -28,4 +28,6 @@ keywords:
 output_formats: ["pdf", "epub", "docx"]
 kdp_enabled: true
 epub-stylesheet:
-  - config/styles.css
+  - config/base-styles.css
+  - config/table-styles.css
+  - config/toc-styles.css
