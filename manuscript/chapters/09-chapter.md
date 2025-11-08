@@ -90,12 +90,33 @@ es **erinnert nur, solange es nötig ist.**
 ### Technik der Balance
 
 Reversibilität basiert auf drei Technologien:
-
-| Komponente                | Funktion                     | Beschreibung                                        |
-|:--------------------------|:-----------------------------|:----------------------------------------------------|
-| **Zero-Knowledge-Proofs** | Nachweis ohne Offenlegung    | Daten werden bestätigt, ohne sie preiszugeben.      |
-| **Smart Contracts**       | Automatische Ablaufsteuerung | Freigaben laufen ab, wenn Bedingungen erfüllt sind. |
-| **Time-Locks**            | Temporäre Sichtbarkeit       | Datenzugriffe verfallen automatisch nach Zeit.      |
+<!-- Kryptografische Komponenten (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Kryptografische Komponenten</caption>
+  <thead>
+    <tr>
+      <th scope="col">Kompo&shy;nente</th>
+      <th scope="col">Funktion</th>
+      <th scope="col">Beschrei&shy;bung</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Zero-Know&shy;ledge-Proofs</strong></th>
+      <td>Nach&shy;weis ohne Offen&shy;legung</td>
+      <td>Daten werden bestä&shy;tigt, ohne sie preis&shy;zu&shy;geben.</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Smart&nbsp;Contracts</strong></th>
+      <td>Auto&shy;matische Ablauf&shy;steuerung</td>
+      <td>Frei&shy;gaben laufen ab,<br />wenn Bedin&shy;gungen erfüllt sind.</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Time-Locks</strong></th>
+      <td>Temporäre Sicht&shy;bar&shy;keit</td>
+      <td>Daten&shy;zu&shy;griffe verfallen auto&shy;matisch<br />nach einer bestimm&shy;ten Zeit.</td>
+    </tr>
+  </tbody>
+</table>
 
 Dadurch entsteht ein Mechanismus,  
 der sich selbst korrigiert,  

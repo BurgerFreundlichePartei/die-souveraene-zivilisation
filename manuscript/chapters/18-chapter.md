@@ -52,13 +52,43 @@ In einer digitalen Demokratie
 muss jede automatisierte Entscheidung  
 mit folgenden Parametern verknüpft sein:
 
-| Prinzip                 | Bedeutung                                  | Mechanismus                    |
-|:------------------------|:-------------------------------------------|:-------------------------------|
-| **Nachvollziehbarkeit** | Entscheidungen müssen erklärbar sein       | Explainable AI, offene Modelle |
-| **Fairness**            | Keine strukturelle Diskriminierung         | Bias Audits, Quelloffenheit    |
-| **Verhältnismäßigkeit** | Keine Übermaßmaßnahmen                     | Transparente Schwellenwerte    |
-| **Rückrufbarkeit**      | Jede Entscheidung muss revidierbar bleiben | menschliche Overrides          |
-| **Verantwortung**       | Haftung bleibt beim Menschen               | Signatur durch Amt oder Person |
+<!-- Prinzipien der digitalen Ethik (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Prinzipien der digitalen Ethik</caption>
+  <thead>
+    <tr>
+      <th scope="col">Prinzip</th>
+      <th scope="col">Bedeutung</th>
+      <th scope="col">Mechanismus</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Nach&shy;voll&shy;zieh&shy;barkeit</strong></th>
+      <td>Ent&shy;scheidungen müssen erklärbar sein</td>
+      <td>Explainable&nbsp;AI,<br />offene Modelle</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Fairness</strong></th>
+      <td>Keine struk&shy;turelle Diskri&shy;minierung</td>
+      <td>Bias&nbsp;Audits,<br />Quell&shy;offenheit</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Verhält&shy;nismäßig&shy;keit</strong></th>
+      <td>Keine Über&shy;maß&shy;maßnahmen</td>
+      <td>Trans&shy;parente Schwellen&shy;werte</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Rück&shy;ruf&shy;barkeit</strong></th>
+      <td>Jede Ent&shy;scheidung muss revidierbar bleiben</td>
+      <td>mensch&shy;liche&nbsp;Overrides</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Verant&shy;wortung</strong></th>
+      <td>Haftung bleibt beim Men&shy;schen</td>
+      <td>Signatur durch Amt oder Person</td>
+    </tr>
+  </tbody>
+</table>
 
 So entsteht keine „Maschinenmoral“,  
 sondern **institutionalisierte Ethik im Code.**

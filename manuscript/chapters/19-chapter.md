@@ -84,14 +84,43 @@ kein Diktat.
 ### Arbeitsteilung im Denken
 
 Kooperation bedeutet Spezialisierung:
-
-| Kompetenz         | Mensch               | Maschine               |
-|:------------------|:---------------------|:-----------------------|
-| **Empathie**      | versteht Bedürfnisse | erkennt Muster         |
-| **Kreativität**   | erfindet Neues       | kombiniert Bestehendes |
-| **Ethik**         | erkennt Werte        | erzwingt Regeln        |
-| **Präzision**     | setzt Ziele          | optimiert Wege         |
-| **Verantwortung** | trägt Folgen         | dokumentiert Prozesse  |
+<!-- Mensch–Maschine-Kompetenzen (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Kompetenzen von Mensch und Maschine</caption>
+  <thead>
+    <tr>
+      <th scope="col">Kompe&shy;tenz</th>
+      <th scope="col">Mensch</th>
+      <th scope="col">Maschine</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Empa&shy;thie</strong></th>
+      <td>versteht Bedürf&shy;nisse</td>
+      <td>erkennt Muster</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Krea&shy;tivität</strong></th>
+      <td>erfindet Neues</td>
+      <td>kombiniert Bestehendes</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Ethik</strong></th>
+      <td>erkennt Werte</td>
+      <td>erzwingt Regeln</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Prä&shy;zision</strong></th>
+      <td>setzt Ziele</td>
+      <td>opti&shy;miert Wege</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Verant&shy;wortung</strong></th>
+      <td>trägt Folgen</td>
+      <td>doku&shy;mentiert Prozesse</td>
+    </tr>
+  </tbody>
+</table>
 
 Der Mensch bleibt Ursprung,  
 die Maschine wird Erweiterung.  

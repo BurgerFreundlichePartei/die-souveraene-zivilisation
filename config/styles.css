@@ -34,11 +34,11 @@ figure {
 
 /* === FIGURE CAPTIONS === */
 figcaption {
-    color: #333333 !important;        /* Strong, readable dark gray */
+    color: #333333 !important; /* Strong, readable dark gray */
     font-size: 0.9em !important;
     line-height: 1.4em !important;
-    font-weight: 500 !important;     /* Medium weight */
-    font-style: italic;              /* Subtle emphasis */
+    font-weight: 500 !important; /* Medium weight */
+    font-style: italic; /* Subtle emphasis */
     text-align: center !important;
     margin-top: 0.5em !important;
     margin-bottom: 0.7em !important;
@@ -81,10 +81,21 @@ h1, h2, h3, h4, h5, h6 {
     page-break-inside: avoid;
 }
 
-h1 { font-size: 1.8em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.3em; }
-h4 { font-size: 1.1em; }
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
 
 /* Prevent headings from being orphaned */
 p + h2,
@@ -300,12 +311,14 @@ a:visited {
 .toc--print .toc__page {
     /* Seitenzahl rechtsbündig und stabil breit */
     text-align: right;
-    min-width: 3ch;         /* passt für bis zu 3-stellige Seitenzahlen */
+    min-width: 3ch; /* passt für bis zu 3-stellige Seitenzahlen */
     font-variant-numeric: tabular-nums;
 }
 
 /* Feinschliff: Abschnittsabstände */
-.toc--print li + li { margin-top: .15rem; }
+.toc--print li + li {
+    margin-top: .15rem;
+}
 
 /* Überschriftenabstände (z. B. "Bonus Materials" Block) */
 .toc--print .toc__section {
@@ -315,13 +328,18 @@ a:visited {
 
 /* Druckmodus: etwas kompakter */
 @media print {
-    .toc--print { margin-bottom: .8rem; }
-    .toc--print li + li { margin-top: .1rem; }
+    .toc--print {
+        margin-bottom: .8rem;
+    }
+
+    .toc--print li + li {
+        margin-top: .1rem;
+    }
 }
 
 .page-break {
     page-break-before: always; /* klassische Eigenschaft */
-    break-before: page;        /* moderne Eigenschaft */
+    break-before: page; /* moderne Eigenschaft */
 }
 
 .toc-table {
@@ -377,4 +395,61 @@ a:visited {
         page-break-before: always;
         page-break-after: always;
     }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+caption {
+    caption-side: top;
+    font-weight: 600;
+    margin-bottom: .5em;
+    text-align: left;
+}
+
+thead th,
+tbody th,
+tbody td {
+    border: 1px solid #ddd;
+    padding: .6em .7em;
+    vertical-align: top;
+    /* saubere deutsche Umbrüche */
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    word-break: normal;
+    overflow-wrap: anywhere;
+}
+
+thead th {
+    background: #f6f6f6;
+    font-weight: 700;
+}
+
+/* Erste Spalte semantisch als Zeilenkopf, aber ohne Reader-Sonderformatierung */
+tbody th[scope="row"] {
+    text-decoration: none; /* verhindert „Unterstreichung“ */
+    font-style: normal; /* verhindert kursiv */
+    font-weight: 600; /* moderate Betonung */
+    white-space: nowrap; /* kompakt, bricht aber durch &shy; bei Bedarf */
+}
+
+/* Optional: gleiche Typo, falls erste Spalte keine ths nutzt */
+tbody td:first-child {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+/* Links in Tabellen nicht automatisch unterstreichen (optional) */
+table a {
+    text-decoration: none;
+}
+
+table a:hover, table a:focus {
+    text-decoration: underline;
 }

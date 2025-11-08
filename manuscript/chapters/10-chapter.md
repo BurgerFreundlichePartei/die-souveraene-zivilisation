@@ -78,13 +78,33 @@ als wäre er nie abwesend gewesen.
 
 In der neuen Architektur wird Gleichheit nicht behauptet,  
 sie wird **technisch garantiert**.
-
-| Prinzip                    | Wirkung                                                                    |
-|:---------------------------|:---------------------------------------------------------------------------|
-| **Neutraler Status**       | Kein Profil erhält Vorteile durch Aktivität oder Sichtbarkeit.             |
-| **Universeller Zugang**    | Jeder Bürger hat dieselben Funktionen – unabhängig von Nutzungshäufigkeit. |
-| **Freiwillige Persistenz** | Daten bleiben, solange sie vom Bürger gewünscht sind.                      |
-| **Reversible Reputation**  | Ruf entsteht durch Verhalten, nicht durch Dauer.                           |
+<!-- Prinzipien der digitalen Gleichheit (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Prinzipien der digitalen Gleichheit</caption>
+  <thead>
+    <tr>
+      <th scope="col">Prin&shy;zip</th>
+      <th scope="col">Wir&shy;kung</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Neu&shy;traler Status</strong></th>
+      <td>Kein Profil erhält Vor&shy;teile<br />durch Aktivität oder Sicht&shy;bar&shy;keit.</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Uni&shy;verseller Zugang</strong></th>
+      <td>Jeder Bürger hat diesel&shy;ben Funk&shy;tionen – unab&shy;hängig<br />von Nutzungs&shy;häufig&shy;keit.</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Frei&shy;willige Persis&shy;tenz</strong></th>
+      <td>Daten bleiben, solange sie vom Bürger ge&shy;wünscht sind.</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Rever&shy;sible Repu&shy;tation</strong></th>
+      <td>Ruf entsteht durch Ver&shy;halten,<br />nicht durch Dauer.</td>
+    </tr>
+  </tbody>
+</table>
 
 Gleichberechtigung wird damit nicht moralisch,  
 sondern **systemisch verankert**.

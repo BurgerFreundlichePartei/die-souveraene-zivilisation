@@ -80,12 +80,33 @@ mit Korrektur, ohne Scham.
 
 Politische Präsenz bedeutet nicht Dauerstress.  
 Das System erlaubt **skalierte Mitwirkung**:
-
-| Intensität  | Beschreibung                 | Beispiel                               |
-|:------------|:-----------------------------|:---------------------------------------|
-| **Passiv**  | Information & Beobachtung    | Themen folgen, Zusammenfassungen lesen |
-| **Reaktiv** | Reaktion auf Impulse         | Abstimmung, Feedback, Zustimmung       |
-| **Aktiv**   | Eigeninitiative & Gestaltung | Vorschläge, Initiativen, Kooperationen |
+<!-- Beteiligungsintensitäten (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Beteiligungs­intensitäten</caption>
+  <thead>
+    <tr>
+      <th scope="col">Inten&shy;sität</th>
+      <th scope="col">Beschrei&shy;bung</th>
+      <th scope="col">Bei&shy;spiel</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Pas&shy;siv</strong></th>
+      <td>Infor&shy;mation&nbsp;&amp;&nbsp;Beob&shy;achtung</td>
+      <td>Themen folgen,<br />Zusam&shy;men&shy;fassungen lesen</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Re&shy;aktiv</strong></th>
+      <td>Reak&shy;tion auf Im&shy;pulse</td>
+      <td>Abstim&shy;mung,<br />Feed&shy;back,<br />Zustim&shy;mung</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Ak&shy;tiv</strong></th>
+      <td>Eigen&shy;initiative&nbsp;&amp;&nbsp;Ge&shy;staltung</td>
+      <td>Vor&shy;schläge,<br />Initia&shy;tiven,<br />Koope&shy;rationen</td>
+    </tr>
+  </tbody>
+</table>
 
 Jeder Bürger bestimmt sein Beteiligungsniveau –  
 und kann es jederzeit ändern.  

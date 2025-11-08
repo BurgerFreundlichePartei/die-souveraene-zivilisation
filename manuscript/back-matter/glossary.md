@@ -1,4 +1,6 @@
-# Glossar – Zentrale Begriffe des politischen Profils
+# Glossar {#-glossar}
+
+## Zentrale Begriffe des politischen Profils
 
 ### Politisches Profil
 

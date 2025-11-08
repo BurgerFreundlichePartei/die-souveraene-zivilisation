@@ -53,12 +53,38 @@ aber nie **Teil eines Apparats**.
 
 ### Die vier Ebenen der Selbstbestimmung
 
-| Ebene          | Beschreibung                                | Beispiel                                     |
-|:---------------|:--------------------------------------------|:---------------------------------------------|
-| **Persönlich** | Kontrolle über Identität und Daten          | Wer darf meine Daten sehen?                  |
-| **Sozial**     | Einfluss auf Gruppen, Projekte, Gemeinwesen | In welcher Initiative wirke ich mit?         |
-| **Politisch**  | Mitgestaltung von Entscheidungen            | Welche Gesetze unterstütze ich aktiv?        |
-| **Kulturell**  | Ausdruck von Werten, Sprache, Ethik         | Welche Prinzipien prägen meine Gemeinschaft? |
+<!-- Gesellschaftliche Ebenen (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Gesellschaftliche Ebenen</caption>
+  <thead>
+    <tr>
+      <th scope="col">Ebene</th>
+      <th scope="col">Beschrei&shy;bung</th>
+      <th scope="col">Beispiel</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Per&shy;sön&shy;lich</strong></th>
+      <td>Kontrolle über Iden&shy;tität und Daten</td>
+      <td>Wer darf meine Daten sehen?</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Sozial</strong></th>
+      <td>Einfluss auf Gruppen,<br />Pro&shy;jekte,<br />Gemein&shy;wesen</td>
+      <td>In welcher Initia&shy;tive wirke ich mit?</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Po&shy;li&shy;tisch</strong></th>
+      <td>Mit&shy;gestaltung von Ent&shy;scheidungen</td>
+      <td>Welche Gesetze unter&shy;stütze ich aktiv?</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Kul&shy;tu&shy;rell</strong></th>
+      <td>Aus&shy;druck von Wer&shy;ten,<br />Spra&shy;che,<br />Ethik</td>
+      <td>Welche Prin&shy;zi&shy;pien prägen meine Gemein&shy;schaft?</td>
+    </tr>
+  </tbody>
+</table>
 
 Das Profil ist die Infrastruktur,  
 die diese Ebenen verbindet –  

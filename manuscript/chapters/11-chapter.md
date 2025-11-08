@@ -37,17 +37,56 @@ sondern **ständig synchronisiert** wird.
 
 ### Die technische Topologie
 
-| Ebene                | Beschreibung                               | Beispiel                                    |
-|:---------------------|:-------------------------------------------|:--------------------------------------------|
-| **Individuum**       | Persönliches Profil, lokale Entscheidungen | Zustimmung, Teilnahme, Rückzug              |
-| **Kollektiv**        | Gruppen, Projekte, lokale Gemeinschaften   | Bürgerinitiativen, Genossenschaften         |
-| **Gesellschaft**     | Koordination zwischen Gruppen              | Transparente Abstimmungsprozesse            |
-| **Staat / Netzwerk** | Integrationsschicht                        | Automatisierte Umsetzung, Berichterstattung |
+Die dezentrale Ordnung kennt keine Spitze,
+sondern vier miteinander verbundene Ebenen.
+Jede ist Quelle und Empfänger zugleich:
 
-Alle Ebenen sind **gleichwertig verbunden**,  
-keine dominiert die andere.  
-Dadurch kann sich Gesellschaft **organisch anpassen**,  
-statt von oben reorganisiert zu werden.
+<!-- Technische Topologie (de, mit &shy; für saubere Trennstellen) -->
+<table lang="de" class="topologie">
+  <caption>Die technische Topologie</caption>
+  <thead>
+    <tr>
+      <th scope="col">Ebene</th>
+      <th scope="col">Beschreibung</th>
+      <th scope="col">Beispiel</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Individuum</strong></th>
+      <td>Persön&shy;liches Profil,<br />lokale Ent&shy;scheidungen</td>
+      <td>Zustim&shy;mung,<br />Teil&shy;nahme,<br />Rück&shy;zug</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Kollektiv</strong></th>
+      <td>Gruppen, Pro&shy;jekte,<br />lokale Gemein&shy;schaften</td>
+      <td>Bürger&shy;initiativen,<br />Genossen&shy;schaften</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Gesell&shy;schaft</strong></th>
+      <td>Koor&shy;dination<br />zwischen Gruppen</td>
+      <td>Trans&shy;parente<br />Abstimmungs&shy;prozesse</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Staat&nbsp;/&nbsp;Netzwerk</strong></th>
+      <td>Inte&shy;grations&shy;schicht</td>
+      <td>Automati&shy;sierte Um&shy;setzung,<br />Bericht&shy;erstattung</td>
+    </tr>
+  </tbody>
+</table>
+
+Gemeinsam bilden sie die **Topologie der Selbstorganisation**:
+keine Ebene herrscht über die andere,
+jede trägt ihren Teil zur kollektiven Intelligenz bei.
+
+Das Netzwerk integriert Entscheidungen,
+überprüft sie technisch
+und verteilt ihre Wirkung dorthin,
+wo sie gebraucht wird.
+
+So entsteht eine Architektur,
+in der Gesellschaft **nicht verwaltet, sondern vernetzt** wird –
+ein System, das sich selbst reguliert,
+weil es aus lebendiger Verbindung besteht.
 
 ### Der Knoten als neue Behörde
 

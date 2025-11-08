@@ -45,13 +45,38 @@ nicht aus Zwang, sondern aus **Freiwilligkeit mit Wirkung**.
 ### Die Architektur der Teilhabe
 
 Öffentliche Teilhabe funktioniert über ein mehrstufiges System:
-
-| Ebene          | Beschreibung                             | Beispiel                                 |
-|:---------------|:-----------------------------------------|:-----------------------------------------|
-| **Lokal**      | Beteiligung an regionalen Entscheidungen | Verkehrsplanung, Energieversorgung       |
-| **Thematisch** | Austausch zu Sachfragen                  | Umwelt, Bildung, Digitalisierung         |
-| **National**   | Mitwirkung an Gesetzesentwürfen          | Bürgerkonsultationen, Feedback-Schleifen |
-| **Global**     | transnationale Kooperation               | Klimaabkommen, Ethikrichtlinien          |
+<!-- Partizipationsebenen (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Partizipationsebenen</caption>
+  <thead>
+    <tr>
+      <th scope="col">Ebene</th>
+      <th scope="col">Beschrei&shy;bung</th>
+      <th scope="col">Beispiel</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Lokal</strong></th>
+      <td>Betei&shy;ligung an regio&shy;nalen Ent&shy;scheidungen</td>
+      <td>Verkehrs&shy;planung,<br />Energie&shy;versorgung</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Thema&shy;tisch</strong></th>
+      <td>Aus&shy;tausch zu Sach&shy;fragen</td>
+      <td>Umwelt,<br />Bil&shy;dung,<br />Digi&shy;tali&shy;sierung</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Natio&shy;nal</strong></th>
+      <td>Mit&shy;wirkung an Gesetzes&shy;entwürfen</td>
+      <td>Bürger&shy;konsultationen,<br />Feed&shy;back-Schlei&shy;fen</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Global</strong></th>
+      <td>trans&shy;nationale Koope&shy;ration</td>
+      <td>Klima&shy;abkommen,<br />Ethik&shy;richtlinien</td>
+    </tr>
+  </tbody>
+</table>
 
 Das Profil verbindet diese Ebenen technisch,  
 ohne neue Hierarchien zu schaffen.  

@@ -27,12 +27,33 @@ statt sie nur zu zitieren.
 ### Die drei Säulen der lebenden Republik
 
 Die neue Ordnung ruht auf drei Säulen:
-
-| Säule                | Funktion                | Leitprinzip                                         |
-|:---------------------|:------------------------|:----------------------------------------------------|
-| **1. Transparenz**   | Macht sichtbar machen   | „Vertraue, aber überprüfe.“                         |
-| **2. Teilhabe**      | Verantwortung verteilen | „Wer betroffen ist, wirkt mit.“                     |
-| **3. Ethik im Code** | Integrität erzwingen    | „Kein System darf mehr wissen als es verantwortet.“ |
+<!-- Drei Säulen der digitalen Ordnung (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Die drei Säulen der digitalen Ordnung</caption>
+  <thead>
+    <tr>
+      <th scope="col">Säule</th>
+      <th scope="col">Funk&shy;tion</th>
+      <th scope="col">Leit&shy;prinzip</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>1.&nbsp;Trans&shy;parenz</strong></th>
+      <td>Macht sicht&shy;bar machen</td>
+      <td>„Ver&shy;traue, aber über&shy;prüfe.“</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>2.&nbsp;Teil&shy;habe</strong></th>
+      <td>Verant&shy;wortung ver&shy;teilen</td>
+      <td>„Wer be&shy;troffen ist, wirkt mit.“</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>3.&nbsp;Ethik im Code</strong></th>
+      <td>Inte&shy;grität erzwingen</td>
+      <td>„Kein System darf mehr wissen,<br />als es ver&shy;ant&shy;wortet.“</td>
+    </tr>
+  </tbody>
+</table>
 
 Diese drei Säulen bilden  
 das **Betriebssystem der Demokratie 2.0** –  

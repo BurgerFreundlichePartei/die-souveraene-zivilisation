@@ -30,13 +30,43 @@ Im digitalen Staat wird Demokratie zum **Betriebssystem des Gemeinwesens**.
 Sie stellt die Grundfunktionen bereit,  
 auf denen gesellschaftliche Anwendungen laufen:
 
-| Funktion              | Bedeutung                              | Beispiel                             |
-|:----------------------|:---------------------------------------|:-------------------------------------|
-| **Authentifizierung** | Wer darf mitbestimmen?                 | Politische Profile, Stimmrechte      |
-| **Kommunikation**     | Wie fließen Ideen und Feedback?        | Vertrauensräume, Foren, Abstimmungen |
-| **Koordination**      | Wie werden Beschlüsse umgesetzt?       | Smart Governance Contracts           |
-| **Transparenz**       | Wie bleibt das System nachvollziehbar? | Öffentliche Dashboards, Protokolle   |
-| **Sicherheit**        | Wie wird Macht begrenzt?               | Kryptografische Protokolle, Audits   |
+<!-- Das politische Betriebssystem (de, XHTML + &shy;) -->
+<table lang="de" class="betriebssystem">
+  <caption>Das politische Betriebssystem</caption>
+  <thead>
+    <tr>
+      <th scope="col">Funktion</th>
+      <th scope="col">Bedeutung</th>
+      <th scope="col">Beispiel</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <th scope="row"><strong>Authenti&shy;fizierung</strong></th>
+      <td>Wer darf mit&shy;bestimmen?</td>
+      <td>Politische Profile,<br />Stimm&shy;rechte</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Kommu&shy;nikation</strong></th>
+      <td>Wie fließen Ideen und Feed&shy;back?</td>
+      <td>Vertrauens&shy;räume,<br />Foren,<br />Abstim&shy;mungen</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Koordi&shy;nation</strong></th>
+      <td>Wie werden Beschlüsse um&shy;gesetzt?</td>
+      <td>Smart Governance Contracts</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Trans&shy;parenz</strong></th>
+      <td>Wie bleibt das System nach&shy;voll&shy;ziehbar?</td>
+      <td>Öffent&shy;liche Dash&shy;boards,<br />Proto&shy;kolle</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Sicher&shy;heit</strong></th>
+      <td>Wie wird Macht be&shy;grenzt?</td>
+      <td>Krypto&shy;grafische Proto&shy;kolle,<br />Audits</td>
+    </tr>
+  </tbody>
+</table>
 
 Der Staat wird zur Infrastruktur,  
 nicht zum Herrschaftsinstrument.  
