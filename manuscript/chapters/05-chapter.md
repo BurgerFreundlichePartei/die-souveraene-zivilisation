@@ -4,7 +4,7 @@
 
 > *„Papier war einmal Speicher, jetzt ist es Ballast.“*
 
-### **Die Religion des Papiers**
+### Die Religion des Papiers
 
 Papier war das Rückgrat der Zivilisation.  
 Es trug Gesetze, Verträge, Zeugnisse, Geschichte.  
@@ -19,7 +19,7 @@ der Glaube, dass Ordnung ohne Papier zerfällt.
 Doch Papier schützt nicht vor Fehlern,  
 es konserviert sie nur besser.
 
-### **Trägheit als Strukturprinzip**
+### Trägheit als Strukturprinzip
 
 Das Problem ist nicht das Medium,  
 sondern die Mentalität dahinter:  
@@ -34,7 +34,7 @@ Diese Haltung erzeugt Sicherheit — aber nur für die,
 die schon drinnen sind.  
 Für alle anderen bedeutet sie: **Warten.**
 
-### **Digitalisierung ohne Transformation**
+### Digitalisierung ohne Transformation
 
 Der Staat hat längst begonnen, seine Formulare zu digitalisieren.  
 Doch PDF ist kein Fortschritt,  
@@ -48,7 +48,7 @@ Solange jede Datei noch ausgedruckt werden kann,
 lebt der analoge Geist weiter —  
 in den Köpfen, nicht in den Archiven.
 
-### **Der Preis der Papierlogik**
+### Der Preis der Papierlogik
 
 Papier verlangsamt nicht nur,  
 es verformt Realität.  
@@ -81,7 +81,7 @@ keine digital gesichert.
 
 Das Papier zeugt von Fleiß — nicht von Funktion.
 
-### **Vom Papier zur Integrität**
+### Vom Papier zur Integrität
 
 Der digitale Staat muss nicht schneller werden – er muss **integer** werden.  
 Nicht mehr Dokumente sammeln, sondern **Datenflüsse verstehen**.  
@@ -90,7 +90,7 @@ Nicht mehr Signaturen sichern, sondern **Vertrauen strukturieren**.
 Papier war eine Krücke für fehlende Technik.  
 Heute ist es eine Krücke für fehlenden Mut.
 
-### ** Der Verlust des Taktgefühls**
+### Der Verlust des Taktgefühls
 
 Papier arbeitet im Tempo der Post.  
 Die Welt arbeitet im Tempo des Pulses.  

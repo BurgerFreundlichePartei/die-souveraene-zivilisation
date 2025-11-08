@@ -6,7 +6,7 @@
 
 > *„Eine Demokratie, die sich nicht selbst aktualisiert, wird vom Fortschritt deinstalliert.“*
 
-### **Von der Verfassung zur Version**
+### Von der Verfassung zur Version
 
 Die Demokratie wurde einst als feste Struktur entworfen –  
 ein Satz Regeln, der Jahrhunderte halten sollte.  
@@ -24,7 +24,7 @@ muss auch Demokratie **iterativ gepflegt** werden –
 mit Fehlerbehebungen, Erweiterungen,  
 und neuen Sicherheitsstandards.
 
-### **Das politische Betriebssystem**
+### Das politische Betriebssystem
 
 Im digitalen Staat wird Demokratie zum **Betriebssystem des Gemeinwesens**.  
 Sie stellt die Grundfunktionen bereit,  
@@ -43,7 +43,7 @@ nicht zum Herrschaftsinstrument.
 Bürger und Institutionen interagieren **wie Prozesse in einem verteilten System** –  
 stabil, modular, überprüfbar.
 
-### **Updates als demokratischer Prozess**
+### Updates als demokratischer Prozess
 
 Ein demokratisches Update unterscheidet sich  
 nicht vom Prinzip der Softwarepflege:  
@@ -83,7 +83,7 @@ automatische Rückmeldung für Schulen.
 Das System lernt –  
 weil Demokratie endlich wieder **Feedback-fähig** ist.
 
-### **Governance als Open Source**
+### Governance als Open Source
 
 In der Demokratie 2.0 ist Gesetzgebung  
 kein exklusives Handwerk mehr,  
@@ -99,7 +99,7 @@ Transparenz ersetzt Vertrauen.
 Der Staat verliert nichts –  
 außer die Möglichkeit, sich zu verstecken.
 
-### **Patch-Kultur statt Revolution**
+### Patch-Kultur statt Revolution
 
 Revolutionen entstehen,  
 wenn Systeme sich nicht mehr anpassen.  
@@ -116,7 +116,7 @@ So ersetzt Demokratie den Ausnahmezustand
 durch **kontinuierliche Selbstheilung**.  
 Nicht Sturm, sondern Wartung.
 
-### **Verantwortung als Versionskontrolle**
+### Verantwortung als Versionskontrolle
 
 Wie bei Software-Entwicklung  
 muss auch bei Demokratie jede Änderung  
@@ -137,7 +137,7 @@ ohne Bürokratie –
 und verhindert, dass Macht  
 sich im Nebel der Geschichte versteckt.
 
-### **Demokratie als Lernsystem**
+### Demokratie als Lernsystem
 
 Wenn Demokratie ein Betriebssystem ist,  
 dann sind ihre Bürger **Entwickler**.  

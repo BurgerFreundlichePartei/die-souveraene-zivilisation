@@ -7,7 +7,7 @@
 > *„Maschinen nehmen uns nichts weg.  
 Sie zeigen uns, was wirklich menschlich ist.“*
 
-### **Der falsche Wettkampf**
+### Der falsche Wettkampf
 
 Seit Beginn der Digitalisierung  
 fürchtet der Mensch, ersetzt zu werden.  
@@ -25,7 +25,7 @@ die Maschine verarbeitet Daten.
 Gemeinsam bilden sie das,  
 was man einst **Erkenntnisgemeinschaft** nannte.
 
-### **Von Automatisierung zu Symbiose**
+### Von Automatisierung zu Symbiose
 
 Automatisierung ist nur die erste Stufe.  
 Kooperation beginnt,  
@@ -43,7 +43,7 @@ Mensch liefert Kontext.
 Beide sind nötig,  
 damit Gesellschaft **bewusst intelligent** wird.
 
-### **Vertrauen als Betriebssystem der Kooperation**
+### Vertrauen als Betriebssystem der Kooperation
 
 Die entscheidende Frage ist nicht,  
 wie klug Maschinen werden,  
@@ -81,7 +81,7 @@ und Verantwortung zu behalten.
 So entsteht ein Dialog,  
 kein Diktat.
 
-### **Arbeitsteilung im Denken**
+### Arbeitsteilung im Denken
 
 Kooperation bedeutet Spezialisierung:
 
@@ -98,7 +98,7 @@ die Maschine wird Erweiterung.
 Das ist keine Hierarchie,  
 sondern eine **Symbiose der Fähigkeiten.**
 
-### **Lernen in beide Richtungen**
+### Lernen in beide Richtungen
 
 Auch Maschinen lernen von Menschen –  
 nicht nur technisch,  
@@ -135,7 +135,7 @@ Beide lernen voneinander.
 Ergebnis: kein Ersatz,  
 sondern **gegenseitige Verstärkung.**
 
-### **Die Ethik der Ergänzung**
+### Die Ethik der Ergänzung
 
 Kooperation braucht Grenzen,  
 aber keine Angst.  

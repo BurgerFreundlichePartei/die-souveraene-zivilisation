@@ -6,7 +6,7 @@
 
 > *„Europa ist kein Ort – es ist eine Schnittstelle.“*
 
-### **Der Nationalstaat als Grenzobjekt**
+### Der Nationalstaat als Grenzobjekt
 
 Der Nationalstaat war einst die effizienteste Form der Organisation.  
 Er schützte, koordinierte, strukturierte.  
@@ -23,7 +23,7 @@ Systeme sind inkompatibel.
 So wird Europa zu einer digitalen Inselgruppe  
 statt zu einem Kontinent.
 
-### **Integration als Synchronisierung**
+### Integration als Synchronisierung
 
 Europäische Integration darf nicht länger nur politisch,  
 sie muss **technologisch und semantisch** gedacht werden.  
@@ -63,7 +63,7 @@ nach einer Woche das Pilotprojekt.
 Europa funktioniert –  
 weil es **vernetzt statt verwaltet**.
 
-### **Digitale Souveränität als geteilte Macht**
+### Digitale Souveränität als geteilte Macht
 
 Das alte Paradigma lautet:  
 Souveränität = Kontrolle.  
@@ -80,7 +80,7 @@ das aus selbstständigen, aber synchronisierten Staaten besteht:
 wie ein Chor,  
 nicht wie eine Kette.
 
-### **Sprache, Identität und Übersetzung**
+### Sprache, Identität und Übersetzung
 
 Technologie allein genügt nicht.  
 Europa leidet nicht an Technik,  
@@ -98,7 +98,7 @@ der politische Sprache in Verständlichkeit überführt.
 Integration bedeutet dann nicht Vereinheitlichung,  
 sondern **wechselseitige Lesbarkeit.**
 
-### **Von der Union zur Konnektivität**
+### Von der Union zur Konnektivität
 
 Die Europäische Union wurde für die Nachkriegszeit gebaut.  
 Ihre Struktur spiegelt Bürokratie,  
@@ -115,7 +115,7 @@ eine Schicht der **permanenten Konnektivität**,
 auf der Staaten sich verbinden,  
 ohne sich aufzulösen.
 
-### **Globale Skalierbarkeit**
+### Globale Skalierbarkeit
 
 Was in Europa funktioniert,  
 funktioniert überall.  

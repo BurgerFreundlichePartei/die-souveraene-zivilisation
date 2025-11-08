@@ -7,7 +7,7 @@
 > *„Freiheit ist nicht, was man hat.  
 Freiheit ist, was man nicht abgeben kann.“*
 
-### **Die Rückkehr zum Ursprung**
+### Die Rückkehr zum Ursprung
 
 Nach all den Systemen, Strukturen und Protokollen  
 bleibt eine einfache Frage:  
@@ -25,7 +25,7 @@ seinem Mut, sich selbst zu erkennen.
 Der neue Staat beginnt nicht im Code,  
 sondern im **Herzschlag der Freiheit.**
 
-### **Freiheit als Energieform**
+### Freiheit als Energieform
 
 Freiheit ist keine Ressource,  
 die verteilt werden kann.  
@@ -62,7 +62,7 @@ Freiheit ist kein Code.
 Sie ist das, was bleibt,  
 wenn Code endet.
 
-### **Der Mensch als Zentrum des Systems**
+### Der Mensch als Zentrum des Systems
 
 In der lebenden Republik  
 wird der Mensch nicht überwacht,  
@@ -78,7 +78,7 @@ Denn der Mensch ist
 nicht ein Fehler im Algorithmus,  
 sondern **sein Sinn.**
 
-### **Die Verantwortung des Bewusstseins**
+### Die Verantwortung des Bewusstseins
 
 Freiheit ist kein Geschenk,  
 sondern eine tägliche Übung.  
@@ -95,7 +95,7 @@ Das ist die Ethik der Zukunft –
 nicht geschrieben,  
 sondern **gelebt.**
 
-### **Der neue Humanismus**
+### Der neue Humanismus
 
 Der digitale Humanismus  
 versteht den Menschen nicht als Mittelpunkt,  
@@ -131,7 +131,7 @@ kein Wähler,
 kein Nutzer.  
 Er ist **Bewusstsein in Bewegung.**
 
-### **Zukunft als Selbstkenntnis**
+### Zukunft als Selbstkenntnis
 
 Die Zukunft wird nicht von Technologie abhängen,  
 sondern davon,  

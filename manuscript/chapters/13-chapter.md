@@ -6,7 +6,7 @@
 
 > *„Wer Daten besitzt, beherrscht. Wer sie teilt, befähigt.“*
 
-### **Vom Eigentum zur Selbstbestimmung**
+### Vom Eigentum zur Selbstbestimmung
 
 In der alten Ordnung galt:  
 Der Staat sammelt Daten, um zu verwalten.  
@@ -83,7 +83,7 @@ erlöschen die Berechtigungen automatisch.
 Keine Kopien, keine Weitergabe.  
 Er bleibt der **Souverän seiner Geschichte**.
 
-### **Verantwortung als Ressource**
+### Verantwortung als Ressource
 
 Wenn Bürger über ihre Daten bestimmen,  
 übernehmen sie Verantwortung –  
@@ -100,7 +100,7 @@ Ein Staat, der Bürger als Partner sieht,
 gewinnt an Intelligenz,  
 weil er aus freiwilligem Wissen lernt.
 
-### **Das Ende der Datenspeicherung**
+### Das Ende der Datenspeicherung
 
 Die Zukunft gehört nicht der Speicherung,  
 sondern der **Verfügbarkeit auf Abruf**.  
@@ -116,7 +116,7 @@ Der Staat hört auf,
 ein Archiv der Vergangenheit zu sein,  
 und wird zum **Koordinator der Gegenwart**.
 
-### **Transparente Reziprozität**
+### Transparente Reziprozität
 
 Datensouveränität ist keine Einbahnstraße.  
 Auch der Staat wird transparent.  
@@ -135,7 +135,7 @@ sondern: „Ich weiß, was der Staat weiß.“
 Das ist nicht Misstrauen –  
 das ist **Erwachsenwerden der Demokratie**.
 
-### **Von Kontrolle zu Vertrauen**
+### Von Kontrolle zu Vertrauen
 
 Datensouveränität ersetzt Kontrolle durch **Nachvollziehbarkeit**.  
 Sie gibt Macht ab, ohne Ordnung zu verlieren.  

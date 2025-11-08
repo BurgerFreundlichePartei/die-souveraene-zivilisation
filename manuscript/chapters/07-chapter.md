@@ -4,7 +4,7 @@
 
 > *„Freiheit beginnt dort, wo Schweigen kein Risiko ist.“*
 
-### **Der Wert des Unsichtbaren**
+### Der Wert des Unsichtbaren
 
 In der physischen Welt schützt uns eine Tür.  
 Im digitalen Raum schützt uns Verschlüsselung.  
@@ -17,7 +17,7 @@ Sichtbarkeit ist kein Synonym für Ehrlichkeit.
 Privatheit ist keine Verweigerung –  
 sie ist **Selbstschutz in einer offenen Welt**.
 
-### **Anonymität als Standard, nicht als Ausnahme**
+### Anonymität als Standard, nicht als Ausnahme
 
 Im analogen Staat ist Transparenz Pflicht,  
 im digitalen Staat wird sie zur Option.  
@@ -34,7 +34,7 @@ Diese Architektur garantiert:
 Privatheit ist kein Zustand,  
 sondern ein **aktiver Mechanismus der Freiheit**.
 
-### **Die Ökonomie der Aufmerksamkeit**
+### Die Ökonomie der Aufmerksamkeit
 
 Unsere Gegenwart leidet an Dauerbeleuchtung.  
 Alles wird geteilt, bewertet, kommentiert –  
@@ -50,7 +50,7 @@ Nicht, wer am lautesten sendet,
 sondern wer bewusst wählt, **wann** er teilnimmt,  
 bestimmt das Gewicht seiner Stimme.
 
-### **Verschlüsselung als Menschenrecht**
+### Verschlüsselung als Menschenrecht
 
 Die technische Grundlage der Privatheit ist Verschlüsselung.  
 Doch sie ist mehr als Mathematik – sie ist **Zivilisation in Code**.  
@@ -84,7 +84,7 @@ Sie ist frei,
 nicht weil sie laut ist,  
 sondern weil sie **sicher ist**.
 
-### **Gleichberechtigung des Rückzugs**
+### Gleichberechtigung des Rückzugs
 
 In traditionellen Systemen gilt:  
 Wer schweigt, verliert Einfluss.  
@@ -100,7 +100,7 @@ Momente, in denen Denken Vorrang vor Reaktion hat.
 Der digitale Staat darf das nicht bestrafen,  
 sondern muss es **ermöglichen**.
 
-### **Privatheit als Fundament der Öffentlichkeit**
+### Privatheit als Fundament der Öffentlichkeit
 
 Nur wer sich sicher fühlt, kann sich öffnen.  
 Nur wer anonym beginnen darf,  

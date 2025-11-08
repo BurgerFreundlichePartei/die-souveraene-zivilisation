@@ -4,7 +4,7 @@
 
 > *„Vertrauen entsteht, wenn Kontrolle überflüssig wird.“*
 
-### **Vertrauen als Systemfehler**
+### Vertrauen als Systemfehler
 
 Der moderne Staat basiert auf Misstrauen.  
 Er misstraut Bürgern, Bürger misstrauen Behörden,  
@@ -18,7 +18,7 @@ Jedes Dokument sagt: *„Beweise, dass du bist, wer du sagst.“*
 Doch Vertrauen, das ständig bewiesen werden muss,  
 ist kein Vertrauen – es ist **Überwachung**.
 
-### **Transparenz ohne Preisgabe**
+### Transparenz ohne Preisgabe
 
 Transparenz ist das Gegenmittel,  
 aber nur, wenn sie nicht zur Nacktheit führt.  
@@ -34,7 +34,7 @@ Diese Unterscheidung ist entscheidend:
 Transparenz schützt, wenn sie **strukturell** ist,  
 und zerstört, wenn sie **persönlich** wird.
 
-### **Verschlüsselung als Ethik**
+### Verschlüsselung als Ethik
 
 Verschlüsselung ist keine technische Marotte.  
 Sie ist der moralische Kern einer digitalen Demokratie.
@@ -52,7 +52,7 @@ Wenn Daten nur dort entschlüsselt werden,
 wo Einverständnis besteht,  
 wird das System selbst zum Wächter der Freiheit.
 
-### **Die neue Triade**
+### Die neue Triade
 
 Die Demokratie der Zukunft ruht auf drei Säulen:
 
@@ -87,7 +87,7 @@ Er bleibt anonym, aber sein Weg durch das System ist **transparent**.
 Das Vertrauen wächst nicht durch Versprechen,  
 sondern durch **Einsicht in den Ablauf**.
 
-### **Der Staat als offenes Protokoll**
+### Der Staat als offenes Protokoll
 
 Der nächste Staat ist kein Büro mehr,  
 sondern ein **offenes Protokoll**.  
@@ -103,7 +103,7 @@ sondern gerechte Mechanik.
 Ein Staat, der sich **erklären** kann,  
 muss sich nicht mehr **rechtfertigen**.
 
-### **Vom Geheimnis zur Verantwortung**
+### Vom Geheimnis zur Verantwortung
 
 Geheimhaltung war einst Schutz vor Missbrauch.  
 Heute ist sie der Nährboden für ihn.  

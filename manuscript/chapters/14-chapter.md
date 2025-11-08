@@ -6,7 +6,7 @@
 
 > *„Der Staat ist nicht der Vater der Gesellschaft – er ist ihr Dienstleister.“*
 
-### **Vom Bittsteller zum Auftraggeber**
+### Vom Bittsteller zum Auftraggeber
 
 Seit Jahrhunderten spricht der Bürger beim Staat vor,  
 nicht mit ihm.  
@@ -23,7 +23,7 @@ selbst anstoßen, steuern und nachverfolgen.
 Damit wird der Staat **vom Verwalter zum Auftragnehmer**,  
 und der Bürger zum **Auftraggeber seines Gemeinwesens**.
 
-### **Der Staat als Serviceplattform**
+### Der Staat als Serviceplattform
 
 Ein moderner Staat ist keine Behörde,  
 sondern eine Plattform für Dienstleistungen:  
@@ -67,7 +67,7 @@ und alle Beteiligten sehen den Fortschritt in Echtzeit.
 Das ist keine Vision.  
 Das ist **Verwaltung als Service**.
 
-### **Auftrag statt Gnade**
+### Auftrag statt Gnade
 
 In der alten Staatslogik war Verwaltung ein Akt der Gnade:  
 „Wir prüfen, ob Sie Anspruch haben.“  
@@ -83,7 +83,7 @@ statt Entscheidungen zu verstecken.
 Er liefert,  
 statt zu verwalten.
 
-### **Öffentliche Qualitätssicherung**
+### Öffentliche Qualitätssicherung
 
 Wenn der Bürger Auftraggeber ist,  
 braucht der Staat **Qualitätsmanagement**.  
@@ -100,7 +100,7 @@ Diese Kennzahlen werden automatisch aus den Profilen erzeugt.
 So entsteht eine **transparente Leistungsgesellschaft**,  
 in der Staat und Bürger dieselben Daten sehen.
 
-### **Kooperation statt Kontrolle**
+### Kooperation statt Kontrolle
 
 Ein Dienstleistungsstaat kontrolliert nicht,  
 er koordiniert.  
@@ -115,7 +115,7 @@ So entsteht Verwaltung als **Feedback-Schleife**,
 nicht als Machtinstrument.  
 Kontrolle wird ersetzt durch **gegenseitige Verantwortlichkeit**.
 
-### **Der neue Beamtenbegriff**
+### Der neue Beamtenbegriff
 
 Im Dienstleistungsstaat 2.0  
 wird der Beamte zum **Architekten öffentlicher Prozesse**.  

@@ -5,7 +5,7 @@
 > *„Freiheit ohne Bildung ist Zufall.  
 Technologie ohne Bewusstsein ist Gefahr.“*
 
-### **Bildung als Überlebenssystem**
+### Bildung als Überlebenssystem
 
 Bildung war nie neutral.  
 Sie formt, was eine Gesellschaft glaubt,  
@@ -25,7 +25,7 @@ Deshalb wird Bildung
 zum **entscheidenden Menschenrecht**  
 der kommenden Epoche.
 
-### **Digitale Mündigkeit**
+### Digitale Mündigkeit
 
 Digitale Mündigkeit bedeutet:  
 nicht nur wissen, wie Technik funktioniert,  
@@ -61,7 +61,7 @@ Die Kinder nicken –
 sie **sehen** das System,  
 nicht nur das Symbol.
 
-### **Bildung als ethische Praxis**
+### Bildung als ethische Praxis
 
 Digitale Kompetenz ohne Ethik  
 führt zu Zynismus.  
@@ -84,7 +84,7 @@ Im neuen Curriculum gehören dazu:
 Nicht als Zusatzfach,  
 sondern als **Grundsprache der Demokratie.**
 
-### **Die Rolle der Lehrerinnen und Lehrer**
+### Die Rolle der Lehrerinnen und Lehrer
 
 Lehrerinnen und Lehrer  
 werden in dieser Ordnung zu **Mentoren der Reflexion**.  
@@ -100,7 +100,7 @@ Sie begleiten Schüler dabei,
 digitale Werkzeuge zu **bewusst eingesetzten Instrumenten** zu machen –  
 nicht zu Autoritäten.
 
-### **Lebenslanges Lernen als Staatsprinzip**
+### Lebenslanges Lernen als Staatsprinzip
 
 Digitale Mündigkeit ist kein Schulfach,  
 sondern ein Lebensprozess.  
@@ -134,7 +134,7 @@ Sie ist keine Nutzerin mehr –
 sie ist Teil des Systems,  
 bewusst, wach, ruhig.
 
-### **Bewusstsein als nationale Infrastruktur**
+### Bewusstsein als nationale Infrastruktur
 
 Das neue Gemeinwesen erkennt:  
 Die wichtigste Infrastruktur ist kein Netz aus Glasfaser,  

@@ -6,7 +6,7 @@
 
 > *„Demokratie beginnt nicht am Wahltag – sie darf dort nur nicht enden.“*
 
-### **Die Illusion der Wahl**
+### Die Illusion der Wahl
 
 Die repräsentative Demokratie lebt vom Mythos der Wahl.  
 Sie vermittelt das Gefühl,  
@@ -25,7 +25,7 @@ In einer digital vernetzten Welt
 ist diese Form der Beteiligung zu langsam,  
 zu träge und zu selten.
 
-### **Von der Stimme zum Signal**
+### Von der Stimme zum Signal
 
 Das politische Profil verwandelt die Stimme in ein Signal.  
 Ein Signal ist kein einmaliger Akt,  
@@ -40,7 +40,7 @@ Politische Präsenz wird so messbar,
 ohne Kontrolle –  
 wirksam, ohne Dauerüberwachung.
 
-### **Wirkung statt Symbolik**
+### Wirkung statt Symbolik
 
 Der Unterschied zwischen Wahl und Wirkung  
 liegt in der **Rückkopplung**.  
@@ -92,7 +92,7 @@ und kann es jederzeit ändern.
 So entsteht keine Überforderung,  
 sondern **individuelle Taktung der Demokratie**.
 
-### **Politische Präsenz als Kulturtechnik**
+### Politische Präsenz als Kulturtechnik
 
 Politische Präsenz ist kein technisches Feature,  
 sondern eine **Kulturtechnik**.  
@@ -107,7 +107,7 @@ Der Bürger verliert die Angst vor Politik,
 weil sie **nicht mehr Ausnahme**,  
 sondern **Alltag** ist.
 
-### **Der neue Zeitbegriff der Politik**
+### Der neue Zeitbegriff der Politik
 
 Politik denkt traditionell in Legislaturperioden.  
 Aber Innovation kennt keine Legislatur.  

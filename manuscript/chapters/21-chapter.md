@@ -7,7 +7,7 @@
 > *„Arbeit ist nicht, was wir tun,  
 sondern was durch uns geschieht.“*
 
-### **Vom Job zur Wirksamkeit**
+### Vom Job zur Wirksamkeit
 
 Die industrielle Ökonomie definierte Arbeit als Zeit gegen Geld.  
 Die digitale Ära sprengt diese Formel.  
@@ -23,7 +23,7 @@ Das neue Paradigma lautet:
 Und Beitrag kann viele Formen haben:  
 Wissen, Kreativität, Fürsorge, Aufmerksamkeit, Verantwortung.
 
-### **Die Ökonomie der Verantwortung**
+### Die Ökonomie der Verantwortung
 
 Wenn Maschinen Routine übernehmen,  
 bleibt dem Menschen das,  
@@ -56,7 +56,7 @@ sondern für **öffentliche Intelligenz.**
 Das ist der neue Beruf des Jahrhunderts:  
 Architekt von Verantwortung.
 
-### **Das Ende der Beschäftigung**
+### Das Ende der Beschäftigung
 
 „Beschäftigung“ war immer ein sprachliches Missverständnis.  
 Sie diente dazu,  
@@ -75,7 +75,7 @@ Das System bewertet nicht,
 ob jemand arbeitet,  
 sondern **was sein Tun bewirkt.**
 
-### **Das Grundeinkommen der Verantwortung**
+### Das Grundeinkommen der Verantwortung
 
 Ein gerechter Staat erkennt an,  
 dass jeder Mensch Teil des Gemeinwesens ist –  
@@ -92,7 +92,7 @@ nicht bedingungslos,
 sondern bedingungsgerecht.  
 Es belohnt Teilnahme, nicht Anpassung.
 
-### **Wirtschaft als Kooperation**
+### Wirtschaft als Kooperation
 
 Unternehmen werden zu **Knoten in einem Vertrauensnetz.**  
 Sie handeln nicht mehr primär mit Produkten,  
@@ -130,7 +130,7 @@ Das ist keine Utopie,
 sondern das Geschäftsmodell der Zukunft:  
 **Gemeinschaft als Wertschöpfung.**
 
-### **Der neue Sinnbegriff**
+### Der neue Sinnbegriff
 
 Sinn ist kein Luxus,  
 sondern eine **Produktionsbedingung.**  

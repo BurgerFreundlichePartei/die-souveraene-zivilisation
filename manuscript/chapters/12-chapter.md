@@ -4,7 +4,7 @@
 
 > *„Vertrauen ist die einzige Währung, die sich nicht drucken lässt – aber berechnen.“*
 
-### **Die Architektur des Vertrauens**
+### Die Architektur des Vertrauens
 
 Wenn Vertrauen früher eine moralische Entscheidung war,  
 ist es heute eine **technische Eigenschaft**.  
@@ -17,7 +17,7 @@ Nicht mehr Institutionen bestätigen Wahrheit,
 sondern **kryptografische Protokolle**,  
 die weder Bestechung noch Vergessen kennen.
 
-### **Blockchain als Gedächtnis der Gesellschaft**
+### Blockchain als Gedächtnis der Gesellschaft
 
 Eine Blockchain ist kein Konto und keine Währung.  
 Sie ist ein **verteiltes Protokoll**,  
@@ -54,7 +54,7 @@ So entsteht **Nachvollziehbarkeit ohne Nacktheit**.
 Vertrauen wird zur Funktion,  
 nicht zur Emotion.
 
-### **Vertrauensräume**
+### Vertrauensräume
 
 Zwischen absoluter Transparenz und totaler Geheimhaltung  
 liegt der **Vertrauensraum** –  
@@ -92,7 +92,7 @@ aber **nicht rückverfolgbar**.
 Das Vertrauen liegt im Code,  
 nicht in der Kontrolle.
 
-### **Energieeffizienz des Vertrauens**
+### Energieeffizienz des Vertrauens
 
 Oft wird Blockchain mit Energieverschwendung assoziiert.  
 Doch moderne Protokolle – Proof-of-Stake, DAGs, Layer-2-Lösungen –  
@@ -107,7 +107,7 @@ sondern **Knoten aus Überzeugung** –
 Profile, die sich gegenseitig sichern,  
 ohne zentrale Macht.
 
-### **Kollektive Kryptographie**
+### Kollektive Kryptographie
 
 Wenn jede Bürgerin ein Knoten ist,  
 wird Kryptographie zur **gesellschaftlichen Praxis**.  

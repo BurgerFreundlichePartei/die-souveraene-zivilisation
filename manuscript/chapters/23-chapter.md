@@ -7,7 +7,7 @@
 > *„Ein Staat ohne Seele ist nur Verwaltung.  
 Eine Gemeinschaft ohne Kultur ist nur Routine.“*
 
-### **Die unsichtbare Infrastruktur**
+### Die unsichtbare Infrastruktur
 
 Straßen, Netze, Daten – sie sind sichtbar.  
 Doch die wahre Infrastruktur einer Gesellschaft  
@@ -21,7 +21,7 @@ es aktualisiert Werte, bevor Gesetze es tun.
 Ohne Kultur kann keine Demokratie bestehen,  
 denn sie ist das **Gefühl, das den Code trägt.**
 
-### **Gemeinschaft als Energieform**
+### Gemeinschaft als Energieform
 
 In der digitalen Gesellschaft  
 wird Gemeinschaft zur Energiequelle.  
@@ -55,7 +55,7 @@ So entsteht Kultur im digitalen Raum:
 nicht durch Unterhaltung,  
 sondern durch **gegenseitige Inspiration.**
 
-### **Identität als dynamisches Gleichgewicht**
+### Identität als dynamisches Gleichgewicht
 
 In der alten Welt war Identität fest:  
 Nationalität, Beruf, Geschlecht, Partei.  
@@ -69,7 +69,7 @@ ohne sie zu verraten.
 So entsteht ein neuer Freiheitsbegriff:  
 **Selbstbestimmung ohne Selbstverlust.**
 
-### **Kultur als Selbstheilungssystem**
+### Kultur als Selbstheilungssystem
 
 Wenn Systeme scheitern, heilt Kultur.  
 Sie bewahrt Geschichten,  
@@ -86,7 +86,7 @@ Denn ein Volk, das sich ausdrückt,
 verliert nie die Fähigkeit,  
 sich zu erneuern.
 
-### **Digitale Kulturpolitik**
+### Digitale Kulturpolitik
 
 In der digitalen Epoche  
 wird Kulturproduktion demokratisch.  
@@ -124,7 +124,7 @@ Kultur wird so zu dem,
 was sie immer war:  
 das Gespräch der Gesellschaft mit sich selbst.
 
-### **Gemeinschaft als Souveränität**
+### Gemeinschaft als Souveränität
 
 Wahre Souveränität liegt nicht in Unabhängigkeit,  
 sondern in **Verbindung.**

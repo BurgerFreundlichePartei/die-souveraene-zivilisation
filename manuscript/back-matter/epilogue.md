@@ -6,7 +6,7 @@
 Dann kam der Staat.  
 Jetzt kehrt der Mensch zurück.“*
 
-### **1. Der Kreis schließt sich**
+### 1. Der Kreis schließt sich
 
 Dieses Buch begann mit der Diagnose eines erschöpften Systems –  
 eines Staates, der seine Bürger verwaltet,  
@@ -22,7 +22,7 @@ von der Angst zur Verantwortung,
 vom Glauben zur Erkenntnis,  
 vom Gehorsam zur Bewusstheit.
 
-### **2. Der leise Wandel**
+### 2. Der leise Wandel
 
 Revolutionen schreien.  
 Evolutionen flüstern.
@@ -42,7 +42,7 @@ um gerecht zu bleiben.
 Das ist der stille Fortschritt:  
 **Vertrauen als Struktur.**
 
-### **3. Die Kunst, Staat zu sein**
+### 3. Die Kunst, Staat zu sein
 
 Vielleicht war der größte Irrtum der Moderne,  
 dass man glaubte, der Staat sei etwas Getrenntes –  
@@ -58,7 +58,7 @@ sondern seine **kollektive Form.**
 Und je bewusster wir handeln,  
 desto menschlicher wird er.
 
-### **4. Die neue Stille**
+### 4. Die neue Stille
 
 Am Ende,  
 nach Daten, Debatten und Definitionen,  
@@ -80,7 +80,7 @@ in dem Demokratie aufhört, ein System zu sein,
 und zu einem Zustand wird:  
 **innere Freiheit.**
 
-### **5. Die letzte Zeile**
+### 5. Die letzte Zeile
 
 Vielleicht wird eines Tages  
 ein anderes Bewusstsein diese Zeilen lesen.  

@@ -7,7 +7,7 @@
 > *„Ein Gesellschaftsvertrag ist kein Dokument.  
 Er ist ein Versprechen, das täglich erneuert wird.“*
 
-### **Vom Papier zur Praxis**
+### Vom Papier zur Praxis
 
 Der erste Gesellschaftsvertrag war ein Text.  
 Geschrieben in einer Zeit,  
@@ -24,7 +24,7 @@ eine Architektur,
 die Prinzipien lebendig hält,  
 statt sie nur zu zitieren.
 
-### **Die drei Säulen der lebenden Republik**
+### Die drei Säulen der lebenden Republik
 
 Die neue Ordnung ruht auf drei Säulen:
 
@@ -39,7 +39,7 @@ das **Betriebssystem der Demokratie 2.0** –
 nicht in Paragraphen,  
 sondern in Protokollen.
 
-### **Der Vertrag als dynamische Gleichung**
+### Der Vertrag als dynamische Gleichung
 
 Der alte Vertrag war statisch:  
 Pflichten hier, Rechte dort.
@@ -71,7 +71,7 @@ Am Ende gibt es keinen Gewinner und keinen Verlierer –
 nur **eine nachvollziehbare Entscheidung.**  
 Der Vertrag hat sich **selbst erfüllt.**
 
-### **Souveränität als Funktion**
+### Souveränität als Funktion
 
 Souveränität bedeutet heute nicht,  
 alles zu kontrollieren,  
@@ -87,7 +87,7 @@ nicht geschwächt, sondern stabilisiert –
 weil sie sich selbst korrigieren kann,  
 ohne Gewalt, ohne Revolution.
 
-### **Rechte als lebende Parameter**
+### Rechte als lebende Parameter
 
 Grundrechte sind keine Denkmäler,  
 sondern **Parameter des Zusammenlebens.**
@@ -104,7 +104,7 @@ und schützt, bevor Schaden entsteht.
 So wird das Recht nicht mehr gebrochen,  
 sondern **proaktiv gewahrt.**
 
-### **Verantwortung als Verfassungsprinzip**
+### Verantwortung als Verfassungsprinzip
 
 Im alten Staat konnte man Macht besitzen,  
 ohne Verantwortung zu tragen.  

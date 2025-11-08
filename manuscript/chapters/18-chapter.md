@@ -7,7 +7,7 @@
 > *„Intelligenz ist leicht zu programmieren.  
 Verantwortung nicht.“*
 
-### **Die stille Macht der Algorithmen**
+### Die stille Macht der Algorithmen
 
 Algorithmen entscheiden längst über unser Leben –  
 über Kredite, Bewerbungen, medizinische Behandlungen,  
@@ -25,7 +25,7 @@ Wir brauchen eine **digitale Ethik**,
 die nicht nur fragt, *was* Maschinen tun,  
 sondern *warum* und *auf wessen Grundlage*.
 
-### **Von Intelligenz zu Integrität**
+### Von Intelligenz zu Integrität
 
 Künstliche Intelligenz ist nicht gefährlich,  
 weil sie denkt,  
@@ -46,7 +46,7 @@ durch ethische Protokolle,
 die jede Handlung  
 mit einem moralischen Audit verknüpfen.
 
-### **Ethische Protokolle**
+### Ethische Protokolle
 
 In einer digitalen Demokratie  
 muss jede automatisierte Entscheidung  
@@ -80,7 +80,7 @@ Er entscheidet, nicht die Maschine.
 Doch die Maschine zwingt ihn, **bewusster zu entscheiden.**  
 Das ist der Unterschied zwischen Automatisierung und Ethik.
 
-### **Verantwortung statt Delegation**
+### Verantwortung statt Delegation
 
 Viele Politiker glauben,  
 Automatisierung könne Verantwortung ersetzen.  
@@ -96,7 +96,7 @@ ist wie ein Werkzeug mit transparentem Griff:
 Man sieht, wer es hält,  
 und wie fest.
 
-### **Daten als moralische Substanz**
+### Daten als moralische Substanz
 
 Daten sind keine Zahlen,  
 sondern **Echos menschlicher Erfahrung.**  
@@ -110,7 +110,7 @@ nicht verarbeiten, ohne zu verstehen.
 Nicht speichern, ohne zu begrenzen.  
 Nicht urteilen, ohne Kontext.
 
-### **Die moralische Infrastruktur**
+### Die moralische Infrastruktur
 
 Eine ethische Maschine  
 braucht mehr als Code –  

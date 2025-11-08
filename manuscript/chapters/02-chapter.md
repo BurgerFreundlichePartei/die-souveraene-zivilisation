@@ -4,7 +4,7 @@
 
 > *„Wenn Repräsentation an ihre Grenze stößt, entsteht der Wunsch nach direkter Gegenwart.“*
 
-## **Vom System zur Architektur**
+## Vom System zur Architektur
 
 Der erschöpfte Staat ist kein moralisches Versagen,  
 sondern das Symptom einer **veralteten Architektur**.  
@@ -37,7 +37,7 @@ Das Profil ist
 Damit wird politische Teilhabe **technisch möglich**,  
 ohne dass Datenschutz und Selbstbestimmung geopfert werden.
 
-### **Warum Repräsentation nicht mehr reicht**
+### Warum Repräsentation nicht mehr reicht
 
 Repräsentation war eine historische Notlösung.  
 Als Kommunikation langsam und teuer war, mussten Stellvertreter sprechen.  
@@ -54,7 +54,7 @@ Es übersetzt Beteiligung in messbare, nachvollziehbare Signale,
 ohne Institutionen zu umgehen,  
 sondern indem es sie **wieder an die Gesellschaft anschließt**.
 
-### **Vom Vertrauen auf Personen zum Vertrauen auf Prinzipien**
+### Vom Vertrauen auf Personen zum Vertrauen auf Prinzipien
 
 Bisher basiert Demokratie auf Vertrauen in Personen:  
 gewählte Vertreter, Parteien, Institutionen.  
@@ -69,7 +69,7 @@ es wird **technisch garantiert**.
 Macht wird dadurch nicht abgeschafft,  
 sondern **messbar und überprüfbar** gemacht.
 
-### **Staat und Bürger als gleichwertige Akteure**
+### Staat und Bürger als gleichwertige Akteure
 
 In der analogen Ordnung war der Staat Sender, der Bürger Empfänger.  
 In der digitalen Architektur stehen beide auf derselben Plattform.
@@ -104,7 +104,7 @@ Sie atmet auf.
 Zum ersten Mal fühlt sich Verwaltung nicht nach Kontrolle an,  
 sondern nach **Kompetenz**.
 
-### **Der Paradigmenwechsel**
+### Der Paradigmenwechsel
 
 Das politische Profil ist keine App,  
 sondern ein **neues Verständnis von Staatlichkeit**.  

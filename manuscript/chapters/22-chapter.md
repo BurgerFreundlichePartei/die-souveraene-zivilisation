@@ -7,7 +7,7 @@
 > *„Wer den Kreislauf versteht, erkennt:  
 Fortschritt ist kein Rennen, sondern ein Rhythmus.“*
 
-### **Der Irrtum des linearen Denkens**
+### Der Irrtum des linearen Denkens
 
 Die alte Wirtschaft dachte linear:  
 Rohstoff → Produktion → Konsum → Abfall.  
@@ -24,7 +24,7 @@ oder **Energie recyceln**?
 Nachhaltigkeit ist keine ökologische Nische mehr,  
 sondern eine **Systemlogik**.
 
-### **Der Staat als Kreislaufsystem**
+### Der Staat als Kreislaufsystem
 
 Ein nachhaltiger Staat  
 denkt in Flüssen, nicht in Lagern.  
@@ -60,7 +60,7 @@ So entsteht eine Wirtschaft,
 die nicht auf Wachstum,  
 sondern auf **Gleichgewicht** basiert.
 
-### **Nachhaltigkeit als moralische Infrastruktur**
+### Nachhaltigkeit als moralische Infrastruktur
 
 Nachhaltigkeit ist kein Ziel,  
 sondern eine Haltung:  
@@ -76,7 +76,7 @@ jede Entscheidung Kosten in ökologischer Währung.
 
 So wird Moral **algorithmisch überprüfbar.**
 
-### **Der ökologische Vertrag**
+### Der ökologische Vertrag
 
 Der Staat verpflichtet sich,  
 nicht mehr zu nehmen, als er regenerieren kann.  
@@ -95,7 +95,7 @@ verliert Zugriffsrechte – automatisch.
 Keine Strafe.  
 Nur **Selbstkorrektur durch Transparenz.**
 
-### **Wirtschaft als Ökosystem**
+### Wirtschaft als Ökosystem
 
 In der neuen Ökonomie  
 ist jedes Unternehmen ein Teil des Kreislaufs.  
@@ -130,7 +130,7 @@ weil alles **im Kreislauf verknüpft** ist.
 Die Stadt atmet,  
 wie ein lebendiger Organismus.
 
-### **Die Ethik des Gleichgewichts**
+### Die Ethik des Gleichgewichts
 
 Das Prinzip des Kreislaufs  
 ist nicht nur ökologisch –  

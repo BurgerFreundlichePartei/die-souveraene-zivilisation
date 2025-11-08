@@ -4,7 +4,7 @@
 
 > *„Wahre Freiheit besteht nicht darin, immer sichtbar zu sein – sondern sichtbar werden zu können, wenn es zählt.“*
 
-### **Der Fluss zwischen Innen und Außen**
+### Der Fluss zwischen Innen und Außen
 
 Jeder Mensch bewegt sich zwischen zwei Zuständen:  
 Rückzug und Ausdruck, Stille und Stimme.  
@@ -17,7 +17,7 @@ Es erlaubt **Reversibilität** –
 den fließenden Übergang zwischen privat und öffentlich,  
 ohne bürokratische Hürden, ohne Datenverlust, ohne Sanktionen.
 
-### **Die Architektur der Entscheidung**
+### Die Architektur der Entscheidung
 
 Reversibilität ist kein Feature,  
 sondern das **Herz der Systemethik**.  
@@ -40,7 +40,7 @@ Der Wechsel erfolgt durch drei einfache Prinzipien:
 So entsteht Kontrolle ohne Paranoia,  
 Transparenz ohne Preisgabe.
 
-### **Zwischen Anonymität und Verantwortung**
+### Zwischen Anonymität und Verantwortung
 
 Ein System, das Privatheit erlaubt,  
 muss auch Verantwortung tragen können.  
@@ -73,7 +73,7 @@ ohne getrackt zu werden.
 Er war Teil der Entscheidung,  
 nicht Teil der Beobachtung.
 
-### **Die Ethik der Umkehrbarkeit**
+### Die Ethik der Umkehrbarkeit
 
 Reversibilität ist mehr als Datenschutz.  
 Sie ist ein ethisches Statement:  
@@ -87,7 +87,7 @@ in eine **temporäre Beziehung**.
 Das System weiß nichts,  
 es **erinnert nur, solange es nötig ist.**
 
-### **Technik der Balance**
+### Technik der Balance
 
 Reversibilität basiert auf drei Technologien:
 
@@ -104,7 +104,7 @@ ohne menschliches Eingreifen.
 Ein Staat, der verzeihen kann,  
 beginnt, menschlich zu werden.
 
-### **Gesellschaft im Fluss**
+### Gesellschaft im Fluss
 
 Wenn Bürger jederzeit zwischen Privatheit und Öffentlichkeit wechseln können,  
 entsteht eine neue soziale Dynamik.  

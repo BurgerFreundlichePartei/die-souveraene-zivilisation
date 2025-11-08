@@ -4,7 +4,7 @@
 
 > *„Souveränität beginnt dort, wo der Mensch die Architektur seines Handelns versteht.“*
 
-### **Vom Objekt zum Akteur**
+### Vom Objekt zum Akteur
 
 Die alte Ordnung behandelte den Bürger als Adressat.  
 Er erhielt Bescheide, Genehmigungen, Auflagen – aber kaum Werkzeuge.  
@@ -17,7 +17,7 @@ nicht als Datei, sondern als **Verknüpfung von Zustimmungen**.
 
 Das politische Profil ist kein Konto, sondern **eine Schnittstelle zur Souveränität**.
 
-### **Selbstbestimmung als Architekturprinzip**
+### Selbstbestimmung als Architekturprinzip
 
 In der alten Welt war Selbstbestimmung ein moralisches Ideal.  
 Im digitalen Staat wird sie zur **Systemfunktion**.  
@@ -34,7 +34,7 @@ Das politische Profil erfüllt diese Bedingung:
 So entsteht ein System, in dem Selbstbestimmung **nicht behauptet**,  
 sondern **protokolliert** wird.
 
-### **Digitale Handlungshoheit**
+### Digitale Handlungshoheit
 
 Selbstbestimmung heißt:  
 Ich kann über meine digitale Existenz verfügen,  
@@ -51,7 +51,7 @@ Dadurch verschwindet der Widerspruch zwischen Freiheit und Funktion.
 Der Bürger bleibt **Teil des Systems**,  
 aber nie **Teil eines Apparats**.
 
-### **Die vier Ebenen der Selbstbestimmung**
+### Die vier Ebenen der Selbstbestimmung
 
 | Ebene          | Beschreibung                                | Beispiel                                     |
 |:---------------|:--------------------------------------------|:---------------------------------------------|
@@ -85,7 +85,7 @@ Keine Wahlurne.
 Kein Brief.  
 Nur **Handlungsfähigkeit**.
 
-### **Selbstbestimmung als Vertrauen in die eigene Mündigkeit**
+### Selbstbestimmung als Vertrauen in die eigene Mündigkeit
 
 Der Erfolg des Systems hängt nicht von Technik ab,  
 sondern vom Menschenbild, das es trägt.  
