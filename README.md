@@ -7,7 +7,8 @@ Das ist die Fortsetzung des ersten Bandes *Das lebende Stimmrecht.*
 
 ## 🧭 Überblick
 
-Dieses Repository enthält das Manuskript und die konzeptionellen Grundlagen des Buches **„Die souveräne Zivilisation“** – den Folgeband zu *Das lebende Stimmrecht.*
+Dieses Repository enthält das Manuskript und die konzeptionellen Grundlagen des Buches **„Die souveräne Zivilisation“
+** – den Folgeband zu *Das lebende Stimmrecht.*
 
 Es beschreibt die Weiterentwicklung einer demokratischen Gesellschaft im digitalen Zeitalter:
 
@@ -19,10 +20,10 @@ Es beschreibt die Weiterentwicklung einer demokratischen Gesellschaft im digital
 
 ## 🔑 Zentrale Themen
 
-- das **politische Profil** als Fundament direkter Mitbestimmung  
-- der **Health Wallet** als Modell individueller Gesundheits-Souveränität  
-- ein **digitaler, transparenter Staat** ohne Bürokratie-Ballast  
-- neue Strukturen für Arbeit, Bildung, Energie und soziale Sicherheit  
+- das **politische Profil** als Fundament direkter Mitbestimmung
+- der **Health Wallet** als Modell individueller Gesundheits-Souveränität
+- ein **digitaler, transparenter Staat** ohne Bürokratie-Ballast
+- neue Strukturen für Arbeit, Bildung, Energie und soziale Sicherheit
 - der **Gesellschaftsvertrag des 21. Jahrhunderts**
 
 ---
@@ -39,15 +40,15 @@ für praxisnahe politische Reformmodelle unter dem Leitgedanken der **bürgerlic
 
 ## 🧩 Projektstruktur
 
-| Ordner / Datei | Beschreibung |
-|----------------|---------------|
-| `manuscript/` | Haupttext des Buches (Kapitel, Vorwort, Epilog) |
-| `assets/` | Bilder, Diagramme und Illustrationen |
-| `config/` | Pandoc- und Build-Konfigurationen |
-| `scripts/` | Export-, Build- und Validierungsskripte |
-| `output/` | generierte Versionen (EPUB, PDF, DOCX, Print) |
-| `LICENSE` | Lizenzinformationen |
-| `README.md` | Diese Projektbeschreibung |
+| Ordner / Datei | Beschreibung                                    |
+|----------------|-------------------------------------------------|
+| `manuscript/`  | Haupttext des Buches (Kapitel, Vorwort, Epilog) |
+| `assets/`      | Bilder, Diagramme und Illustrationen            |
+| `config/`      | Pandoc- und Build-Konfigurationen               |
+| `scripts/`     | Export-, Build- und Validierungsskripte         |
+| `output/`      | generierte Versionen (EPUB, PDF, DOCX, Print)   |
+| `LICENSE`      | Lizenzinformationen                             |
+| `README.md`    | Diese Projektbeschreibung                       |
 
 ---
 
@@ -87,7 +88,7 @@ und keine kommerzielle Nutzung erfolgt.
 
 ## 🌐 Verknüpfte Projekte
 
-* [Das lebende Stimmrecht](https://github.com/astrapi69/das-lebende-stimmrecht)
+* [Das lebende Stimmrecht](https://github.com/BurgerFreundlichePartei/lebendes-stimmrecht)
 * [BFREI – Bürgerfreundliche Reforminitiative](https://burgerfreundlichepartei.github.io/website/)
 
 ---
