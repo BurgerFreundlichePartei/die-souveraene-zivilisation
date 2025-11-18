@@ -9,8 +9,8 @@ er sollte.“*
 
 Die Demokratie des 21. Jahrhunderts leidet nicht an Ideenmangel, sondern an **Verbindungsproblemen**.  
 Zwischen Bürger und Staat klafft eine Lücke – nicht ideologisch, sondern **infrastrukturell**.  
-Während Kommunikation, Handel und Kultur längst digital organisiert sind, basiert politische Teilhabe weiterhin auf *
-*statischen Formularen**, **Wahlscheinen** und **zentralen Behördenstrukturen**.
+Während Kommunikation, Handel und Kultur längst digital organisiert sind, basiert politische Teilhabe weiterhin auf 
+**statischen Formularen**, **Wahlscheinen** und **zentralen Behördenstrukturen**.
 
 Diese Diskrepanz erzeugt Entfremdung: Der Bürger fühlt sich gehört, aber nicht verstanden; beteiligt, aber nicht
 wirksam.  
@@ -21,8 +21,8 @@ Das politische Profil schließt diese Lücke.
 ## Was das politische Profil ist
 
 Ein **politisches Profil** ist keine neue Identität, sondern eine **Erweiterung der bestehenden**.  
-Es verbindet die rechtliche, soziale und moralische Dimension des Bürgers zu einer **digitalen Souveränitätseinheit
-** –  
+Es verbindet die rechtliche, soziale und moralische Dimension des Bürgers zu einer
+ **digitalen Souveränitätseinheit** –  
 ein geschützter, verschlüsselter Raum, in dem persönliche Werte, politische Präferenzen und soziale Verantwortung
 koexistieren.
 

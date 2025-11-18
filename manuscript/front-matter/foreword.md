@@ -3,11 +3,12 @@
 > *„Demokratie beginnt dort, wo der Mensch aufhört, nur verwaltet zu werden – und anfängt, sich selbst zu gestalten.“*
 
 Wir stehen an der Schwelle einer neuen Epoche.  
+
 Der Staat, wie wir ihn kennen, ist zu einer Maschine geworden, die Daten verwaltet, aber keine Menschen mehr versteht.
 Entscheidungen werden auf Papier getroffen, obwohl unsere Realität längst digital ist. Während die Technologie in
 Lichtgeschwindigkeit voranschreitet, bleibt die politische Kultur in Denkmustern des 19. Jahrhunderts gefangen.
 
-Dieses Buch – **„Politisches Profil“** – ist die logische Fortsetzung von *„Das lebende Stimmrecht“*.  
+Dieses Buch – **„Die souveräne Zivilisation“** – ist die logische Fortsetzung von *„Das lebende Stimmrecht“*.  
 Es ist kein Manifest gegen den Staat, sondern eine Einladung zu seiner Erneuerung.  
 Nicht durch Revolution, sondern durch **Architektur** – durch die Neugestaltung der digitalen Grundlagen, auf denen
 Macht, Vertrauen und Verantwortung ruhen.
@@ -15,8 +16,8 @@ Macht, Vertrauen und Verantwortung ruhen.
 ## Vom Wähler zum Souverän
 
 Das politische Profil ist der nächste Schritt in der Evolution der Demokratie.  
-Es ersetzt Repräsentation durch **Präsenz**, Bürokratie durch **Transparenz** und Kontrolle durch **Selbstbestimmung
-**.  
+Es ersetzt Repräsentation durch **Präsenz**, Bürokratie durch **Transparenz** 
+und Kontrolle durch **Selbstbestimmung**.  
 Jeder Mensch besitzt ein Profil – **standardmäßig privat und verschlüsselt**, geschützt vor Missbrauch, aber bereit,
 öffentlich zu werden, wenn Beteiligung gewünscht ist.  
 So entsteht ein Raum, in dem politische Handlung kein Privileg, sondern eine persönliche Entscheidung ist.

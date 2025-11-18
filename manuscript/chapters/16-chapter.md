@@ -82,7 +82,7 @@ Politische Präsenz bedeutet nicht Dauerstress.
 Das System erlaubt **skalierte Mitwirkung**:
 <!-- Beteiligungsintensitäten (de, XHTML + &shy;) -->
 <table lang="de">
-  <caption>Beteiligungs­intensitäten</caption>
+  <caption>Beteiligungs&shy;intensitäten</caption>
   <thead>
     <tr>
       <th scope="col">Inten&shy;sität</th>
