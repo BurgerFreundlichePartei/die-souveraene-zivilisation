@@ -83,7 +83,8 @@ kein Diktat.
 
 ### Arbeitsteilung im Denken
 
-Kooperation bedeutet Spezialisierung:
+Kooperation bedeutet Spezialisierung:  
+
 <!-- Mensch–Maschine-Kompetenzen (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Kompetenzen von Mensch und Maschine</caption>

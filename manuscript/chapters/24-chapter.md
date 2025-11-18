@@ -26,7 +26,8 @@ statt sie nur zu zitieren.
 
 ### Die drei Säulen der lebenden Republik
 
-Die neue Ordnung ruht auf drei Säulen:
+Die neue Ordnung ruht auf drei Säulen:  
+
 <!-- Drei Säulen der digitalen Ordnung (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Die drei Säulen der digitalen Ordnung</caption>

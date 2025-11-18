@@ -54,7 +54,8 @@ wird das System selbst zum Wächter der Freiheit.
 
 ### Die neue Triade
 
-Die Demokratie der Zukunft ruht auf drei Säulen:
+Die Demokratie der Zukunft ruht auf drei Säulen:  
+
 <!-- Grundlagenprinzipien (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Grundlagen&shy;prinzipien</caption>

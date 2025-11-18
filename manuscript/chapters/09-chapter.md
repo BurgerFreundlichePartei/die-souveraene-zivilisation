@@ -89,7 +89,8 @@ es **erinnert nur, solange es nötig ist.**
 
 ### Technik der Balance
 
-Reversibilität basiert auf drei Technologien:
+Reversibilität basiert auf drei Technologien:  
+
 <!-- Kryptografische Komponenten (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Kryptografische Komponenten</caption>

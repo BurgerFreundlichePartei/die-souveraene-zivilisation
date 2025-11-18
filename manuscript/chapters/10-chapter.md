@@ -77,7 +77,8 @@ als wäre er nie abwesend gewesen.
 ### Gleichberechtigung als Infrastruktur
 
 In der neuen Architektur wird Gleichheit nicht behauptet,  
-sie wird **technisch garantiert**.
+sie wird **technisch garantiert**.  
+
 <!-- Prinzipien der digitalen Gleichheit (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Prinzipien der digitalen Gleichheit</caption>

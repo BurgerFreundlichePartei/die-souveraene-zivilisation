@@ -44,7 +44,8 @@ nicht aus Zwang, sondern aus **Freiwilligkeit mit Wirkung**.
 
 ### Die Architektur der Teilhabe
 
-Öffentliche Teilhabe funktioniert über ein mehrstufiges System:
+Öffentliche Teilhabe funktioniert über ein mehrstufiges System:  
+
 <!-- Partizipationsebenen (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Partizipationsebenen</caption>
