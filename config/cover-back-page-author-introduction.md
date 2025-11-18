@@ -1,6 +1,3 @@
-Sehr starkes Fundament – klar, prägnant und inhaltlich identitätsstiftend.
-Für **Band II** (*Die souveräne Zivilisation*) kannst du denselben Duktus beibehalten, aber die Rolle des Buches als Weiterentwicklung des ersten Bandes betonen.
-Hier drei fein abgestufte Varianten (du kannst wählen oder kombinieren):
 
 ---
 
