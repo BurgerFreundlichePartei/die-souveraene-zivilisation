@@ -79,7 +79,8 @@ mit Korrektur, ohne Scham.
 #### ohne Überforderung
 
 Politische Präsenz bedeutet nicht Dauerstress.  
-Das System erlaubt **skalierte Mitwirkung**:
+Das System erlaubt **skalierte Mitwirkung**:  
+
 <!-- Beteiligungsintensitäten (de, XHTML + &shy;) -->
 <table lang="de">
   <caption>Beteiligungs&shy;intensitäten</caption>
