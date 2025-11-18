@@ -12,7 +12,6 @@ requires = [ "poetry-core>=2.0.0,<3.0.0",]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-package-mode = false
 name = "Die souveräne Zivilisation"
 description = "Konzept und Manuskript zur Neuordnung von Staat, Gesellschaft und digitaler Souveränität. Das ist die Fortsetzung des ersten Bandes Das lebende Stimmrecht."
 [[tool.poetry.packages]]
