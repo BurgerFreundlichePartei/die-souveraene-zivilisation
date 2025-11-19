@@ -1,4 +1,4 @@
-# Politisches Profil – Die neue Architektur demokratischer Selbstbestimmung
+# Inhaltsverzeichnis
 
 [Vorwort – Zwischen Stillstand und Möglichkeit](#-vorwort)
 

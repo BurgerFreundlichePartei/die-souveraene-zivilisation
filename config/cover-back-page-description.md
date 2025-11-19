@@ -1,4 +1,4 @@
-*(Band II der Reihe „Die Architektur der Freiheit“)*
+*(Band II der Reihe „Das politische Profil – Die Architektur der Freiheit“)*
 
 **Wie sieht ein Staat aus, der wirklich dient – und nicht herrscht?**
 
