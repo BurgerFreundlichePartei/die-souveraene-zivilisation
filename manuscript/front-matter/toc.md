@@ -4,48 +4,43 @@
 
 ---
 
-## Teil I – Grundlagen der digitalen Souveränität
+## Teil I – Grundlagen
 
-1. [Einleitung – Warum das politische Profil notwendig ist](#-chapter-1)
-2. [Vom Bürger zum Datenpunkt – Wie Repräsentation verschwand](#-chapter-2)
-3. [Digitale Identität vs. politische Identität](#-chapter-3)
-4. [Vertrauen, Transparenz und Verschlüsselung als neue Staatslogik](#-chapter-4)
-5. [Das Ende des analogen Staates – Papier, Kontrolle und Trägheit](#-chapter-5)
+*Die Lücke zwischen Bürger und Staat*
 
----
-
-## Teil II – Architektur des politischen Profils
-
-6. [Grundprinzip: Selbstbestimmung durch digitale Profile](#-chapter-6)
-7. [Private Souveränität – Standardmäßig verschlüsselt und anonym](#-chapter-7)
-8. [Öffentliche Teilhabe – Aktivierungsmodus für engagierte Bürger](#-chapter-8)
-9. [Reversibilität – Jederzeit zwischen privat und öffentlich wechseln](#-chapter-9)
-10. [Keine Nachteile für Zurückhaltung – Gleichberechtigung digitaler Bürger](#-chapter-10)
-11. [Politische Profile als dezentrale Infrastruktur](#-chapter-11)
-12. [Blockchain, Zero-Knowledge und Vertrauensräume](#-chapter-12)
-13. [Datensouveränität statt Datenherrschaft – Das neue Verhältnis zwischen Bürger und Staat](#-chapter-13)
+1. [Die Lücke zwischen Bürger und Staat](#-chapter-1)
+2. [Identität im digitalen Zeitalter](#-chapter-2)
+3. [Die neue Staatslogik – Vertrauen, Transparenz, Verschlüsselung](#-chapter-3)
 
 ---
 
-## Teil III – Gesellschaft im Wandel
+## Teil II – Architektur
 
-14. [Der Bürger als Auftraggeber – Dienstleistungsstaat 2.0](#-chapter-14)
-15. [Demokratie als Betriebssystem – Updates, Patches und Beteiligung](#-chapter-15)
-16. [Von der Wahl zur Wirkung – Permanente politische Präsenz](#-chapter-16)
-17. [Digitale Teilhabe über Grenzen hinweg – Europäische Integration neu gedacht](#-chapter-17)
-18. [Souveränität im Alltag – Bildung, Verwaltung, Gesundheit, Arbeit](#-chapter-18)
-19. [Reformen durch Architektur – Nicht durch Gesetze allein](#-chapter-19)
+*Das politische Profil*
+
+4. [Das Profil als Souveränitätseinheit](#-chapter-4)
+5. [Privat und Öffentlich – Der atmende Bürger](#-chapter-5)
+6. [Die technische Architektur](#-chapter-6)
+7. [Datensouveränität – Das neue Verhältnis](#-chapter-7)
 
 ---
 
-## Teil IV – Ethik, Macht und Zukunft
+## Teil III – Transformation
 
-20. [Ethik der Transparenz – Das neue Gleichgewicht zwischen Freiheit und Verantwortung](#-chapter-20)
-21. [Algorithmische Fairness – Wie KI das politische Profil interpretiert](#-chapter-21)
-22. [Digitale Würde – Schutz der Identität als Menschenrecht](#-chapter-22)
-23. [Globale Perspektive – Vom Bürgerstaat zur Menschheitsverwaltung](#-chapter-23)
-24. [Von Kontrolle zu Kooperation – Das Ende der bürokratischen Macht](#-chapter-24)
-25. [Souveränität als gelebte Ethik – Der neue Gesellschaftsvertrag](#-chapter-25)
+*Der Staat als Dienstleister*
+
+8. [Der Bürger als Auftraggeber](#-chapter-8)
+9. [Demokratie als Betriebssystem](#-chapter-9)
+10. [Souveränität im Alltag](#-chapter-10)
+
+---
+
+## Teil IV – Ethik
+
+*Die Würde im digitalen Zeitalter*
+
+11. [Die Ethik der neuen Ordnung](#-chapter-11)
+12. [Der neue Gesellschaftsvertrag](#-chapter-12)
 
 ---
 
@@ -54,3 +49,7 @@
 [Die Rückkehr des Bewusstseins](#-epilog)
 
 ---
+
+## Anhang
+
+[Glossar](#-glossar)

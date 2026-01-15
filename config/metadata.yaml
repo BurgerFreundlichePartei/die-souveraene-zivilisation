@@ -1,21 +1,41 @@
-series: "Das politische Profil – Die Architektur der Freiheit"
+# Titel & Autor
 title: "Die souveräne Zivilisation"
 subtitle: "Architektur der Freiheit – Entwürfe für eine souveräne Gesellschaft"
 author: "Asterios Raptis"
-isbn:
-  ebook: ""
-  paperback: "9798273281950"
-  hardcover: "9798273516106"
-edition: "1. Auflage"
-publisher: "Conscious Path Publishing"
 date: "2025"
-lang: "de"
-language: "de"
+edition: "1. Auflage"
+
+# Serie
+series: "Das politische Profil – Die Architektur der Freiheit"
+volume: 2
+
+# Sprache
+lang: de-DE
+
+# Identifikation
+identifier: https://consciouspath.pub/souveraene-zivilisation
+identifiers:
+  isbn_paperback: "9798273281950"
+  isbn_hardcover: "9798273516106"
+  # isbn_ebook bleibt bewusst leer, da nicht vergeben
+
+# Verlag
+publisher: "Conscious Path Publishing"
+publisher_city: "Ludwigsburg"
+
+# Inhalt
 description: >
   Zweiter Band der Reihe *Das politische Profil – Die Architektur der Freiheit*.
   Dieses Werk entwickelt das Konzept der digitalen Souveränität und der lebenden Demokratie weiter.
   Es beschreibt die Grundlagen einer souveränen Zivilisation, in der Verantwortung, Technologie und Bewusstsein
   eine neue Ordnung bilden – eine Architektur der Freiheit.
+
+# Kategorien & Stichwörter
+subject:
+  - Politische Philosophie
+  - Digitale Ethik
+  - Gesellschaftstheorie
+  - Zukunftsforschung
 keywords:
   - politische Philosophie
   - digitale Souveränität
@@ -25,9 +45,17 @@ keywords:
   - Freiheit
   - Staat und Bürger
   - Zukunft der Politik
-output_formats: ["pdf", "epub", "docx"]
-kdp_enabled: true
-epub-stylesheet:
+
+# Technik
+css:
   - config/base-styles.css
   - config/table-styles.css
   - config/toc-styles.css
+output_formats:
+  - pdf
+  - epub
+  - docx
+kdp_enabled: true
+
+# Rechte
+rights: "© Alle Rechte vorbehalten."
