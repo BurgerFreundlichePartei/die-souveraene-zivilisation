@@ -1,4 +1,4 @@
-# Vorwort
+# Vorwort {#-vorwort}
 
 Im ersten Band dieser Reihe habe ich eine Frage gestellt: Was wäre, wenn der Bürger seine Stimme nicht mehr abgeben
 müsste, sondern sie behalten könnte? Das lebende Stimmrecht war die Antwort – ein Konzept, das Repräsentation nicht
