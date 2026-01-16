@@ -1,131 +1,146 @@
 # Glossar {#-glossar}
 
-## Zentrale Begriffe des politischen Profils
+## Begriffe im Kontext von Band 2 – *Die souveräne Zivilisation*
 
-### Politisches Profil
+Dieses Glossar erläutert ausschließlich Begriffe, die für **Struktur, Betrieb und Wirkung** des politischen Profils
+relevant sind.
+Grundlegende Begriffsherleitungen und systemische Kritik sind Gegenstand von **Band 1** und werden hier vorausgesetzt.
 
-Ein persönlicher, digitaler Raum, in dem Bürger ihre politische Identität sicher und verschlüsselt verwalten.  
-Es ersetzt repräsentative Stellvertretung durch direkte, anonyme und überprüfbare Mitwirkung.  
-Das Profil dient als Schnittstelle zwischen Bürger und Staat – ohne Überwachung, aber mit voller Nachvollziehbarkeit der
-Wirkung.
+Ziel ist nicht Vollständigkeit, sondern **funktionale Klarheit**.
 
-### Digitale Souveränität
+---
 
-Die Fähigkeit eines Menschen, über seine Daten, Identität und digitale Präsenz selbst zu bestimmen.  
-Digitale Souveränität bedeutet: Nicht Technologie nutzt uns, sondern wir nutzen Technologie – bewusst, reversibel und
-verantwortungsvoll.
+### Aggregation
 
-### Selbstbestimmung
+Die nachvollziehbare Zusammenführung individueller Präferenzen zu kollektiven Prioritäten.
+Im politischen Profil erfolgt Aggregation mathematisch transparent, nicht durch Interpretation oder Stellvertretung.
 
-Das Recht und die Fähigkeit, Entscheidungen eigenständig zu treffen – ohne Bevormundung durch Systeme oder
-Institutionen.  
-Im Kontext des politischen Profils heißt das: Bürger handeln direkt, ohne Mittler, aber mit kryptografisch gesicherter
-Verantwortung.
+### Algorithmische Verwaltung
 
-### Vertrauensraum
+Die teil- oder vollautomatisierte Ausführung administrativer Prozesse auf Basis klar definierter Regeln.
+Im Kontext von Band 2 ist entscheidend, dass Kriterien prüfbar, korrigierbar und versioniert sind.
 
-Ein digitaler, temporärer Bereich, in dem Menschen oder Institutionen zusammenarbeiten, ohne persönliche Daten
-preiszugeben.  
-Authentifizierung erfolgt über verschlüsselte Signaturen.  
-Wenn der Zweck erfüllt ist, löscht sich der Raum automatisch.  
-So wird Kooperation sicher, ohne Kontrolle.
+### Atmender Bürger
 
-### Zero-Knowledge-Proof (ZKP)
-
-Ein kryptografisches Verfahren, mit dem jemand etwas beweisen kann,  
-ohne das zugrundeliegende Wissen offenzulegen.  
-Beispiel: Man kann nachweisen, dass man wahlberechtigt ist,  
-ohne seine Identität zu zeigen.  
-ZKPs machen Datenschutz und Transparenz gleichzeitig möglich.
+Ein Systemzustand, in dem politische Teilnahme ohne Daueraktivität möglich ist.
+Engagement und Rückzug folgen einem natürlichen Rhythmus, ohne Sanktionen oder Funktionsverlust.
 
 ### Blockchain
 
-Ein dezentrales, fälschungssicheres Protokoll, das alle Transaktionen chronologisch dokumentiert.  
-Im politischen Profil wird sie nicht für Währungen,  
-sondern für **Vertrauen** genutzt – als Beweis für Integrität, nicht als Kontrollinstrument.
+Ein dezentrales, unveränderbares Protokoll zur Dokumentation von Vorgängen.
+Im politischen Profil fungiert sie als manipulationssicherer **Notar**, nicht als Kontroll- oder Währungssystem.
 
-### Digitale Identität
+### Bürgerauftrag
 
-Eine kryptografisch gesicherte Darstellung einer Person im digitalen Raum.  
-Sie verbindet Privatsphäre mit Verifizierbarkeit.  
-Im politischen Profil ersetzt sie Pass, Ausweis und Benutzerkonto – ohne zentrale Datenbank.
-
-### Reversibilität
-
-Die Fähigkeit, zwischen anonymem und öffentlichem Modus zu wechseln, ohne Spuren zu hinterlassen.  
-Bürger können politisch aktiv werden, sich aber jederzeit vollständig zurückziehen.  
-Reversibilität schützt Freiheit, indem sie Kontrolle vermeidet.
+Die formal messbare Beauftragung staatlicher Stellen durch Bürger.
+Aufträge sind zeitlich begrenzt, überprüfbar und können widerrufen oder neu priorisiert werden.
 
 ### Datensouveränität
 
-Das Recht, selbst zu entscheiden,  
-wer welche Informationen über einen erhält, speichert oder verwendet.  
-Sie ist das Gegenstück zur Datenausbeutung:  
-Nicht mehr Plattformen besitzen Daten – sondern Menschen.
+Die technisch abgesicherte Verfügungsmacht über eigene Daten.
+In Band 2 relevant als Voraussetzung für dezentrale Architektur und individuelle Konfiguration.
 
-### Dienstleistungsstaat
+### Delegation
 
-Ein Staat, der Bürger nicht verwaltet, sondern bedient.  
-Bürger formulieren Aufträge – der Staat liefert Ergebnisse.  
-Transparente Abläufe und Feedback-Schleifen ersetzen Antrag, Warten und Bürokratie.
+Die konfigurierbare und jederzeit widerrufbare Übertragung der eigenen Stimme an andere Profile.
+Delegation erweitert Handlungsspielräume, ohne Entscheidungshoheit abzugeben.
 
-### Demokratie als Betriebssystem
+### Dezentralität
 
-Die Idee, Demokratie als offenes, lernfähiges System zu verstehen.  
-Gesetze und Prozesse sind keine Dogmen, sondern „Versionen“,  
-die überarbeitet, verbessert und nachvollziehbar geändert werden können.  
-Politik wird so zur permanenten Weiterentwicklung, nicht zum Ritual.
+Ein Architekturprinzip, bei dem Daten und Entscheidungsprozesse über viele Knoten verteilt sind.
+Verhindert Machtkonzentration und Single Points of Failure.
 
-### Kryptografische Ethik
+### Episodische Demokratie
 
-Ein Leitbild, bei dem Moral im Code verankert wird.  
-Systeme dürfen nur handeln, wenn ihr Verhalten überprüfbar fair, nachvollziehbar und reversibel ist.  
-Nicht Menschen „sollen“ ethisch handeln – die Infrastruktur erzwingt es.
+Ein Modell politischer Teilhabe, das auf zeitlich begrenzte Beteiligung beschränkt ist.
+Dient in Band 2 als Abgrenzung zur permanenten, konfigurationsbasierten Präsenz.
 
-### Digitale Mündigkeit
+### Flexibilität
 
-Die Fähigkeit, sich sicher, reflektiert und selbstverantwortlich in digitalen Systemen zu bewegen.  
-Digitale Mündigkeit heißt: verstehen, wie Machtstrukturen in Technologie eingebaut sind – und sie bewusst zu nutzen,
-statt ihnen zu folgen.
+Die Fähigkeit des Systems, sich an individuelle Lebensrealitäten anzupassen.
+Konfigurationen können jederzeit geändert werden, ohne Systembruch.
 
-### Kooperationsökonomie
+### Kaskadierung
 
-Ein Wirtschaftsmodell, das auf Vertrauen, Transparenz und gemeinsamer Verantwortung beruht – nicht auf Konkurrenz.  
-Wert entsteht durch Beitrag, nicht durch Besitz.  
-Erfolg misst sich an Wirkung, nicht an Gewinn.
+Die mehrstufige Weitergabe von Delegation.
+Der ursprüngliche Bürger behält jederzeit Einblick und Eingriffsmöglichkeit entlang der gesamten Kette.
 
-### Kreislaufprinzip
+### Konfiguration
 
-Ein ethisches und ökologisches Grundprinzip, das jede Form von Verschwendung vermeidet.  
-In der digitalen Politik heißt das: Daten, Energie und Ressourcen fließen im Gleichgewicht – nichts geht verloren, alles
-kehrt zurück.
+Die Gesamtheit aller Einstellungen eines politischen Profils.
+Sie bestimmt Themen, Ebenen, Delegationen, Gewichtungen und Benachrichtigungen.
 
-### Lebende Republik
+### Permanente Präsenz
 
-Ein Gemeinwesen, das sich kontinuierlich weiterentwickelt.  
-Seine Verfassung ist kein starres Dokument, sondern ein dynamisches System,  
-das auf Feedback, Transparenz und Verantwortung basiert.  
-Die Republik „atmet“ – sie lernt, passt sich an und bleibt dadurch gerecht.
+Der Zustand, in dem ein Bürger standardmäßig am politischen Prozess beteiligt ist.
+Nicht durch Aktivität, sondern durch eine wirksame Hintergrundkonfiguration.
 
-### Freiheit
+### Politische Identität
 
-Nicht die Abwesenheit von Regeln, sondern die bewusste Wahl, sie mitzugestalten.  
-Freiheit im politischen Profil bedeutet:  
-Mitwirken, ohne überwacht zu werden.  
-Verantwortlich sein, ohne fremdbestimmt zu sein.
+Das dynamische Muster aus Werten, Prioritäten und Teilnahmemodellen eines Bürgers.
+Im politischen Profil ist sie gestaltbar und revisionsfähig.
 
-### Bewusstsein
+### Politisches Profil
 
-Der Kern des gesamten Systems.  
-Alles – Technik, Politik, Ökonomie – entsteht aus Bewusstsein.  
-Nur ein wacher Mensch kann frei handeln.  
-Deshalb ist Bewusstheit nicht Ziel, sondern Voraussetzung der neuen Demokratie.
+Die operative Souveränitätseinheit des Bürgers.
+Ein verschlüsselter, dezentral verankerter Raum, über den politische Wirkung ausgeübt wird.
 
-### Die Rückkehr des Bewusstseins
+### Präsenz
 
-Der Gedanke, dass politische Systeme nur dann lebendig bleiben,  
-wenn sie vom Menschen her gedacht werden.  
-Der Epilog des Buches beschreibt diese Rückkehr –  
-von Verwaltung zu Verstehen,  
-von Macht zu Bedeutung,  
-von System zu Seele.
+Eines der operativen Grundprinzipien: Beteiligung ohne Zwang zur ständigen Interaktion.
+Präsenz ist ein Zustand, kein Verhalten.
+
+### Reversibilität
+
+Die Fähigkeit, Entscheidungen, Delegationen und Einstellungen jederzeit zu ändern.
+Reversibilität verhindert Verhärtung und ermöglicht Lernprozesse im System.
+
+### Risikoasymmetrie
+
+Ein Ungleichgewicht, bei dem Folgen politischer Entscheidungen einseitig getragen werden.
+Band 2 analysiert, wie Architektur Risiko wieder symmetrisch verteilt.
+
+### Serviceplattform
+
+Die funktionale Rolle des Staates als ausführender Dienstleister.
+Leistung, Qualität und Wirkung werden messbar und vergleichbar.
+
+### Smart Contracts
+
+Automatisierte Vereinbarungen, die bei erfüllten Bedingungen selbstständig ausgeführt werden.
+Reduzieren Ermessensspielräume und erhöhen Nachvollziehbarkeit.
+
+### Souveränität
+
+Die technisch gesicherte Fähigkeit zur Selbstverfügung im politischen Raum.
+In Band 2 als operative Eigenschaft des Systems verstanden, nicht als philosophisches Ideal.
+
+### Souveräne Zivilisation
+
+Der Zustand, in dem politische Souveränität infrastrukturell abgesichert ist.
+Nicht Zielbild, sondern Ergebnis funktionierender Architektur.
+
+### Souveränitätseinheit
+
+Das politische Profil als abgeschlossener, dem Bürger zugeordneter Wirkraum.
+Unabhängig von staatlicher Gnade oder zentraler Verwaltung.
+
+### Symmetrische Transparenz
+
+Ein Gleichgewicht der Einsicht:
+Der Bürger sieht, was das System über ihn verarbeitet – das System sieht nur, was der Bürger freigibt.
+
+### Verschlüsselung
+
+Die mathematische Absicherung von Datenzugriff und Kommunikation.
+Im politischen Profil Grundlage für Vertrauen ohne Offenlegung.
+
+### Versionierung
+
+Die lückenlose Dokumentation von Änderungen an Regeln, Prozessen und Entscheidungen.
+Ermöglicht Rückverfolgbarkeit und Verantwortungszuordnung.
+
+### Zero-Knowledge-Proof
+
+Ein kryptografisches Verfahren, das Berechtigung nachweist, ohne Identität offenzulegen.
+Zentrale Technik für Teilnahme bei gleichzeitiger Anonymität.
