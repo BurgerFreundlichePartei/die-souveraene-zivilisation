@@ -1,0 +1,42 @@
+# TTS configuration for Die Geister der Zeit
+# All settings can be overridden via CLI flags (CLI takes priority).
+# Section order is defined centrally in export-settings.yaml (section_order.audiobook)
+
+# TTS engine: edge (recommended), google, pyttsx3, elevenlabs
+engine: edge
+
+# Language code for TTS engine
+language: de
+
+# Sections to skip during TTS processing
+# Matched against filenames without path and extension (case-insensitive)
+skip:
+  - toc
+  - toc-print
+  - bibliography
+  - imprint
+
+# Input: directory with *.md files OR path to a single .epub file
+# input: manuscript
+
+# Output: directory for generated .mp3 files
+output: audiobook/de
+
+# Overwrite existing MP3 files (default: false, skips existing)
+# overwrite: false
+
+# Merge all chapter MP3s into a single audiobook file (requires ffmpeg)
+# merge: false
+
+# Exact filename for the merged audiobook
+merge_filename: die-souveraene-zivilisation.mp3
+
+# Speech rate (pyttsx3 only)
+# rate: 200
+
+# Azure TTS voice identifier
+# See: https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support
+voice: de-DE-KatjaNeural
+# voice: de-DE-ConradNeural
+# voice: de-AT-IngridNeural
+# voice: de-AT-JonasNeural

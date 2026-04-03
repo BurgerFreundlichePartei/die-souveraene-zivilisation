@@ -1,0 +1,70 @@
+# Export-Konfiguration
+# Steuert Pandoc-Output-Formate, TOC-Verhalten, Sektionsreihenfolge und Export-Defaults.
+# Alle export_defaults können über CLI-Flags überschrieben werden (CLI hat Priorität).
+
+# Unterstützte Output-Formate und ihre Pandoc-Ziele
+formats:
+  markdown: gfm
+  pdf: pdf
+  epub: epub
+  docx: docx
+  html: html
+
+# Standard-TOC-Tiefe für automatisch generierte Inhaltsverzeichnisse
+toc_depth: 2
+
+# TOC-Dateien, die für EPUB übersprungen werden (Pandoc generiert TOC automatisch)
+epub_skip_toc_files:
+  - front-matter/toc.md
+  - front-matter/toc-print.md
+
+# Sektionsreihenfolge pro Buchtyp
+# Entspricht exakt den Listen in full_export_book.py
+section_order:
+  ebook:
+    - front-matter/toc.md
+    - front-matter/foreword.md
+    - chapters
+    - back-matter/epilogue.md
+    - back-matter/glossary.md
+    - back-matter/acknowledgments.md
+    - back-matter/about-the-author.md
+    - back-matter/bibliography.md
+    - back-matter/imprint.md
+  paperback:
+    - front-matter/toc-print.md
+    - front-matter/foreword.md
+    - chapters
+    - back-matter/epilogue.md
+    - back-matter/glossary.md
+    - back-matter/acknowledgments.md
+    - back-matter/about-the-author.md
+    - back-matter/bibliography.md
+    - back-matter/imprint.md
+
+  # Falls back to paperback
+  hardcover: null
+
+  # Audiobook: No TOC, no imprint, no bibliography
+  audiobook:
+    - front-matter/foreword.md
+    - chapters
+    - back-matter/epilogue.md
+    - back-matter/glossary.md
+    - back-matter/acknowledgments.md
+    - back-matter/about-the-author.md
+
+# Export-Defaults
+# Priorität: CLI > export_defaults > eingebaute Defaults
+export_defaults:
+  output_file: die-souveraene-zivilisation
+  lang: de
+  use_manual_toc: true         # Use toc.md instead of auto-generated TOC
+  # book_type: ebook
+  # format: pdf,epub
+  # cover: assets/covers/cover.jpg
+  # epub2: false
+  # toc_depth: 2
+  # no_type_suffix: false
+  # skip_images: false
+  # copy_epub_to: ~/Downloads
