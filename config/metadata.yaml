@@ -19,6 +19,11 @@ identifiers:
   isbn_hardcover: "9798273516106"
   # isbn_ebook bleibt bewusst leer, da nicht vergeben
 
+asin:
+  ebook: "B0G15TCWQK"
+  paperback: "B0G1C7L2HD"
+  hardcover: "B0G1GRVM8R"
+
 # Verlag
 publisher: "Conscious Path Publishing"
 publisher_city: "Ludwigsburg"
